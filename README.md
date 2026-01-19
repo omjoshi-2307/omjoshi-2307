@@ -11,13 +11,13 @@
 
 Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.  
 
-I create **real-world, production-ready software** — not just tutorials.  
-I love turning ideas into **clean, scalable, and impactful solutions**.  
+💡 I enjoy transforming **ideas into functional digital solutions**, combining **logic, creativity, and technology**.
 
-### 💡 What I Enjoy
-- 🌐 **Full-Stack Web Development**
-- 🤖 **AI & Automation**
-- 🧩 **Problem Solving & Clean Code**
+🔍 My key areas of interest include:
+- **Web Development** (Frontend + Fundamentals)  
+- **Programming & Data Structures**  
+- **Robotics & Embedded Systems**  
+- **Real-world Engineering Projects**
 
 ---
 
