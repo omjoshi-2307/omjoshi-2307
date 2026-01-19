@@ -4,10 +4,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=CF9FFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions&cacheBust=1" 
     alt="Typing SVG"
   />
 </p>
+
 
 
 ---
