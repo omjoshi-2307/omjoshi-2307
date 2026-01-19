@@ -4,10 +4,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=CF9FFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions&cacheBust=1" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=722F37&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions" 
     alt="Typing SVG"
   />
 </p>
+
 
 
 
@@ -144,7 +145,3 @@ If you’re a recruiter, mentor, or fellow developer,
 **let’s connect and build something meaningful together.** 🚀
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-1000-00F7FF?style=for-the-badge" alt="Visitor Count" />
-</p>
