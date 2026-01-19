@@ -37,6 +37,9 @@ I love turning ideas into **clean, scalable, and impactful solutions**.
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=flash"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=pulse"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&animation=flash"/> </p>
 🔹 Tools & Platforms
 <p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=pulse"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=flash"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&animation=pulse"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&animation=flash"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&animation=pulse"/> </p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -66,4 +69,3 @@ I’m here to **create value, solve real problems, and innovate**.
 > “Code with purpose, build with impact.” 🚀
 
 ---
-
