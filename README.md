@@ -114,10 +114,9 @@ I’m actively building skills in **applied AI**, including:
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=tokyonight&hide_border=true" 
-  />
+  <img src="typing-header.svg" alt="Typing Header" />
 </p>
+
 
 <p align="center">
   <img 
