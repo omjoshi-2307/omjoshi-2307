@@ -3,146 +3,120 @@
 ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full-Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real-World+Tech+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=#CF9FFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full-Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real-World+Tech+Solutions" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m **Om Joshi**, a **B.E. Information Technology student** at  
+# 👋 Hi, I'm Om Joshi
+
+### AI & Full-Stack Developer | B.E. IT Student (Pune)
+
+I’m a **B.E. Information Technology student** at  
 🎓 *Nutan Maharashtra Institute of Engineering and Technology, Pune*.
 
-I love building **real, practical software** — not just tutorials.  
-My core interests lie in:
-
-- 🌐 **Full-Stack Web Development**
-- 🤖 **Artificial Intelligence & Automation**
-- 🧠 **Problem Solving & Clean Code**
-
-I believe in **learning by building**, writing **maintainable code**, and turning ideas into **production-ready solutions**.
+I enjoy building **real-world software**, not just tutorials.  
+My focus is on writing **clean, maintainable code** and turning ideas into **practical solutions**.
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Objective
 
-- 💼 **Actively seeking internships** (Web / Full-Stack / AI roles)
-- 🚀 Strong foundation in **frontend + backend**
-- 🧠 Exploring **AI APIs, automation & ML basics**
-- 📈 Continuous learner with project-driven growth
+- 💼 Actively seeking **Software / Web / AI Internships**
+- 🌐 Strong foundation in **Full-Stack Web Development**
+- 🤖 Growing focus on **AI, automation & API-based systems**
+- 📈 Continuous learner with a project-first mindset
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Skills
 
-### 👨‍💻 Programming & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>
+### 👨‍💻 Programming Languages
+- C  
+- C++  
+- Python  
+- JavaScript  
 
 ### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
 
-### 🤖 AI / Cloud / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,gcp,git,github" />
-</p>
+### 🤖 AI / Tools / Cloud
+- Python for automation & scripting  
+- AI API integration (learning & building)  
+- Google Cloud (basics)  
+- Git & GitHub  
 
 ---
 
 ## 🤖 AI & Automation Focus
 
-I’m actively building skills in **applied AI**, including:
+I’m actively exploring **applied AI development**, including:
 
-- 🔹 Using **AI APIs** (OpenAI / Gemini – integration ready)
-- 🔹 Automating workflows with **Python**
-- 🔹 Prompt engineering & AI-assisted development
-- 🔹 Exploring ML fundamentals (data → model → output)
+- 🔹 Integrating **AI APIs** into applications  
+- 🔹 Building automation tools using **Python**  
+- 🔹 Prompt engineering & AI-assisted workflows  
+- 🔹 Understanding ML fundamentals (data → logic → output)
 
-> Goal: build **AI-powered tools**, not just demos.
+> My goal is to build **useful AI-powered systems**, not just demos.
 
 ---
 
-## 🧠 Featured Projects (Showcase)
+## 🧠 Featured Projects
 
 ### 🔹 Personal Portfolio Website
 **Tech:** HTML, CSS, JavaScript  
-- Responsive & modern UI  
-- Smooth animations  
-- Clean component-based structure  
+- Fully responsive design  
+- Clean UI with smooth animations  
+- Structured and readable codebase  
 
-➡️ *Live Demo & Code Coming Soon*
+➡️ *Live demo & repository coming soon*
 
 ---
 
 ### 🔹 AI Chat Assistant (In Progress)
-**Tech:** Python, FastAPI, AI API  
-- Conversational AI backend  
-- Modular architecture  
-- API-first design  
+**Tech:** Python, FastAPI, AI APIs  
+- Backend-focused conversational system  
+- Modular API-based architecture  
+- Designed for real-world usage  
 
 ➡️ *Internship-grade AI project*
 
 ---
 
-### 🔹 Automation Scripts
+### 🔹 Python Automation Scripts
 **Tech:** Python  
-- Task automation  
-- File handling & data processing  
-- Clean, reusable scripts  
-
-➡️ *Focused on real productivity*
-
----
-
-> 🧩 *More projects coming — quality over quantity.*
+- Task automation & file handling  
+- Productivity-focused utilities  
+- Reusable and well-documented scripts  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![Om Joshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/0m-joshi2307">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/0m.a.joshi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:omjoshi2307@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/0m-joshi2307  
+- 📷 **Instagram:** https://www.instagram.com/0m.a.joshi/  
+- 📧 **Email:** omjoshi2307@gmail.com  
 
 ---
 
 ## 📌 Final Note
 
-✨ I’m not just learning tech —  
-I’m preparing to **build value in real teams**.
+✨ I’m not just learning technology —  
+I’m preparing to **contribute value in real engineering teams**.
 
-If you’re a recruiter, mentor, or fellow developer —  
+If you’re a recruiter, mentor, or fellow developer,  
 **let’s connect and build something meaningful.** 🚀
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=omjoshi-2307&icon=5&color=00F7FF" />
-</p>
