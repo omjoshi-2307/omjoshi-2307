@@ -31,7 +31,7 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 ---
 
 ## 🧠 Core Skills & Technologies
---
+
 🔹 Programming Languages
 --
 <p align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C&animation=spin"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C&animation=pulse"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=flash"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=pulse"/> </p>
