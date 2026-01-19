@@ -30,7 +30,7 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 
 ---
 
-🧠 Core Skills & Technologies
+##🧠 Core Skills & Technologies
 
 🔹 Programming Languages
 --
