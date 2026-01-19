@@ -122,7 +122,8 @@ I’m actively building skills in **applied AI**, including:
   </a>
   <a href="https://www.linkedin.com/in/0m-joshi2307">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a href="https://www.instagram.com/0m.a.joshi/">
+  </a>
+  <a href="https://www.instagram.com/0m.a.joshi/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a> 
 </p>
