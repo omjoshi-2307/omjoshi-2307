@@ -133,12 +133,10 @@ I’m actively building skills in **applied AI**, including:
   <a href="https://www.linkedin.com/in/0m-joshi2307">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-<a href="https://www.instagram.com/0m.a.joshi/">
-  <img 
-    src="https://img.shields.io/badge/Instagram-Instagram?style=for-the-badge&logo=instagram&logoColor=white&color=ff69b4" 
-    alt="Instagram"
-  />
-</a>
+<p align="center">
+  <img src="typing-header.svg" alt="Typing Header" />
+</p>
+
 
   <a href="mailto:omjoshi2307@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -158,5 +156,5 @@ If you’re a recruiter, mentor, or fellow developer,
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomjoshi-2307&count_bg=%2300F7FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=true" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Visitors-1000-00F7FF?style=for-the-badge" alt="Visitor Count" />
 </p>
