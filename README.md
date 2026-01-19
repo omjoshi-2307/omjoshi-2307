@@ -50,60 +50,13 @@ I love turning ideas into **clean, scalable, and impactful solutions**.
 ---
 
 🧠 Skills & Proficiency
+<br>
 👨‍💻 Programming Languages
 <p align="center"> <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-75%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-70%25-lightgrey?style=for-the-badge&logo=c&logoColor=white" /> </p>
 🌐 Web Development
 <p align="center"> <img src="https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-70%25-lightblue?style=for-the-badge&logo=fastapi&logoColor=white" /> </p>
 🤖 Tools & DevOps
 <p align="center"> <img src="https://img.shields.io/badge/Git-85%25-orange?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-85%25-black?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-65%25-blue?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-60%25-blue?style=for-the-badge&logo=docker&logoColor=white" /> </p>
----
-
-## 🧩 Featured Projects
-
-### 🔹 Personal Portfolio Website
-**Tech:** HTML, CSS, JavaScript  
-**Live Demo:** [Portfolio](#)  
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.gif?text=Portfolio+Website+GIF" alt="Portfolio GIF"/>
-</p>
-- Fully responsive & modern UI  
-- Smooth animations & hover effects  
-- Clean, structured codebase  
-
----
-
-### 🔹 AI Chat Assistant *(In Progress)*
-**Tech:** Python, FastAPI, AI APIs  
-**Live Demo:** [AI Chat](#)  
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.gif?text=AI+Chat+Assistant+GIF" alt="AI Chat GIF"/>
-</p>
-- Conversational AI backend  
-- Modular, scalable architecture  
-- API-first design  
-
----
-
-### 🔹 Automation Scripts
-**Tech:** Python  
-**Live Demo:** [Scripts Repo](#)  
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.gif?text=Automation+Scripts+GIF" alt="Automation GIF"/>
-</p>
-- Task automation & productivity tools  
-- File handling & data processing  
-- Reusable & clean scripts  
-
----
-
-## 🤖 AI Showcase Carousel
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x300.gif?text=AI+Projects+Showcase" alt="AI Showcase GIF"/>
-</p>
-
-> Scroll through a mini carousel of AI-powered tools & projects I’m building.  
-
 ---
 
 ## 📈 GitHub Stats
