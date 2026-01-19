@@ -30,35 +30,13 @@ I love turning ideas into **clean, scalable, and impactful solutions**.
 
 ---
 
-## 🧠 Tech Stack
-
-### 👨‍💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,fastapi" />
-</p>
-
-### 🤖 Tools, Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gcp,docker" />
-</p>
-
----
-
-🧠 Skills & Proficiency
-<br>
-👨‍💻 Programming Languages
-<p align="center"> <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-75%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-70%25-lightgrey?style=for-the-badge&logo=c&logoColor=white" /> </p>
-🌐 Web Development
-<p align="center"> <img src="https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-70%25-lightblue?style=for-the-badge&logo=fastapi&logoColor=white" /> </p>
-🤖 Tools & DevOps
-<p align="center"> <img src="https://img.shields.io/badge/Git-85%25-orange?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-85%25-black?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-65%25-blue?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-60%25-blue?style=for-the-badge&logo=docker&logoColor=white" /> </p>
----
-
+🧠 Core Skills & Technologies
+🔹 Programming Languages
+<p align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C&animation=spin"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C&animation=pulse"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=flash"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=pulse"/> </p>
+🔹 Web Technologies
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=flash"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=pulse"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&animation=flash"/> </p>
+🔹 Tools & Platforms
+<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=pulse"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=flash"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&animation=pulse"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&animation=flash"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&animation=pulse"/> </p>
 ## 📈 GitHub Stats
 
 <p align="center">
