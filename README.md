@@ -114,18 +114,14 @@ I’m actively building skills in **applied AI**, including:
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="center">
-    <a href="mailto:omjoshi2307@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/0m-joshi2307">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/0m.a.joshi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a> 
+<p>
+  <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/0m-joshi2307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/0m.a.joshi/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
