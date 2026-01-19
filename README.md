@@ -112,12 +112,6 @@ I’m actively building skills in **applied AI**, including:
     src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true" 
   />
 </p>
-
-<p align="center">
-  <img src="typing-header.svg" alt="Typing Header" />
-</p>
-
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true" 
@@ -132,11 +126,8 @@ I’m actively building skills in **applied AI**, including:
   <a href="https://www.linkedin.com/in/0m-joshi2307">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-<p align="center">
-  <img src="typing-header.svg" alt="Typing Header" />
-</p>
-
-
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="mailto:omjoshi2307@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
