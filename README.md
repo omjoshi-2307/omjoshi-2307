@@ -1,16 +1,9 @@
-<!-- =======================
-     ANIMATED TYPING HEADER
-======================= -->
-
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=722F37&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=F4BB44&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions" 
     alt="Typing SVG"
   />
 </p>
-
-
-
 
 ---
 
