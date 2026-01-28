@@ -66,11 +66,6 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/omjoshi-2307/omjoshi-2307/blob/main/assets/gifs/particle-effect.gif?raw=true" width="180" alt="cool particle effect"/>
-</p>
-
-
 ---
 
 ## 🤝 Connect With Me
@@ -89,10 +84,5 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 
 ✨ I’m not just learning technology —  
 I’m here to **create value, solve real problems, and innovate**.  
-
-<p align="center">
-  <img src="https://github.com/omjoshi-2307/omjoshi-2307/blob/main/assets/gifs/innovation.gif?raw=true" width="180" alt="innovation animation"/>
-</p>
-
 
 > “Code with purpose, build with impact.” 🚀
