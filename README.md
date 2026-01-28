@@ -5,10 +5,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/tech-animation.gif" width="180" alt="tech animation"/>
-</p>
-
 ---
 
 ## 👋 About Me
@@ -60,9 +56,6 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&animation=pulse"/> 
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/spinning-gears.gif" width="200" alt="spinning tech gears"/>
-</p>
 
 ---
 
@@ -74,8 +67,9 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/particle-effect.gif" width="180" alt="cool particle effect"/>
+  <img src="https://github.com/omjoshi-2307/omjoshi-2307/blob/main/assets/gifs/particle-effect.gif?raw=true" width="180" alt="cool particle effect"/>
 </p>
+
 
 ---
 
@@ -97,7 +91,8 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 I’m here to **create value, solve real problems, and innovate**.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/innovation.gif" width="180" alt="innovation animation"/>
+  <img src="https://github.com/omjoshi-2307/omjoshi-2307/blob/main/assets/gifs/innovation.gif?raw=true" width="180" alt="innovation animation"/>
 </p>
+
 
 > “Code with purpose, build with impact.” 🚀
