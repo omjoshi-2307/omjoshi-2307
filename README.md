@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohc0VgLZ8v1xRY1d6/giphy.gif" width="180" alt="tech animation"/>
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/tech-animation.gif" width="180" alt="tech animation"/>
 </p>
 
 ---
@@ -37,8 +37,8 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 
 ### 🔹 Programming Languages
 <p align="center"> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C&animation=spin"/> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C&animation=pulse"/> 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&animation=spin"/> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animation=pulse"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=flash"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=pulse"/> 
 </p>
@@ -61,7 +61,7 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" alt="spinning tech gears"/>
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/spinning-gears.gif" width="200" alt="spinning tech gears"/>
 </p>
 
 ---
@@ -69,12 +69,12 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="180" alt="cool particle effect"/>
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/particle-effect.gif" width="180" alt="cool particle effect"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 I’m here to **create value, solve real problems, and innovate**.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPqrx0vX6S0iVqU/giphy.gif" width="180" alt="innovation animation"/>
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/innovation.gif" width="180" alt="innovation animation"/>
 </p>
 
 > “Code with purpose, build with impact.” 🚀
