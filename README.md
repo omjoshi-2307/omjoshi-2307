@@ -1,16 +1,11 @@
 <p align="center">
-  <!-- Cosmic Background illusion via GIF -->
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/cosmic-bg.gif" width="100%" alt="cosmic background"/>
-</p>
-
-<p align="center" style="position: relative; top: -180px;">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=F4BB44&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions" 
     alt="Typing SVG"
   />
 </p>
 
-<p align="center" style="position: relative; top: -160px;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/main/assets/gifs/tech-animation.gif" width="180" alt="tech animation"/>
 </p>
 
