@@ -63,18 +63,6 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 
 ## 🧩 Featured Projects
 
-### 🔹 Personal Portfolio Website
-**Tech:** HTML, CSS, JavaScript  
-**Live Demo:** [Portfolio](#)  
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x300.gif?text=Portfolio+Website+GIF" alt="Portfolio GIF"/>
-</p>
-
-- Fully responsive & modern UI  
-- Smooth animations & hover effects  
-- Clean, structured codebase  
-
 ### 🔹 WALL-E Autonomous Obstacle Avoiding Robot
 **Tech:** Arduino, C++  
 **GitHub:** [View Project](https://github.com/omjoshi-2307/WALL-E-Autonomous-Obstacle-Avoiding-Robot)  
@@ -85,29 +73,17 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/omjoshi-2307">
-    <img src="https://img.shields.io/github/followers/omjoshi-2307?label=Followers&style=for-the-badge&color=09C71F&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/omjoshi-2307?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/omjoshi-2307?label=Repo+Size&style=for-the-badge&color=F4BB44&logo=github" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/omjoshi-2307?tab=repositories">
-    <img src="https://img.shields.io/github/languages/count/omjoshi-2307?label=Languages&style=for-the-badge&color=61DAFB&logo=github" alt="Languages" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-100%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=omjoshi-2307&theme=highcontrast)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=flat)
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="center">
