@@ -63,17 +63,7 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 
 ## 🧩 Featured Projects
 
-### 🔹 Personal Portfolio Website
-**Tech:** HTML, CSS, JavaScript  
-**Live Demo:** [Portfolio](#)  
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x300.gif?text=Portfolio+Website+GIF" alt="Portfolio GIF"/>
-</p>
-
-- Fully responsive & modern UI  
-- Smooth animations & hover effects  
-- Clean, structured codebase  
+--
 
 ### 🔹 WALL-E Autonomous Obstacle Avoiding Robot
 **Tech:** Arduino, C++  
@@ -88,18 +78,12 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 ## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <!-- Commits, Repos, Followers -->
-  <img src="https://img.shields.io/github/commit-activity/m/omjoshi-2307?style=for-the-badge&color=61DAFB&logo=github" alt="Commits"/>
-  <img src="https://img.shields.io/github/repos/omjoshi-2307?style=for-the-badge&color=F4BB44&logo=github" alt="Repos"/>
-  <img src="https://img.shields.io/github/followers/omjoshi-2307?style=for-the-badge&color=09C71F&logo=github" alt="Followers"/>
-</p>
+  <!-- GitHub Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://img.shields.io/github/languages/top/omjoshi-2307?style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=black" alt="Top Language"/>
-  <img src="https://img.shields.io/github/languages/count/omjoshi-2307?style=for-the-badge&color=61DAFB&logo=github" alt="Languages Used"/>
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ---
 
