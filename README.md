@@ -11,13 +11,13 @@
 
 Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.  
 
-💡 I thrive on transforming **ideas into functional digital solutions**, blending **logic, creativity, and technology**.  
+💡 I love turning **ideas into real-world digital solutions**, combining **logic, creativity, and tech**.  
 
-🔍 My core interests:  
-- **Web Development** (Frontend + Fundamentals)  
+🔍 My passions include:  
+- **Web Development** (Frontend + Backend fundamentals)  
 - **Programming & Data Structures**  
 - **Robotics & Embedded Systems**  
-- **Real-world Engineering Projects**  
+- **Building real-world projects that solve problems**  
 
 ---
 
@@ -75,25 +75,31 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 - Smooth animations & hover effects  
 - Clean, structured codebase  
 
+### 🔹 WALL-E Autonomous Obstacle Avoiding Robot
+**Tech:** Arduino, C++  
+**GitHub:** [View Project](https://github.com/omjoshi-2307/WALL-E-Autonomous-Obstacle-Avoiding-Robot)  
+
+- Autonomous robot using sensors for obstacle detection  
+- Avoids collisions in real-time  
+- Great hands-on project for embedded systems & robotics  
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <!-- Main GitHub Stats (simple, static, no animation) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&include_all_commits=true&disable_animations=true" />
-
-  <!-- Top Languages Chart (static donut, no animation) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=donut&theme=tokyonight&hide_title=true&hide_border=true&disable_animations=true" />
+  <!-- Commits, Repos, Followers -->
+  <img src="https://img.shields.io/github/commit-activity/m/omjoshi-2307?style=for-the-badge&color=61DAFB&logo=github" alt="Commits"/>
+  <img src="https://img.shields.io/github/repos/omjoshi-2307?style=for-the-badge&color=F4BB44&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/github/followers/omjoshi-2307?style=for-the-badge&color=09C71F&logo=github" alt="Followers"/>
 </p>
 
 <p align="center">
-  <!-- Backup Static Language Badges -->
-  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-100%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <!-- Top Languages -->
+  <img src="https://img.shields.io/github/languages/top/omjoshi-2307?style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=black" alt="Top Language"/>
+  <img src="https://img.shields.io/github/languages/count/omjoshi-2307?style=for-the-badge&color=61DAFB&logo=github" alt="Languages Used"/>
 </p>
+
 
 ---
 
