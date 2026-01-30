@@ -75,15 +75,27 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Overview
 
 <p align="center">
-  <!-- GitHub Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/omjoshi-2307">
+    <img src="https://img.shields.io/github/followers/omjoshi-2307?label=Followers&style=for-the-badge&color=09C71F&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/omjoshi-2307?tab=repositories">
+    <img src="https://img.shields.io/github/repo-size/omjoshi-2307?label=Repo+Size&style=for-the-badge&color=F4BB44&logo=github" alt="Repo Size" />
+  </a>
+  <a href="https://github.com/omjoshi-2307?tab=repositories">
+    <img src="https://img.shields.io/github/languages/count/omjoshi-2307?label=Languages&style=for-the-badge&color=61DAFB&logo=github" alt="Languages" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-100%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
 
 ---
 
