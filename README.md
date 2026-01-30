@@ -66,43 +66,25 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 ### 🔹 Personal Portfolio Website
 **Tech:** HTML, CSS, JavaScript  
 **Live Demo:** [Portfolio](#)  
+
 <p align="center">
   <img src="https://via.placeholder.com/700x300.gif?text=Portfolio+Website+GIF" alt="Portfolio GIF"/>
 </p>
+
 - Fully responsive & modern UI  
 - Smooth animations & hover effects  
 - Clean, structured codebase  
-
-### 🔹 AI Chat Assistant *(In Progress)*
-**Tech:** Python, FastAPI, AI APIs  
-**Live Demo:** [AI Chat](#)  
-<p align="center">
-  <img src="https://via.placeholder.com/700x300.gif?text=AI+Chat+Assistant+GIF" alt="AI Chat GIF"/>
-</p>
-- Conversational AI backend  
-- Modular, scalable architecture  
-- API-first design  
-
-### 🔹 Automation Scripts
-**Tech:** Python  
-**Live Demo:** [Scripts Repo](#)  
-<p align="center">
-  <img src="https://via.placeholder.com/700x300.gif?text=Automation+Scripts+GIF" alt="Automation GIF"/>
-</p>
-- Task automation & productivity tools  
-- File handling & data processing  
-- Reusable & clean scripts  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight" />
+  <!-- Main GitHub Stats (simple, static, no animation) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&include_all_commits=true&disable_animations=true" />
 
-  <!-- Top Languages Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=donut&theme=tokyonight" />
+  <!-- Top Languages Chart (static donut, no animation) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=donut&theme=tokyonight&hide_title=true&hide_border=true&disable_animations=true" />
 </p>
 
 <p align="center">
@@ -112,7 +94,6 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
   <img src="https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-100%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
-
 
 ---
 
