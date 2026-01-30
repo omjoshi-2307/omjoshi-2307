@@ -63,7 +63,17 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 
 ## 🧩 Featured Projects
 
---
+### 🔹 Personal Portfolio Website
+**Tech:** HTML, CSS, JavaScript  
+**Live Demo:** [Portfolio](#)  
+
+<p align="center">
+  <img src="https://via.placeholder.com/700x300.gif?text=Portfolio+Website+GIF" alt="Portfolio GIF"/>
+</p>
+
+- Fully responsive & modern UI  
+- Smooth animations & hover effects  
+- Clean, structured codebase  
 
 ### 🔹 WALL-E Autonomous Obstacle Avoiding Robot
 **Tech:** Arduino, C++  
@@ -95,7 +105,6 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
   <img src="https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-100%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
-
 
 ---
 
