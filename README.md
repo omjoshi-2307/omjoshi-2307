@@ -98,9 +98,21 @@ Hey! I’m **Om Joshi**, a **B.E. IT student** at *NMIET, Pune*.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight" />
+
+  <!-- Top Languages Chart -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=donut&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <!-- Backup Static Language Badges -->
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-100%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
 
 ---
 
