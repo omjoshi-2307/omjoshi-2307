@@ -189,7 +189,7 @@ jobs:
 
 **Step 2:** Go to **Actions tab** → click the workflow → **Run workflow**.
 
-**Step 3:** After it runs, delete the badge below and uncomment the SVG line.
+**Step 3:** After it finishes, delete the badge below and uncomment the SVG line.
 
 </details>
 
@@ -197,7 +197,7 @@ jobs:
 
 ![3D Graph](https://img.shields.io/badge/Run_the_GitHub_Action_above_to_unlock_3D_Graph-00FFD1?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00FFD1)
 
-<!-- After running Action, delete badge above and uncomment: -->
+<!-- After running Action above, delete the badge and uncomment this line: -->
 <!-- ![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 </div>
