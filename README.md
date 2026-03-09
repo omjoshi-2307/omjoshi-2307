@@ -1,28 +1,26 @@
-<!-- ================= HEADER BANNER ================= -->
+<!-- ================= MATRIX RAIN HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Om%20Joshi&fontSize=50&fontColor=F4BB44&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Om%20Joshi&fontSize=50&fontColor=00FF9C&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=F4BB44&center=true&vCenter=true&width=750&lines=Hi+I'm+Om+Joshi;AI+Developer+%7C+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions;Future+AI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00FF9C&center=true&vCenter=true&width=750&lines=Hi+I'm+Om+Joshi;AI+Developer+%7C+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions;Future+AI+Engineer"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</p>
-
-<hr>
-
-<!-- ================= MATRIX GIF ================= -->
-
-<p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250">
+<img src="https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge"/>
 </p>
 
 <hr>
 
-<!-- ================= TERMINAL PROFILE ================= -->
+<!-- ================= MATRIX BACKGROUND ================= -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700">
+</p>
+
+<hr>
 
 <h2 align="center">💻 Hacker Terminal Profile</h2>
 
@@ -46,20 +44,16 @@ Robotics
 Automation
 
 > mission
-Build powerful technology that solves real-world problems
+Build technology that solves real-world problems
 </pre>
 
 <hr>
-
-<!-- ================= ABOUT ================= -->
 
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
 
-I’m <b>Om Joshi</b>, a passionate <b>B.E. IT student from Pune</b>.
-
-I enjoy transforming <b>ideas into real digital products</b> using code and creativity.
+I’m <b>Om Joshi</b>, a passionate <b>B.E IT student</b> from Pune.
 
 Focused on building projects in:
 
@@ -72,8 +66,6 @@ Automation Tools
 
 <hr>
 
-<!-- ================= TECH STACK ================= -->
-
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
@@ -84,9 +76,7 @@ Automation Tools
 
 <hr>
 
-<!-- ================= GITHUB DASHBOARD ================= -->
-
-<h2 align="center">📊 GitHub Stats Dashboard</h2>
+<h2 align="center">📊 GitHub Dashboard</h2>
 
 <p align="center">
 
@@ -98,8 +88,6 @@ Automation Tools
 
 <hr>
 
-<!-- ================= STREAK ================= -->
-
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
@@ -109,8 +97,6 @@ Automation Tools
 </p>
 
 <hr>
-
-<!-- ================= ACTIVITY GRAPH ================= -->
 
 <h2 align="center">⌨️ Coding Activity</h2>
 
@@ -122,31 +108,15 @@ Automation Tools
 
 <hr>
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-<h2 align="center">🧊 3D Contribution Graph</h2>
+<h2 align="center">🧊 TRUE 3D Contribution Cube</h2>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight"/>
+<img src="https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/profile-night-rainbow.svg">
 
 </p>
 
 <hr>
-
-<!-- ================= TROPHIES ================= -->
-
-<h2 align="center">🏆 GitHub Trophy Board</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
-<hr>
-
-<!-- ================= SNAKE ================= -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -158,7 +128,76 @@ Automation Tools
 
 <hr>
 
-<!-- ================= FEATURED PROJECT ================= -->
+<h2 align="center">🏆 GitHub Trophy Board</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+<hr>
+
+<h2 align="center">📊 Visitor Heatmap</h2>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=omjoshi-2307&theme=tokyonight">
+
+</p>
+
+<hr>
+
+<h2 align="center">⏱ WakaTime Coding Stats</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=omjoshi"/>
+
+</p>
+
+<hr>
+
+<h2 align="center">🧠 AI Projects Showcase</h2>
+
+<p align="center">
+
+<b>Upcoming AI Projects</b>
+
+AI Chatbot  
+AI Resume Analyzer  
+AI Code Assistant  
+Automation Bots  
+
+</p>
+
+<hr>
+
+<h2 align="center">📚 Latest Blog Posts</h2>
+
+<p align="center">
+
+<!-- BLOG-POST-LIST:START -->
+• How I Built My First AI Project  
+• Understanding Full Stack Development  
+• AI Tools Every Developer Should Know  
+<!-- BLOG-POST-LIST:END -->
+
+</p>
+
+<hr>
+
+<h2 align="center">🤖 AI Tools I Use</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-AI-green?style=for-the-badge&logo=openai">
+<img src="https://img.shields.io/badge/GitHub_Copilot-AI-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/AI_Automation-Tools-blueviolet?style=for-the-badge">
+
+</p>
+
+<hr>
 
 <h2 align="center">🚀 Featured Project</h2>
 
@@ -184,8 +223,6 @@ Tech Used: Arduino • C++
 
 <hr>
 
-<!-- ================= SPOTIFY ================= -->
-
 <h2 align="center">🎧 Spotify</h2>
 
 <p align="center">
@@ -196,8 +233,6 @@ Tech Used: Arduino • C++
 
 <hr>
 
-<!-- ================= DISCORD ================= -->
-
 <h2 align="center">💬 Discord Status</h2>
 
 <p align="center">
@@ -207,8 +242,6 @@ Tech Used: Arduino • C++
 </p>
 
 <hr>
-
-<!-- ================= SOCIALS ================= -->
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -238,12 +271,8 @@ Tech Used: Arduino • C++
 
 <hr>
 
-<!-- ================= FOOTER ================= -->
-
 <p align="center">
-
 <b>Code with purpose. Build with impact.</b>
-
 </p>
 
 <p align="center">
