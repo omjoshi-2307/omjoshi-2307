@@ -1,3 +1,7 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--           OM JOSHI — ULTIMATE README (FINAL)               -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=280&section=header&text=Om%20Joshi&fontSize=72&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Robotics%20Builder&descSize=17&descAlignY=62&descColor=a0c4ff&stroke=00FFD1&strokeWidth=2"/>
@@ -148,6 +152,103 @@ class OmJoshi:
 
 <br/>
 
+<!-- Contribution Heatmap -->
+<div align="center">
+<img src="https://ghchart.rshah.org/00FFD1/omjoshi-2307" alt="Contribution Heatmap"/>
+</div>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════ 3D GRAPH -->
+
+<h2 align="center">🌐 3D Contribution Globe</h2>
+
+<details>
+<summary><b>Click to Setup 3D Contribution Graph — 5 min, one-time</b></summary>
+<br/>
+
+**Step 1:** In your `omjoshi-2307` profile repo, create `.github/workflows/profile-3d.yml`:
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: omjoshi-2307
+      - name: Commit and Push
+        run: |
+          git config user.email action@github.com
+          git config user.name GitHub Action
+          git add -A .
+          git commit -m "Generate 3D Contribution Graph"
+          git push
+```
+
+**Step 2:** Go to **Actions tab** → click the workflow → **Run workflow**.
+
+**Step 3:** After it finishes, delete the badge below and uncomment the SVG line.
+
+</details>
+
+<div align="center">
+
+![3D Graph](https://img.shields.io/badge/Run_the_GitHub_Action_above_to_unlock_3D_Graph-00FFD1?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00FFD1)
+
+<!-- After running Action above, delete the badge and uncomment this line: -->
+<!-- ![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg) -->
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════ LEETCODE -->
+
+<h2 align="center">🧩 LeetCode Stats</h2>
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/omjoshi2307?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/omjoshi2307)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════ PROJECTS -->
+
+<h2 align="center">🚀 AI Projects Showcase</h2>
+
+<div align="center">
+
+| &nbsp; | Project | Description | Stack | Status |
+|:---:|:--------|:------------|:------|:------:|
+| 🤖 | **AI Chatbot Engine** | Multi-turn conversational assistant with persistent context memory and RAG retrieval | `Python` `OpenAI` `LangChain` `FastAPI` | ![Active](https://img.shields.io/badge/-Active-00ffd1?style=flat-square&labelColor=0d1117) |
+| 📄 | **AI Resume Analyzer** | Smart ATS parser that extracts skills, scores fit, and gives tailored feedback | `Python` `spaCy` `NLP` `Streamlit` | ![Active](https://img.shields.io/badge/-Active-00ffd1?style=flat-square&labelColor=0d1117) |
+| 💻 | **AI Code Assistant** | Copilot-style code generation, review and bug-fix tool with multi-language support | `Python` `LLMs` `LangChain` | ![Building](https://img.shields.io/badge/-Building-f59e0b?style=flat-square&labelColor=0d1117) |
+| ⚙️ | **Automation Suite** | Modular web scraping and workflow automation toolkit | `Python` `Selenium` `Playwright` | ![Active](https://img.shields.io/badge/-Active-00ffd1?style=flat-square&labelColor=0d1117) |
+| 🧠 | **RAG Knowledge Base** | Private document Q&A using vector search and LLMs | `Python` `FAISS` `LangChain` `Pinecone` | ![Building](https://img.shields.io/badge/-Building-f59e0b?style=flat-square&labelColor=0d1117) |
+| 🛸 | **WALL-E Robot** | Autonomous obstacle-avoiding robot with ultrasonic sensors | `Arduino` `C++` `Embedded` | ![Shipped](https://img.shields.io/badge/-Shipped-a855f7?style=flat-square&labelColor=0d1117) |
+
+</div>
+
+<br/>
+
 <h2 align="center">📌 Featured Repositories</h2>
 
 <div align="center">
@@ -200,13 +301,25 @@ class OmJoshi:
 
 <!-- ═══════════════════════════════════════════════════ SPOTIFY -->
 
-<h2 align="center">🎧 Currently Vibing To</h2>
+<h2 align="center">🎧 Music Taste</h2>
 
 <div align="center">
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31kgeuzo4ndmxwj3damf2uhjc4n4&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kgeuzo4ndmxwj3damf2uhjc4n4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00ffd1&bar_color_cover=true" width="420" alt="Spotify Now Playing"/>
-</a>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31kgeuzo4ndmxwj3damf2uhjc4n4)
+
+![Lo-Fi](https://img.shields.io/badge/Lo--Fi_Hip_Hop-00FFD1?style=flat-square&labelColor=0d1117&logo=spotify&logoColor=00FFD1)
+&nbsp;
+![Phonk](https://img.shields.io/badge/Phonk-a855f7?style=flat-square&labelColor=0d1117&logo=spotify&logoColor=a855f7)
+&nbsp;
+![Dark Trap](https://img.shields.io/badge/Dark_Trap-0096FF?style=flat-square&labelColor=0d1117&logo=spotify&logoColor=0096FF)
+&nbsp;
+![Synthwave](https://img.shields.io/badge/Synthwave-f59e0b?style=flat-square&labelColor=0d1117&logo=spotify&logoColor=f59e0b)
+&nbsp;
+![Study Music](https://img.shields.io/badge/Study_Music-ff6b6b?style=flat-square&labelColor=0d1117&logo=spotify&logoColor=ff6b6b)
+
+<br/>
+
+> *Coding hits different with the right playlist 🎵*
 
 </div>
 
