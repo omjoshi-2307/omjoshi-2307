@@ -148,7 +148,7 @@ class OmJoshi:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ PROJECTS -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <h2 align="center">📌 Featured Repositories</h2>
 
