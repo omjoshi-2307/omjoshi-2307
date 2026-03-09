@@ -1,87 +1,251 @@
-<!-- ======================= BANNER ======================= -->
+<!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Om%20Joshi&fontSize=50&fontColor=F4BB44&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Om%20Joshi&fontSize=50&fontColor=F4BB44&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=F4BB44&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Om+Joshi;AI+%26+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=F4BB44&center=true&vCenter=true&width=750&lines=Hi+I'm+Om+Joshi;AI+Developer+%7C+Full+Stack+Developer;B.E.+IT+Student+%7C+Pune;Building+Real+World+Tech+Solutions;Future+AI+Engineer"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=omjoshi-2307&label=Profile+Visitors&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
----
+<hr>
 
-# 💻 Hacker Terminal Profile
+<!-- ================= MATRIX GIF ================= -->
 
-```bash
+<p align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250">
+</p>
+
+<hr>
+
+<!-- ================= TERMINAL PROFILE ================= -->
+
+<h2 align="center">💻 Hacker Terminal Profile</h2>
+
+<pre>
 > whoami
 Om Joshi
 
 > role
 AI Developer | Full Stack Developer
 
+> education
+B.E Information Technology
+
 > location
 Pune, India
 
-> education
-B.E. Information Technology
-
 > interests
-AI | Web Development | Robotics | Automation
+Artificial Intelligence
+Web Development
+Robotics
+Automation
 
 > mission
-Build technology that solves real-world problems
-👋 About Me
+Build powerful technology that solves real-world problems
+</pre>
 
-Hey! I’m Om Joshi, a B.E. IT student at NMIET, Pune.
+<hr>
 
-💡 I love turning ideas into real-world digital solutions, combining logic, creativity, and tech.
+<!-- ================= ABOUT ================= -->
 
-🔍 My passions include:
+<h2 align="center">👋 About Me</h2>
 
-• Web Development
-• Programming & Data Structures
-• Robotics & Embedded Systems
-• AI APIs & Automation
-• Building impactful projects
+<p align="center">
 
-🎯 Career Focus
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=61DAFB&center=true&width=650&lines=💼+Seeking+Web%2FFull-Stack%2F+AI+Internships;🚀+Strong+Frontend+%26+Backend+Skills;🤖+Exploring+AI+APIs+%26+Machine+Learning;📈+Project-driven+Learning"/> </p>
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nextjs,git,github,arduino,vscode,gcp"/> </p>
-📊 GitHub Stats Dashboard
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🔥 GitHub Streak Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=tokyonight&hide_border=true"/> </p>
-🧊 3D Contribution Graph
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
-🏆 GitHub Trophy Board
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=algolia&no-frame=true&row=1&column=7"/> </p>
-⌨️ Coding Activity (Auto Updated)
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&theme=tokyo-night"/> </p>
-🧩 Featured Project
-🤖 WALL-E Autonomous Obstacle Avoiding Robot
+I’m <b>Om Joshi</b>, a passionate <b>B.E. IT student from Pune</b>.
 
-Tech: Arduino, C++
+I enjoy transforming <b>ideas into real digital products</b> using code and creativity.
 
-🔗 https://github.com/omjoshi-2307/WALL-E-Autonomous-Obstacle-Avoiding-Robot
+Focused on building projects in:
 
-Features:
+AI Development  
+Full Stack Web Development  
+Robotics & Embedded Systems  
+Automation Tools  
 
-• Autonomous obstacle detection
-• Real-time collision avoidance
-• Embedded robotics project
+</p>
 
-🎧 Spotify Widget
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=spotify&cover_image=true&theme=novatorem"/> </p>
-💬 Discord Status
-<p align="center"> <img src="https://lanyard.cnrad.dev/api/discord-id"/> </p>
-🤖 AI Assistant Badge
-<p align="center"> <img src="https://img.shields.io/badge/Built%20with-AI%20Tools-blueviolet?style=for-the-badge&logo=openai"/> </p>
-🌐 Connect With Me
-<p align="center"> <a href="mailto:omjoshi2307@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/0m-joshi2307"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/omjoshi-2307"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://x.com/omjoshi_2307"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/> </a> <a href="https://www.instagram.com/0m.a.joshi/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/> </a> </p>
+<hr>
+
+<!-- ================= TECH STACK ================= -->
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nextjs,git,github,vscode,arduino,gcp"/>
+
+</p>
+
+<hr>
+
+<!-- ================= GITHUB DASHBOARD ================= -->
+
+<h2 align="center">📊 GitHub Stats Dashboard</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<hr>
+
+<!-- ================= STREAK ================= -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<hr>
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+<h2 align="center">⌨️ Coding Activity</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&theme=tokyo-night"/>
+
+</p>
+
+<hr>
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+<h2 align="center">🧊 3D Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight"/>
+
+</p>
+
+<hr>
+
+<!-- ================= TROPHIES ================= -->
+
+<h2 align="center">🏆 GitHub Trophy Board</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+<hr>
+
+<!-- ================= SNAKE ================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+<hr>
+
+<!-- ================= FEATURED PROJECT ================= -->
+
+<h2 align="center">🚀 Featured Project</h2>
+
+<p align="center">
+
+<b>WALL-E Autonomous Obstacle Avoiding Robot</b>
+
+</p>
+
+<p align="center">
+
+Tech Used: Arduino • C++
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/omjoshi-2307/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
+<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<hr>
+
+<!-- ================= SPOTIFY ================= -->
+
+<h2 align="center">🎧 Spotify</h2>
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=spotify&cover_image=true&theme=novatorem">
+
+</p>
+
+<hr>
+
+<!-- ================= DISCORD ================= -->
+
+<h2 align="center">💬 Discord Status</h2>
+
+<p align="center">
+
+<img src="https://lanyard.cnrad.dev/api/discord-id">
+
+</p>
+
+<hr>
+
+<!-- ================= SOCIALS ================= -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="mailto:omjoshi2307@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/0m-joshi2307">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/omjoshi-2307">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://x.com/omjoshi_2307">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x">
+</a>
+
+<a href="https://www.instagram.com/0m.a.joshi">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+</p>
+
+<hr>
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+
+<b>Code with purpose. Build with impact.</b>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
