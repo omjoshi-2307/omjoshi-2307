@@ -1,4 +1,4 @@
-<!-- ================= MATRIX RAIN HEADER ================= -->
+<!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Om%20Joshi&fontSize=50&fontColor=00FF9C&animation=fadeIn"/>
@@ -14,7 +14,7 @@
 
 <hr>
 
-<!-- ================= MATRIX BACKGROUND ================= -->
+<!-- ================= MATRIX ================= -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700">
@@ -91,9 +91,7 @@ Automation Tools
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <hr>
@@ -101,9 +99,7 @@ Automation Tools
 <h2 align="center">⌨️ Coding Activity</h2>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&theme=tokyo-night"/>
-
 </p>
 
 <hr>
@@ -111,9 +107,7 @@ Automation Tools
 <h2 align="center">🧊 TRUE 3D Contribution Cube</h2>
 
 <p align="center">
-
 <img src="https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/profile-night-rainbow.svg">
-
 </p>
 
 <hr>
@@ -121,9 +115,7 @@ Automation Tools
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
 </p>
 
 <hr>
@@ -131,9 +123,7 @@ Automation Tools
 <h2 align="center">🏆 GitHub Trophy Board</h2>
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=algolia&no-frame=true&row=1&column=7"/>
-
 </p>
 
 <hr>
@@ -141,9 +131,7 @@ Automation Tools
 <h2 align="center">📊 Visitor Heatmap</h2>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=omjoshi-2307&theme=tokyonight">
-
 </p>
 
 <hr>
@@ -151,9 +139,7 @@ Automation Tools
 <h2 align="center">⏱ WakaTime Coding Stats</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=omjoshi"/>
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Om__a_joshi&theme=tokyonight">
 </p>
 
 <hr>
@@ -161,8 +147,6 @@ Automation Tools
 <h2 align="center">🧠 AI Projects Showcase</h2>
 
 <p align="center">
-
-<b>Upcoming AI Projects</b>
 
 AI Chatbot  
 AI Resume Analyzer  
@@ -178,8 +162,8 @@ Automation Bots
 <p align="center">
 
 <!-- BLOG-POST-LIST:START -->
-• How I Built My First AI Project  
-• Understanding Full Stack Development  
+• Building My First AI App  
+• Full Stack Learning Journey  
 • AI Tools Every Developer Should Know  
 <!-- BLOG-POST-LIST:END -->
 
@@ -202,23 +186,17 @@ Automation Bots
 <h2 align="center">🚀 Featured Project</h2>
 
 <p align="center">
-
 <b>WALL-E Autonomous Obstacle Avoiding Robot</b>
-
 </p>
 
 <p align="center">
-
 Tech Used: Arduino • C++
-
 </p>
 
 <p align="center">
-
 <a href="https://github.com/omjoshi-2307/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
 <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 <hr>
@@ -226,9 +204,7 @@ Tech Used: Arduino • C++
 <h2 align="center">🎧 Spotify</h2>
 
 <p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=spotify&cover_image=true&theme=novatorem">
-
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kgeuzo4ndmxwj3damf2uhjc4n4&cover_image=true&theme=novatorem">
 </p>
 
 <hr>
@@ -236,9 +212,7 @@ Tech Used: Arduino • C++
 <h2 align="center">💬 Discord Status</h2>
 
 <p align="center">
-
-<img src="https://lanyard.cnrad.dev/api/discord-id">
-
+<img src="https://lanyard.cnrad.dev/api/1289623905601847410">
 </p>
 
 <hr>
