@@ -134,21 +134,18 @@ class OmJoshi:
 
 <br/>
 
-<!-- Contribution Activity Graph -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=0096ff&point=a855f7&area=true&hide_border=true&custom_title=Om%27s+Contribution+Activity+Graph&area_color=00ffd122"/>
 </div>
 
 <br/>
 
-<!-- Contribution Heatmap -->
 <div align="center">
 <img src="https://ghchart.rshah.org/00FFD1/omjoshi-2307" alt="Contribution Heatmap"/>
 </div>
 
 <br/>
 
-<!-- Trophies -->
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
@@ -192,16 +189,15 @@ jobs:
 
 **Step 2:** Go to **Actions tab** → click the workflow → **Run workflow**.
 
-**Step 3:** After it runs, **delete the badge line** below and **uncomment the SVG line**.
+**Step 3:** After it runs, delete the badge below and uncomment the SVG line.
 
 </details>
 
 <div align="center">
 
-<!-- BEFORE Action runs — shows a clean placeholder badge -->
 ![3D Graph](https://img.shields.io/badge/Run_the_GitHub_Action_above_to_unlock_3D_Graph-00FFD1?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00FFD1)
 
-<!-- AFTER Action runs — delete badge above and uncomment this: -->
+<!-- After running Action, delete badge above and uncomment: -->
 <!-- ![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 </div>
@@ -255,49 +251,9 @@ jobs:
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<details>
-<summary><b>Click to Setup Contribution Snake — 2 min, one-time</b></summary>
-<br/>
-
-**Step 1:** In your profile repo, create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: omjoshi-2307
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2:** Go to **Actions tab** → click the workflow → **Run workflow**.
-
-**Step 3:** After it runs, **delete the badge line** below and **uncomment the Snake line**.
-
-</details>
-
 <div align="center">
 
-<!-- BEFORE Action runs — shows a clean placeholder badge -->
-![Snake](https://img.shields.io/badge/Run_the_GitHub_Action_above_to_unlock_Snake_Animation-00FFD1?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00FFD1)
-
-<!-- AFTER Action runs — delete badge above and uncomment this: -->
-<!-- ![Snake](https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake-dark.svg) -->
+![Snake](https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -369,6 +325,4 @@ jobs:
 
 <!-- ═══════════════════════════════════════════════════ FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=140&section=footer&text=Thanks+for+visiting!+Drop+a+Star+if+you+like+this!&fontSize=15&fontColor=00FFD1&animation=fadeIn&fontAlignY=65"/> 
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=140&section=footer&text=Thanks+for+visiting!+Drop+a+Star+if+you+like+this!&fontSize=15&fontColor=00FFD1&animation=fadeIn&fontAlignY=65"/>
