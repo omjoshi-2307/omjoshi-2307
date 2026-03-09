@@ -148,6 +148,8 @@ class OmJoshi:
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════ PROJECTS -->
+
 <h2 align="center">📌 Featured Repositories</h2>
 
 <div align="center">
