@@ -256,4 +256,4 @@ class OmJoshi:
 
 <!-- ═══════════════════════════════════════════════════ FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=140&section=footer&text=Thanks+for+visiting!+Drop+a+Star+if+you+like+this!&fontSize=15&fontColor=00FFD1&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=160&section=footer&text=Thanks+for+visiting!+Drop+a+%E2%AD%90+if+you+like+this!&fontSize=18&fontColor=00FFD1&animation=fadeIn&fontAlignY=45"/>
