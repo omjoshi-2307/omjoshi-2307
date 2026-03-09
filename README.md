@@ -124,28 +124,42 @@ class OmJoshi:
 
 <h2 align="center">📈 GitHub Intelligence Dashboard</h2>
 
+<!-- Row 1: Profile Summary Cards — never rate limited -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FFD1&icon_color=a855f7&text_color=a0c4ff"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00FFD1&text_color=a0c4ff"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omjoshi-2307&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omjoshi-2307&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omjoshi-2307&theme=tokyonight"/>
 
 </div>
 
 <br/>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- Contribution Activity Graph -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=0096ff&point=a855f7&area=true&hide_border=true&custom_title=Om%27s+Contribution+Activity+Graph&area_color=00ffd122"/>
 </div>
 
 <br/>
 
+<!-- Contribution Heatmap -->
 <div align="center">
 <img src="https://ghchart.rshah.org/00FFD1/omjoshi-2307" alt="Contribution Heatmap"/>
 </div>
 
 <br/>
 
+<!-- Trophies -->
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
@@ -239,9 +253,13 @@ jobs:
 
 <div align="center">
 
-[![WALL-E Robot](https://github-readme-stats.vercel.app/api/pin/?username=omjoshi-2307&repo=WALL-E-Autonomous-Obstacle-Avoiding-Robot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=a855f7&text_color=a0c4ff)](https://github.com/omjoshi-2307/WALL-E-Autonomous-Obstacle-Avoiding-Robot)
-&nbsp;&nbsp;
-[![Jal Sanchaee Navachar](https://github-readme-stats.vercel.app/api/pin/?username=omjoshi-2307&repo=Jal-Sanchaee-Navachar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=a855f7&text_color=a0c4ff)](https://github.com/omjoshi-2307/Jal-Sanchaee-Navachar)
+<a href="https://github.com/omjoshi-2307/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
+<img src="https://img.shields.io/badge/🤖_WALL--E_Robot-Autonomous_Obstacle_Avoiding-00FFD1?style=for-the-badge&labelColor=0d1117&logo=arduino&logoColor=00FFD1"/>
+</a>
+&nbsp;
+<a href="https://github.com/omjoshi-2307/Jal-Sanchaee-Navachar">
+<img src="https://img.shields.io/badge/💧_Jal_Sanchaee_Navachar-Water_Conservation_Innovation-0096FF?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=0096FF"/>
+</a>
 
 </div>
 
