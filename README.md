@@ -1,9 +1,5 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,35:0d1f2d,70:0f3460,100:16213e&height=260&section=header&text=Om%20Joshi&fontSize=70&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=Student%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Full%20Stack%20%26%20Robotics%20Enthusiast&descSize=16&descAlignY=62&descColor=a0c4ff&stroke=00FFD1&strokeWidth=2"/>
-
-</div>
-
+<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=280&section=header&text=Om%20Joshi&fontSize=72&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Robotics%20Builder&descSize=17&descAlignY=62&descColor=a0c4ff&stroke=00FFD1&strokeWidth=2"/> </div>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=22\&pause=900\&color=00FFD1\&center=true\&vCenter=true\&random=false\&width=820\&lines=Building+real+projects+with+AI%2C+Code+%26+Creativity;Python+%7C+React+%7C+FastAPI+%7C+Node.js;LangChain+%7C+RAG+%7C+LLM+Apps+%7C+Robotics;Open+to+Collabs%2C+Hackathons+%26+Internships)](https://git.io/typing-svg)
