@@ -83,26 +83,12 @@ class OmJoshi:
 
 <!-- ═══════════════════════════════════════════════════ TECH STACK -->
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
-<h4 align="center">Languages</h4>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts&theme=dark"/>
-</p>
-
-<h4 align="center">Frontend</h4>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
-</p>
-
-<h4 align="center">Backend & AI</h4>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,tensorflow,pytorch&theme=dark"/>
-</p>
-
-<h4 align="center">Tools & Platforms</h4>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,arduino,gcp,postgres&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,arduino&theme=dark" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════ GITHUB STATS -->
