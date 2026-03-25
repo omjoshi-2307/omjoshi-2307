@@ -1,5 +1,7 @@
-<div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=280&section=header&text=Om%20Joshi&fontSize=72&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Robotics%20Builder&descSize=17&descAlignY=62&descColor=a0c4ff&stroke=00FFD1&strokeWidth=2"/> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=280&section=header&text=Om%20Joshi&fontSize=72&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Robotics%20Builder&descSize=17&descAlignY=62&descColor=a0c4ff&stroke=00FFD1&strokeWidth=2"/>
+</div>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=22\&pause=900\&color=00FFD1\&center=true\&vCenter=true\&random=false\&width=820\&lines=Building+real+projects+with+AI%2C+Code+%26+Creativity;Python+%7C+React+%7C+FastAPI+%7C+Node.js;LangChain+%7C+RAG+%7C+LLM+Apps+%7C+Robotics;Open+to+Collabs%2C+Hackathons+%26+Internships)](https://git.io/typing-svg)
@@ -9,9 +11,9 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omjoshi-2307\&label=PROFILE+VIEWS\&color=00ffd1\&style=for-the-badge\&labelColor=0d1117)
- 
+&nbsp;
 ![GitHub Followers](https://img.shields.io/github/followers/omjoshi-2307?label=Followers\&style=for-the-badge\&color=0096FF\&labelColor=0d1117)
- 
+&nbsp;
 ![GitHub Stars](https://img.shields.io/github/stars/omjoshi-2307?label=Stars\&style=for-the-badge\&color=FFD700\&labelColor=0d1117)
 
 </div>
@@ -95,26 +97,22 @@ class OmJoshi:
 
 <h2 align="center">📈 GitHub Intelligence Dashboard</h2>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omjoshi-2307&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
+</p>
+
+<br/>
+
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omjoshi-2307&theme=tokyonight"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omjoshi-2307&theme=tokyonight"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omjoshi-2307&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=0096ff&point=a855f7&area=true&hide_border=true&custom_title=Om%27s+Contribution+Activity+Graph&area_color=00ffd122"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=0096ff&point=a855f7&area=true&hide_border=true&custom_title=Om%27s+Contribution+Activity+Graph&area_color=00ffd122" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════ FEATURED PROJECTS -->
@@ -180,10 +178,14 @@ class OmJoshi:
 <div align="center">
 
 <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/0m-joshi2307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.instagram.com/0m.a.joshi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/0m-joshi2307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.instagram.com/0m.a.joshi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
