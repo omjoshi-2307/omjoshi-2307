@@ -79,8 +79,6 @@ class OmJoshi:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
 <!-- ═══════════════════════════════════════════════════ TECH STACK -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
@@ -125,44 +123,41 @@ class OmJoshi:
 
 <h2 align="center">📌 Featured Projects</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/0m-joshi/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
+    <img src="https://img.shields.io/badge/WALL--E%20ROBOT-AUTONOMOUS%20OBSTACLE%20AVOIDING-12F7E2?style=for-the-badge&logo=arduino&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/omjoshi-2307/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
-<img src="https://img.shields.io/badge/🤖_WALL--E_Robot-Autonomous_Obstacle_Avoiding-00FFD1?style=for-the-badge&labelColor=0d1117&logo=arduino&logoColor=00FFD1"/>
-</a>
-&nbsp;
-<a href="https://github.com/omjoshi-2307/Jal-Sanchaee-Navachar">
-<img src="https://img.shields.io/badge/💧_Jal_Sanchaee_Navachar-Water_Conservation_Innovation-0096FF?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=0096FF"/>
-</a>
-
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="left">
 
 ### 🤖 WALL-E Autonomous Obstacle Avoiding Robot
 
-* Robotics project focused on **autonomous obstacle detection and avoidance**
-* Built using **Arduino + embedded system logic**
-* Combines **hardware, sensors and practical automation**
-* Demonstrates hands-on interest in **robotics and intelligent systems**
+- Robotics project focused on **autonomous obstacle detection and avoidance**
+- Built using **Arduino + embedded system logic**
+- Combines **hardware, sensors, and practical automation**
+- Demonstrates hands-on interest in **robotics and intelligent systems**
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/0m-joshi/Jal-Sanchaee-Navachar">
+    <img src="https://img.shields.io/badge/JAL%20SANCHAEE%20NAVACHAR-WATER%20CONSERVATION%20INNOVATION-1DA1F2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="left">
 
 ### 💧 Jal-Sanchaee-Navachar
 
-* Hackathon project focused on **water conservation awareness and innovation**
-* Built as a **team-driven web solution** for real-world impact
-* Highlights **problem-solving, collaboration and practical execution**
-* Shows interest in **tech for social good and innovation**
+- Hackathon project focused on **water conservation awareness and innovation**
+- Built as a **team-driven web solution** for real-world impact
+- Highlights **problem-solving, collaboration, and practical execution**
+- Shows interest in **tech for social good and innovation**
 
-</td>
-</tr>
-</table>
+</div>
 
 <!-- ═══════════════════════════════════════════════════ SNAKE -->
 
