@@ -1,12 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=280&section=header&text=Om%20Joshi&fontSize=72&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Robotics%20Builder&descSize=17&descAlignY=62&descColor=a0c4ff&stroke=00FFD1&strokeWidth=2"/>
+
+<!-- ████████████████████████████████████ BANNER -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=300&section=header&text=Om%20Joshi&fontSize=80&fontColor=00FFD1&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Robotics%20Builder&descSize=18&descAlignY=62&descColor=a0c4ff&stroke=00FFD1&strokeWidth=2"/>
+
 </div>
 
 <br/>
 
+<!-- ████████████████████████████████████ TYPING ANIMATION -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00FFD1&center=true&vCenter=true&random=false&width=820&lines=Building+real+projects+with+AI%2C+Code+%26+Creativity;Python+%7C+React+%7C+FastAPI+%7C+Node.js;LangChain+%7C+RAG+%7C+LLM+Apps+%7C+Robotics;Open+to+Collabs%2C+Hackathons+%26+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=00FFD1&center=true&vCenter=true&random=false&width=860&lines=Building+real+projects+with+AI%2C+Code+%26+Creativity;Python+%7C+React+%7C+FastAPI+%7C+Node.js+%7C+Arduino;LangChain+%7C+RAG+Pipelines+%7C+LLM+Apps+%7C+Robotics;Open+to+Collabs%2C+Hackathons+%26+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,11 +20,13 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- ══════════════════════════════════════════════ 1. INTRODUCTION -->
+<!-- ████████████████████████████████████ PERSONAL INTRO -->
 
-<table align="center" width="100%">
+<br/>
+
+<table align="center" width="96%">
 <tr>
-<td width="55%" valign="top">
+<td width="56%" valign="top">
 
 ## `> whoami`
 
@@ -31,9 +39,9 @@ class OmJoshi:
     location   = "Pune, Maharashtra, India"
 
     currently  = {
-        "building"  : "AI-powered and problem-solving projects",
+        "building"  : "AI-powered & problem-solving projects",
         "learning"  : ["LangChain", "RAG Pipelines",
-                        "Full Stack Development"],
+                       "Full Stack Development"],
         "exploring" : "Agentic AI, Robotics & Real-world Systems",
     }
 
@@ -43,13 +51,13 @@ class OmJoshi:
     mission    = "Build tech that solves real problems"
 
     def greet(self):
-        return "Let's build something awesome together!"
+        return "Let's build something awesome together! 🚀"
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="44%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" style="border-radius:12px"/>
 
 <br/><br/>
 
@@ -61,11 +69,11 @@ class OmJoshi:
 
 <br/>
 
-<!-- ══════════════════════════════════════════════ 2. IMPORTANT LINKS -->
+<!-- ████████████████████████████████████ BADGES + SOCIAL + CONTACT -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<h2 align="center">🌐 Connect & Find Me</h2>
+<h2 align="center">📡 Find Me Everywhere</h2>
 
 <div align="center">
 
@@ -79,11 +87,7 @@ class OmJoshi:
 &nbsp;
 <a href="https://www.instagram.com/0m.a.joshi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE+VIEWS&color=00ffd1&style=for-the-badge&labelColor=0d1117)
 &nbsp;
@@ -95,39 +99,84 @@ class OmJoshi:
 
 <br/>
 
-<!-- ══════════════════════════════════════════════ 3. SKILLS & FEATURES -->
+<!-- ████████████████████████████████████ SKILLS + TECH STACK -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,arduino&theme=dark" />
-</p>
-
-<br/>
-
-<h2 align="center">🚀 Current Focus</h2>
-
 <div align="center">
 
-| 🔨 Building | 📚 Learning | 🌐 Exploring |
-|:-----------:|:-----------:|:------------:|
-| AI-powered & problem-solving projects | LangChain & RAG Pipelines | Agentic AI |
-| Full-Stack web applications | Full Stack Development | Robotics & Real-world Systems |
-| Hackathon-ready solutions | LLM App development | Open source & Collaborations |
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,arduino&theme=dark" />
 
 </div>
 
 <br/>
 
+<div align="center">
+
+| 🔨 Currently Building | 📚 Actively Learning | 🌐 Exploring Next |
+|:---:|:---:|:---:|
+| AI-powered Web Projects | LangChain & LLM Apps | Agentic AI Systems |
+| Problem-solving Tools | RAG Pipelines | Autonomous Robotics |
+| Full Stack Products | Full Stack Dev | Real-world Impact Tech |
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████████ FEATURED PROJECTS -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<h2 align="center">📌 Featured Projects</h2>
+
+<table align="center" width="96%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🤖 WALL-E Robot
+
+<a href="https://github.com/0m-joshi/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
+  <img src="https://img.shields.io/badge/WALL--E-AUTONOMOUS%20OBSTACLE%20AVOIDING-12F7E2?style=for-the-badge&logo=arduino&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> Autonomous obstacle detection & avoidance robot built with **Arduino + embedded logic**. Combines **hardware, sensors and practical automation** — demonstrating hands-on robotics and intelligent systems.
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 💧 Jal-Sanchaee-Navachar
+
+<a href="https://github.com/0m-joshi/Jal-Sanchaee-Navachar">
+  <img src="https://img.shields.io/badge/JAL%20SANCHAEE-WATER%20CONSERVATION-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> Hackathon project focused on **water conservation awareness**. A team-driven **web solution** for real-world impact — highlighting problem-solving, collaboration and **tech for social good**.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ████████████████████████████████████ GITHUB STATS -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
 <h2 align="center">📈 GitHub Intelligence Dashboard</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omjoshi-2307&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omjoshi-2307&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
+
+</div>
 
 <br/>
 
@@ -143,54 +192,9 @@ class OmJoshi:
 
 <br/>
 
-<!-- ══════════════════════════════════════════════ 4. PROJECT HIGHLIGHTS -->
+<!-- ████████████████████████████████████ CONTRIBUTION SNAKE -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
-<h2 align="center">📌 Project Highlights</h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 WALL-E — Autonomous Obstacle Avoiding Robot</h3>
-
-<p align="center">
-  <a href="https://github.com/0m-joshi/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-WALL--E%20ROBOT-12F7E2?style=for-the-badge&logo=arduino&logoColor=white"/>
-  </a>
-</p>
-
-- Autonomous **obstacle detection & avoidance**
-- Built using **Arduino + embedded system logic**
-- Combines **hardware, sensors & practical automation**
-- Hands-on focus on **robotics & intelligent systems**
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">💧 Jal-Sanchaee-Navachar</h3>
-
-<p align="center">
-  <a href="https://github.com/0m-joshi/Jal-Sanchaee-Navachar">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-JAL%20SANCHAEE-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-- Hackathon project for **water conservation awareness**
-- Built as a **team-driven web solution** for real-world impact
-- Highlights **problem-solving, collaboration & execution**
-- Tech built for **social good & innovation**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════ 5. CLOSING FOOTER -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -202,16 +206,18 @@ class OmJoshi:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- ████████████████████████████████████ FOOTER -->
 
-<div align="center">
-
-> **"The best way to predict the future is to build it — one commit at a time."**
-
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,35:0d1f2d,70:0f3460,100:16213e&height=150&section=footer&text=Thanks+for+visiting!+Drop+a+Star+if+you+like+this!&fontSize=18&fontColor=00FFD1&animation=fadeIn&fontAlignY=45"/>
+
+> ### *"The best way to predict the future is to build it — one commit at a time."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,35:0d1f2d,70:0f3460,100:16213e&height=160&section=footer&text=Thanks+for+visiting!+Drop+a+%E2%AD%90+if+you+like+this!&fontSize=18&fontColor=00FFD1&animation=fadeIn&fontAlignY=48"/>
+
 </div>
