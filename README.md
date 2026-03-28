@@ -1,198 +1,102 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:16213e,50:0f3460,100:0a0a0a&height=220&section=header&text=Om%20Joshi&fontSize=80&fontColor=00FFD1&animation=fadeIn&fontAlignY=55&rotate=-5"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00FFD1&center=true&vCenter=true&random=false&width=820&lines=AI+Engineer+·+Full+Stack+Developer+·+Robotics+Builder;Building+real+projects+with+AI%2C+Code+%26+Creativity;Open+to+Collabs%2C+Hackathons+%26+Internships)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE+VIEWS&color=00ffd1&style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/omjoshi-2307?label=Followers&style=for-the-badge&color=0096FF&labelColor=0d1117)
-&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/omjoshi-2307?label=Stars&style=for-the-badge&color=FFD700&labelColor=0d1117)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:0d1117&height=160&section=header&text=Om%20Joshi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Robotics%20Builder&descSize=15&descAlignY=78&descColor=8b949e"/>
 </div>
 
 <br/>
 
----
-
-<!-- ═══════════════════════ CONNECT — moved up for visibility -->
-
 <div align="center">
 
-<a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/0m-joshi2307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.instagram.com/0m.a.joshi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0m-joshi2307)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omjoshi2307@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omjoshi-2307)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/omjoshi_2307)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0m.a.joshi)
+&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=omjoshi-2307&label=Profile%20Views&color=0f3460&style=flat-square)
 
 </div>
 
-<br/>
+---
+
+## About Me
+
+I'm a **B.E. IT student at NMIET, Pune** passionate about building practical solutions at the intersection of AI, full-stack development, and robotics. I focus on shipping real projects that solve real problems — not just tutorials.
+
+- 🔭 Currently building AI-powered and problem-solving applications
+- 📖 Learning **LangChain**, **RAG Pipelines**, and advanced full-stack patterns
+- 🤖 Exploring **Agentic AI**, Robotics, and real-world intelligent systems
+- 💼 Open to **internships**, collaborations, and hackathons
+- 📍 Pune, Maharashtra, India
 
 ---
 
-<!-- ═══════════════════════ WHO AM I + STREAK side by side -->
+## Tech Stack
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+**Languages**
 
-## `> whoami`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-```python
-class OmJoshi:
-    name       = "Om Joshi"
-    role       = ["Student Developer", "AI Builder",
-                  "Full Stack & Robotics Enthusiast"]
-    education  = "B.E. IT — NMIET, Pune"
-    location   = "Pune, Maharashtra, India"
+**Frameworks & Tools**
 
-    currently  = {
-        "building"  : "AI-powered and problem-solving projects",
-        "learning"  : ["LangChain", "RAG Pipelines",
-                        "Full Stack Development"],
-        "exploring" : "Agentic AI, Robotics & Real-world Systems",
-    }
-
-    core_stack = ["Python", "React", "FastAPI",
-                  "Node.js", "Arduino"]
-    status     = "Open for Internships, Collabs & Hackathons"
-    mission    = "Build tech that solves real problems"
-
-    def greet(self):
-        return "Let's build something awesome together!"
-```
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=omjoshi-2307&theme=tokyonight&hide_border=true&ring=00FFD1&fire=ff6b6b&currStreakLabel=00FFD1&sideLabels=a0c4ff&dates=888888&background=0d1117&stroke=00FFD1)](https://git.io/streak-stats)
-
-</td>
-</tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<!-- ═══════════════════════ FEATURED PROJECTS — promoted higher -->
-
-## 📌 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## Featured Projects
 
 ### 🤖 WALL-E — Autonomous Obstacle Avoiding Robot
+> Arduino · Embedded Systems · Robotics · Sensors
 
-<a href="https://github.com/0m-joshi/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
-  <img src="https://img.shields.io/badge/View%20Project-WALL--E%20ROBOT-12F7E2?style=for-the-badge&logo=arduino&logoColor=white"/>
-</a>
+A robotics project focused on autonomous obstacle detection and avoidance using embedded logic and ultrasonic sensors. Demonstrates hands-on integration of hardware, firmware, and real-time decision-making.
 
-<br/><br/>
-
-- Autonomous **obstacle detection & avoidance** robot
-- Built with **Arduino + embedded system logic**
-- Combines **hardware, sensors & practical automation**
-- Real-world focus on **robotics & intelligent systems**
-
-</td>
-<td width="50%" valign="top">
-
-### 💧 Jal-Sanchaee-Navachar — Water Conservation Innovation
-
-<a href="https://github.com/0m-joshi/Jal-Sanchaee-Navachar">
-  <img src="https://img.shields.io/badge/View%20Project-JAL%20SANCHAEE-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-- Hackathon project for **water conservation awareness**
-- Team-driven **web solution** for real-world impact
-- Highlights **problem-solving & collaboration**
-- Tech built for **social good & innovation**
-
-</td>
-</tr>
-</table>
+[![View Repository](https://img.shields.io/badge/View%20Repository-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0m-joshi/WALL-E-Autonomous-Obstacle-Avoiding-Robot)
 
 ---
 
-<!-- ═══════════════════════ TECH STACK -->
+### 💧 Jal-Sanchaee-Navachar — Water Conservation Platform
+> Web Development · Social Impact · Hackathon
 
-## 🛠️ Tech Arsenal
+A team-built web application developed at a hackathon to raise water conservation awareness and propose actionable solutions. Focused on real-world impact through collaborative engineering.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0m-joshi/Jal-Sanchaee-Navachar)
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,arduino&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=0f3460&text_color=8b949e&bg_color=0d1117" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=8b949e&bg_color=0d1117" height="160"/>
 
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=omjoshi-2307&theme=github-dark-blue&hide_border=true&ring=0f3460&fire=e25822&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&background=0d1117&stroke=0f3460)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=8b949e&line=0f3460&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
 
 ---
 
-<!-- ═══════════════════════ CURRENT FOCUS -->
-
-## 🚀 Current Focus
-
-<div align="center">
-
-| 🔨 Building | 📚 Learning | 🌐 Exploring |
-|:-----------:|:-----------:|:------------:|
-| AI + Web Projects | LLM Apps & LangChain | Agentic AI |
-| Practical Problem Solvers | RAG Workflows | Robotics Systems |
-| Full-Stack Products | Full-Stack Dev | Real-world Opportunities |
-
-</div>
-
-> 💼 **Status:** Open to Internships, Collaborations & Hackathons
-
----
-
-<!-- ═══════════════════════ GITHUB STATS -->
-
-## 📈 GitHub Intelligence Dashboard
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omjoshi-2307&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=0096ff&point=a855f7&area=true&hide_border=true&custom_title=Om%27s+Contribution+Activity+Graph&area_color=00ffd122" width="100%"/>
-</div>
-
----
-
-<!-- ═══════════════════════ SNAKE -->
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -203,11 +107,9 @@ class OmJoshi:
 ---
 
 <div align="center">
+  <sub>Building one commit at a time · Pune, India</sub>
+</div>
 
-> **"The best way to predict the future is to build it — one commit at a time."**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,35:0d1f2d,70:0f3460,100:16213e&height=140&section=footer&text=Thanks+for+visiting!+Drop+a+⭐+if+you+like+this!&fontSize=18&fontColor=00FFD1&animation=fadeIn&fontAlignY=45"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:0d1117&height=100&section=footer&animation=fadeIn"/>
 </div>
