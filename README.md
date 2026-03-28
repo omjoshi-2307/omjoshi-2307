@@ -1,18 +1,14 @@
+<!-- ████████████████████████████████ HEADER BANNER ████████████████████████████████ -->
+
 <div align="center">
-
-<!-- ████████████████████████████████████ BANNER -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=300&section=header&text=Om%20Joshi&fontSize=80&fontColor=00FFD1&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Robotics%20Builder&descSize=18&descAlignY=62&descColor=a0c4ff&stroke=00FFD1&strokeWidth=2"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1f2d,60:0f3460,100:16213e&height=300&section=header&text=Om%20Joshi&fontSize=80&fontColor=00FFD1&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Robotics%20Builder&descSize=18&descAlignY=62&descColor=a0c4ff&stroke=00FFD1&strokeWidth=2" width="100%"/>
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████ TYPING ANIMATION -->
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=00FFD1&center=true&vCenter=true&random=false&width=860&lines=Building+real+projects+with+AI%2C+Code+%26+Creativity;Python+%7C+React+%7C+FastAPI+%7C+Node.js+%7C+Arduino;LangChain+%7C+RAG+Pipelines+%7C+LLM+Apps+%7C+Robotics;Open+to+Collabs%2C+Hackathons+%26+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00FFD1&center=true&vCenter=true&random=false&width=820&lines=Building+real+projects+with+AI%2C+Code+%26+Creativity;Python+%7C+React+%7C+FastAPI+%7C+Node.js;LangChain+%7C+RAG+%7C+LLM+Apps+%7C+Robotics;Open+to+Collabs%2C+Hackathons+%26+Internships)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,13 +16,13 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- ████████████████████████████████████ PERSONAL INTRO -->
+<!-- ████████████████████████████████ INTRODUCTION ████████████████████████████████ -->
 
 <br/>
 
-<table align="center" width="96%">
+<table align="center" width="95%">
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
 ## `> whoami`
 
@@ -41,7 +37,7 @@ class OmJoshi:
     currently  = {
         "building"  : "AI-powered & problem-solving projects",
         "learning"  : ["LangChain", "RAG Pipelines",
-                       "Full Stack Development"],
+                        "Full Stack Development"],
         "exploring" : "Agentic AI, Robotics & Real-world Systems",
     }
 
@@ -51,17 +47,23 @@ class OmJoshi:
     mission    = "Build tech that solves real problems"
 
     def greet(self):
-        return "Let's build something awesome together! 🚀"
+        return "Let's build something awesome together!"
 ```
 
 </td>
-<td width="44%" valign="middle" align="center">
+<td width="42%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" style="border-radius:12px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omjoshi-2307&theme=tokyonight&hide_border=true&ring=00FFD1&fire=ff6b6b&currStreakLabel=00FFD1&sideLabels=a0c4ff&dates=888888&background=0d1117&stroke=00FFD1)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE+VIEWS&color=00ffd1&style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+![GitHub Followers](https://img.shields.io/github/followers/omjoshi-2307?label=Followers&style=for-the-badge&color=0096FF&labelColor=0d1117)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/omjoshi-2307?label=Stars&style=for-the-badge&color=FFD700&labelColor=0d1117)
 
 </td>
 </tr>
@@ -69,41 +71,43 @@ class OmJoshi:
 
 <br/>
 
-<!-- ████████████████████████████████████ BADGES + SOCIAL + CONTACT -->
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<h2 align="center">📡 Find Me Everywhere</h2>
+<!-- ████████████████████████████████ SOCIAL LINKS & CONTACT ████████████████████████████████ -->
+
+<h2 align="center">🌐 Let's Connect and Build Together</h2>
 
 <div align="center">
 
-<a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:omjoshi2307@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 &nbsp;
-<a href="https://www.linkedin.com/in/0m-joshi2307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/0m-joshi2307">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 &nbsp;
-<a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/omjoshi-2307">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 &nbsp;
-<a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/omjoshi_2307">
+  <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 &nbsp;
-<a href="https://www.instagram.com/0m.a.joshi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE+VIEWS&color=00ffd1&style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/omjoshi-2307?label=Followers&style=for-the-badge&color=0096FF&labelColor=0d1117)
-&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/omjoshi-2307?label=Stars&style=for-the-badge&color=FFD700&labelColor=0d1117)
+<a href="https://www.instagram.com/0m.a.joshi">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████ SKILLS + TECH STACK -->
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<!-- ████████████████████████████████ SKILLS & TECH STACK ████████████████████████████████ -->
+
+<h2 align="center">🛠️ Tech Arsenal & Skills</h2>
 
 <div align="center">
 
@@ -115,48 +119,76 @@ class OmJoshi:
 
 <div align="center">
 
-| 🔨 Currently Building | 📚 Actively Learning | 🌐 Exploring Next |
-|:---:|:---:|:---:|
-| AI-powered Web Projects | LangChain & LLM Apps | Agentic AI Systems |
-| Problem-solving Tools | RAG Pipelines | Autonomous Robotics |
-| Full Stack Products | Full Stack Dev | Real-world Impact Tech |
+| 🔨 Building | 📚 Learning | 🌐 Exploring |
+|:-----------:|:-----------:|:------------:|
+| AI + Web Projects | LLM Apps & LangChain | Agentic AI Systems |
+| Practical Problem Solvers | RAG Pipelines | Robotics & Hardware |
+| Full-Stack Products | Full-Stack Dev | Real-world Automation |
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████ FEATURED PROJECTS -->
+<div align="center">
+
+```txt
+• Building practical AI + web projects
+• Exploring LLM apps, LangChain and RAG workflows
+• Strengthening full-stack development skills
+• Learning through hackathons, projects and experimentation
+• Open to internships, collaborations and real-world opportunities
+```
+
+</div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
+<!-- ████████████████████████████████ FEATURED PROJECTS ████████████████████████████████ -->
+
 <h2 align="center">📌 Featured Projects</h2>
 
-<table align="center" width="96%">
+<table align="center" width="95%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### 🤖 WALL-E Robot
+<div align="center">
+
+### 🤖 WALL-E Autonomous Robot
 
 <a href="https://github.com/0m-joshi/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
-  <img src="https://img.shields.io/badge/WALL--E-AUTONOMOUS%20OBSTACLE%20AVOIDING-12F7E2?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WALL--E%20ROBOT-AUTONOMOUS%20OBSTACLE%20AVOIDING-12F7E2?style=for-the-badge&logo=arduino&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-> Autonomous obstacle detection & avoidance robot built with **Arduino + embedded logic**. Combines **hardware, sensors and practical automation** — demonstrating hands-on robotics and intelligent systems.
+<br/>
+
+- Robotics project: **autonomous obstacle detection & avoidance**
+- Built using **Arduino + embedded system logic**
+- Combines **hardware, sensors & practical automation**
+- Hands-on experience in **robotics & intelligent systems**
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 💧 Jal-Sanchaee-Navachar
 
 <a href="https://github.com/0m-joshi/Jal-Sanchaee-Navachar">
-  <img src="https://img.shields.io/badge/JAL%20SANCHAEE-WATER%20CONSERVATION-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAL%20SANCHAEE%20NAVACHAR-WATER%20CONSERVATION-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-> Hackathon project focused on **water conservation awareness**. A team-driven **web solution** for real-world impact — highlighting problem-solving, collaboration and **tech for social good**.
+<br/>
+
+- Hackathon project: **water conservation awareness & innovation**
+- Built as a **team-driven web solution** for real-world impact
+- Highlights **problem-solving, collaboration & execution**
+- Tech for **social good and meaningful innovation**
 
 </td>
 </tr>
@@ -164,9 +196,9 @@ class OmJoshi:
 
 <br/>
 
-<!-- ████████████████████████████████████ GITHUB STATS -->
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ████████████████████████████████ GITHUB STATS & ACTIVITY ████████████████████████████████ -->
 
 <h2 align="center">📈 GitHub Intelligence Dashboard</h2>
 
@@ -181,18 +213,26 @@ class OmJoshi:
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight" width="95%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=0096ff&point=a855f7&area=true&hide_border=true&custom_title=Om%27s+Contribution+Activity+Graph&area_color=00ffd122" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=0096ff&point=a855f7&area=true&hide_border=true&custom_title=Om%27s+Contribution+Activity+Graph&area_color=00ffd122" width="95%"/>
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████ CONTRIBUTION SNAKE -->
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=omjoshi-2307&theme=tokyonight&hide_border=true&ring=00FFD1&fire=ff6b6b&currStreakLabel=00FFD1&sideLabels=a0c4ff&dates=888888&background=0d1117&stroke=00FFD1)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████ CONTRIBUTION SNAKE ████████████████████████████████ -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 
@@ -206,7 +246,7 @@ class OmJoshi:
 
 <br/>
 
-<!-- ████████████████████████████████████ FOOTER -->
+<!-- ████████████████████████████████ QUOTE + FOOTER ████████████████████████████████ -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
 
@@ -214,10 +254,12 @@ class OmJoshi:
 
 <div align="center">
 
-> ### *"The best way to predict the future is to build it — one commit at a time."*
+> **"The best way to predict the future is to build it — one commit at a time."**
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,35:0d1f2d,70:0f3460,100:16213e&height=160&section=footer&text=Thanks+for+visiting!+Drop+a+%E2%AD%90+if+you+like+this!&fontSize=18&fontColor=00FFD1&animation=fadeIn&fontAlignY=48"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,35:0d1f2d,70:0f3460,100:16213e&height=160&section=footer&text=Thanks+for+visiting!+Drop+a+Star+%E2%AD%90+if+you+liked+it!&fontSize=18&fontColor=00FFD1&animation=fadeIn&fontAlignY=45" width="100%"/>
 </div>
