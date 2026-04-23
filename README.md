@@ -21,71 +21,126 @@
 ## 👤 About Me
 
 <table align="center" width="95%">
-<tr>
-<td width="58%" valign="top">
+  <tr>
+    <td width="58%" valign="top">
 
 ```python
 class OmJoshi:
     name       = "Om Joshi"
     role       = ["B.E. IT Student", "Aspiring Software Engineer"]
     location   = "Pune, India"
-
     currently  = {
         "learning": ["Data Structures & Algorithms", "Python"],
         "building": ["Robotics Projects", "Web Fundamentals"],
         "exploring": ["Generative AI Basics", "Cloud Fundamentals"]
     }
-
     core_stack = ["C", "Python", "HTML", "CSS", "Git"]
-
     focus      = "Strong fundamentals + real-world projects"
-
     mission    = "Build systems that solve real problems and grow into a skilled engineer"
 
     def mindset(self):
         return "Consistency > Hype"
+` ` `
 
-</td> <td width="42%" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/> <br/>
+</td>
+    <td width="42%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+    </td>
+  </tr>
+</table>
 
-</td> </tr> </table>
+---
 
-🚀 Current Focus
+## 🚀 Current Focus
+
 <div align="center">
-🔨 Building	📚 Learning	🎯 Direction
-Robotics Systems	Data Structures	Software Engineering
-Hackathon Projects	Python	Real-World Projects
-Web Basics	Cloud Fundamentals	Internships
+
+| 🔨 Building | 📚 Learning | 🎯 Direction |
+|---|---|---|
+| Robotics Systems | Data Structures | Software Engineering |
+| Hackathon Projects | Python | Real-World Projects |
+| Web Basics | Cloud Fundamentals | Internships |
+
 </div>
-🛠️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,arduino&theme=dark" /> </div>
-📌 Featured Work
-<table align="center" width="95%"> <tr> <td width="50%" valign="top">
-🤖 WALL-E Autonomous Robot
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,arduino&theme=dark" />
+</div>
+
+---
+
+## 📌 Featured Work
+
+<table align="center" width="95%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 WALL-E Autonomous Robot
 
 Built an obstacle-avoiding robot using Arduino and sensor-based logic.
 
-Real-time obstacle detection and navigation
-Integrated hardware with decision-making logic
-Strengthened understanding of embedded systems
-</td> <td width="50%" valign="top">
-💧 Jal-Sanchaee-Navachar
+- Real-time obstacle detection and navigation
+- Integrated hardware with decision-making logic
+- Strengthened understanding of embedded systems
+
+</td>
+    <td width="50%" valign="top">
+
+### 💧 Jal-Sanchaee-Navachar
 
 Developed a web-based solution for water conservation during a hackathon.
 
-Focused on solving real-world environmental problems
-Rapid idea-to-prototype development
-Team collaboration under time constraints
-</td> </tr> </table>
-🏆 Experience
-Participated in multiple hackathons and technical events
-Google Cloud Study Jams 2025
-Synapse Hackathon, Techathon 3.0, Searchathon
-🌐 Connect
-<div align="center"> <a href="mailto:omjoshi2307@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/0m-joshi2307"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/omjoshi-2307"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-📊 GitHub Insights
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omjoshi-2307&theme=tokyonight" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omjoshi-2307&theme=tokyonight" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight" width="96%"/> </div>
+- Focused on solving real-world environmental problems
+- Rapid idea-to-prototype development
+- Team collaboration under time constraints
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Experience
+
+- Participated in multiple hackathons and technical events
+- Google Cloud Study Jams 2025
+- Synapse Hackathon, Techathon 3.0, Searchathon
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+  <a href="mailto:omjoshi2307@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/0m-joshi2307">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/omjoshi-2307">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omjoshi-2307&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight" width="96%"/>
+</div>
+
+---
+
 <div align="center">
 
-"Great developers are built by consistency, not shortcuts."
+*"Great developers are built by consistency, not shortcuts."*
 
-</div> ```
+</div>
+```
