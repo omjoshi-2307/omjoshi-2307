@@ -1,216 +1,111 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=220&section=header&text=Om%20Joshi&fontSize=80&fontColor=00FFD1&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Robotics%20Builder&descSize=18&descAlignY=68&descColor=a0c4ff"/>
-</div>
+# 👋 Hi, I'm Om Joshi
+
+<!-- HEADER SECTION — DO NOT MODIFY -->
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00FFD1&center=true&vCenter=true&random=false&width=820&lines=Building+real+projects+with+AI%2C+Code+%26+Creativity;Python+%7C+React+%7C+FastAPI+%7C+Node.js;LangChain+%7C+RAG+%7C+LLM+Apps+%7C+Robotics;Open+to+Collabs%2C+Hackathons+%26+Internships)](https://git.io/typing-svg)
+I'm a B.E. Information Technology student at NMIET, Pune, with a genuine interest in software development, problem solving, and building things that have real-world impact. I enjoy the process of going from an idea to a working solution — whether that's a web application, a hardware-software integration project, or a small script that solves an everyday problem.
 
-</div>
+I actively participate in hackathons, ideathons, and technical events to push my skills beyond the classroom. Lately, I've been exploring Generative AI concepts, Cloud Computing, and deepening my understanding of data structures — not just to learn, but to apply them in meaningful projects.
 
-<div align="center">
+I believe in learning by building, and I'm always looking for opportunities to grow, collaborate, and contribute.
 
-![Profile Views](https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE+VIEWS&color=00ffd1&style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/omjoshi-2307?label=Followers&style=for-the-badge&color=0096FF&labelColor=0d1117)
-&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/omjoshi-2307?label=Stars&style=for-the-badge&color=FFD700&labelColor=0d1117)
-
-</div>
+📍 Pune, Maharashtra, India
 
 ---
 
-## 👤 About Me
+## 🛠️ Skills
 
-<table align="center" width="95%">
-<tr>
-<td width="58%" valign="top">
+**Programming Languages**
+- `C` — Solid foundation in procedural programming, memory management, and logic building
+- `Python` — Used for scripting, automation, and exploring AI/ML concepts
 
-```python
-class OmJoshi:
-name       = "Om Joshi"
-role       = ["B.E. IT Student", "Aspiring Software Engineer"]
-education  = "B.E. IT — NMIET, Pune"
-location   = "Pune, Maharashtra, India"
+**Web Development**
+- Familiar with the fundamentals of how web applications are structured and built
+- Currently growing this area through hands-on projects
 
-currently  = {
-    "learning": ["Data Structures & Algorithms", "Advanced Python", "Cloud Computing"],
-    "building": ["WALL-E Autonomous Robot 🤖", "Jal-Sanchaee-Navachar 🌐"],
-    "exploring": ["Generative AI", "Retrieval-Augmented Generation (RAG)"]
-}
+**Cloud**
+- Google Cloud Fundamentals — Exposure to core GCP services and cloud concepts through structured learning programs
 
-core_stack = ["C", "Python", "Basic Web Development", "Google Cloud Fundamentals"]
-
-status     = "Actively learning, building projects, and participating in hackathons 🚀"
-
-mission    = "To become a skilled Software Engineer and build innovative, user-centric solutions that make a real-world impact."
-
-def greet(self):
-    return "Let's build something awesome together!"
-```
-
-</td>
-<td width="42%" valign="middle" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=omjoshi-2307&theme=tokyonight&hide_border=true&ring=00FFD1&fire=ff6b6b&currStreakLabel=00FFD1&sideLabels=a0c4ff&dates=888888&background=0d1117&stroke=00FFD1)](https://git.io/streak-stats)
-
-</td>
-</tr>
-</table>
+**Core Strengths**
+- Problem Solving — Breaking down complex problems into manageable steps
+- Communication — Able to collaborate effectively in team environments and articulate ideas clearly
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Projects
 
-<div align="center">
+### 🤖 WALL-E — Autonomous Obstacle-Avoiding Robot
 
-<a href="mailto:omjoshi2307@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/0m-joshi2307">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/omjoshi-2307">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>&nbsp;
-<a href="https://x.com/omjoshi_2307">
-  <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/0m.a.joshi">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+> A hardware-software integration project built as a team.
 
-</div>
+WALL-E is an autonomous robot designed to navigate its environment without human intervention. Using an **Arduino microcontroller** paired with ultrasonic sensors, the robot continuously scans its surroundings and makes real-time decisions to detect and avoid obstacles in its path.
+
+The project involved writing the embedded logic in C/C++ for the Arduino, calibrating sensor thresholds for accurate obstacle detection, and integrating motor control to translate decisions into physical movement. One of the key challenges was handling edge cases — situations where the robot would encounter obstacles at awkward angles or in rapid succession — which required iterative testing and refinement of the navigation algorithm.
+
+This project gave hands-on experience with embedded systems, sensor integration, and the fundamentals of autonomous decision-making at the hardware level.
+
+**Tech involved:** Arduino, Ultrasonic Sensors, Embedded C, Motor Driver Module
 
 ---
 
-## 🚀 Current Focus
+### 💧 Jal-Sanchaee-Navachar — Water Conservation Web Application
 
-<div align="center">
+> Developed during Techathon 3.0 as part of a team.
 
-| 🔨 Building | 📚 Learning | 🌍 Goal |
-|:-----------:|:-----------:|:-------:|
-| AI + Web Projects | LLMs, LangChain & RAG | Real-World Impact |
-| Robotics Systems | Full-Stack Development | Internships & Collabs |
-| Hackathon Projects | Agentic AI | Open Source Contributions |
+Jal-Sanchaee-Navachar (translating to "Water Conservation Innovation") is a web application built around the problem of water scarcity and wasteful usage patterns. The project was developed end-to-end during **Techathon 3.0**, a competitive hackathon environment where the team had to move quickly from problem identification to a working prototype.
 
-</div>
+The application focused on presenting water conservation strategies, tracking or raising awareness around water usage, and providing an accessible interface for users to engage with the issue meaningfully. Working within the time constraints of a hackathon reinforced the importance of scoping features realistically, dividing responsibilities across the team, and building something that actually works over something that merely looks good on a slide.
 
----
+This experience strengthened skills in team collaboration, rapid prototyping, and delivering under pressure.
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" />
-
-<br/>
-
-**Frontend & Backend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,fastapi,nodejs&theme=dark" />
-
-<br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux&theme=dark" />
-
-</div>
+**Built during:** Techathon 3.0
 
 ---
 
-## 📌 Featured Projects
+## 📚 Currently Learning
 
-<table align="center" width="95%">
-<tr>
-<td width="50%" valign="top">
+I'm focused on building a stronger technical foundation while gradually exploring newer areas:
 
-### 🤖 WALL-E Autonomous Robot
-
-<a href="https://github.com/0m-joshi/WALL-E-Autonomous-Obstacle-Avoiding-Robot">
-  <img src="https://img.shields.io/badge/View%20Project-12F7E2?style=for-the-badge&logo=arduino&logoColor=black"/>
-</a>
-
-> Autonomous obstacle detection & avoidance system built on Arduino with embedded sensor logic — a hands-on dive into robotics and intelligent automation.
-
-- 🔩 Arduino + embedded system logic
-- 📡 Real-time sensor-based navigation
-- 🧠 Practical automation & robotics
-
-</td>
-<td width="50%" valign="top">
-
-### 💧 Jal-Sanchaee-Navachar
-
-<a href="https://github.com/0m-joshi/Jal-Sanchaee-Navachar">
-  <img src="https://img.shields.io/badge/View%20Project-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-> A hackathon-born web solution for water conservation — built collaboratively to drive real-world social impact through thoughtful tech.
-
-- 🌊 Water conservation awareness
-- 🤝 Team-driven execution
-- 💡 Tech for social good
-
-</td>
-</tr>
-</table>
+- **Data Structures & Algorithms** — Studying core DSA concepts to improve problem-solving efficiency and prepare for technical interviews
+- **Python (Intermediate)** — Going beyond the basics — working on cleaner, more Pythonic code and exploring libraries relevant to automation and data
+- **Generative AI Fundamentals** — Exploring concepts like Retrieval-Augmented Generation (RAG), prompt engineering, and how large language models work at a high level
+- **Cloud Technologies** — Continuing to build on GCP knowledge and understanding how cloud infrastructure supports modern applications
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Participation & Experience
 
-<div align="center">
+These events have shaped how I think about technology, teamwork, and building under constraints:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omjoshi-2307&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omjoshi-2307&theme=tokyonight" width="32%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omjoshi-2307&theme=tokyonight" width="96%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=0096ff&point=a855f7&area=true&hide_border=true&custom_title=Om%27s+Contribution+Activity+Graph&area_color=00ffd122" width="96%"/>
-</div>
+| Event | Description |
+|---|---|
+| **Techathon 3.0** | Developed Jal-Sanchaee-Navachar, a water conservation web app, as part of a team in a competitive hackathon setting |
+| **Synapse Hackathon** | Participated in a technical hackathon, collaborating on rapid problem-solving and prototype development |
+| **Searchathon** | Competed in a search-focused challenge that tested research, problem-framing, and analytical thinking |
+| **Gemini Fun-Fest 2.0** | Hands-on event exploring Google's Gemini AI capabilities and Generative AI use cases |
+| **Google Cloud Study Jams 2025** | Completed structured learning on Google Cloud Platform fundamentals through labs and guided modules |
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Goal
 
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+My goal is to become a skilled **Software Engineer** who builds applications that are not just functional, but genuinely useful to the people who use them. I want to develop deep technical expertise while staying grounded in real-world problem solving — writing clean code, designing thoughtful systems, and continuously improving through experience and collaboration.
 
 ---
 
-<div align="center">
+## 📬 Connect With Me
 
-> *"The best way to predict the future is to build it — one commit at a time."*
+I'm always open to connecting with fellow students, developers, and mentors.
 
-<br/>
+- 🔗 **LinkedIn:** [linkedin.com/in/om-joshi](https://linkedin.com/in/om-joshi) *(update with your actual URL)*
+- 📧 **Email:** omjoshi@example.com *(update with your actual email)*
+- 🐙 **GitHub:** [github.com/omjoshi](https://github.com/omjoshi) *(update with your actual username)*
 
-⭐ **If you found this profile interesting, drop a star and let's connect!** ⭐
+---
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0f3460,100:16213e&height=130&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=00FFD1&animation=fadeIn&fontAlignY=55"/>
-</div>
+<p align="center">
+  <i>"Build things. Break things. Learn. Repeat."</i>
+</p>
