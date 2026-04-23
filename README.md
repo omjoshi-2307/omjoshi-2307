@@ -42,7 +42,7 @@ class OmJoshi:
     </td>
   </tr>
 </table>
----
+
 
 ## 🚀 Current Focus
 
