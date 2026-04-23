@@ -30,26 +30,25 @@
 
 ```python
 class OmJoshi:
-    name       = "Om Joshi"
-    role       = ["Student Developer", "AI Builder",
-                  "Full Stack & Robotics Enthusiast"]
-    education  = "B.E. IT — NMIET, Pune"
-    location   = "Pune, Maharashtra, India"
+name       = "Om Joshi"
+role       = ["B.E. IT Student", "Aspiring Software Engineer"]
+education  = "B.E. IT — NMIET, Pune"
+location   = "Pune, Maharashtra, India"
 
-    currently  = {
-        "building"  : "AI-powered and problem-solving projects",
-        "learning"  : ["LangChain", "RAG Pipelines",
-                       "Full Stack Development"],
-        "exploring" : "Agentic AI, Robotics & Real-world Systems",
-    }
+currently  = {
+    "learning": ["Data Structures & Algorithms", "Advanced Python", "Cloud Computing"],
+    "building": ["WALL-E Autonomous Robot 🤖", "Jal-Sanchaee-Navachar 🌐"],
+    "exploring": ["Generative AI", "Retrieval-Augmented Generation (RAG)"]
+}
 
-    core_stack = ["Python", "React", "FastAPI",
-                  "Node.js", "Arduino"]
-    status     = "Open for Internships, Collabs & Hackathons"
-    mission    = "Build tech that solves real problems"
+core_stack = ["C", "Python", "Basic Web Development", "Google Cloud Fundamentals"]
 
-    def greet(self):
-        return "Let's build something awesome together!"
+status     = "Actively learning, building projects, and participating in hackathons 🚀"
+
+mission    = "To become a skilled Software Engineer and build innovative, user-centric solutions that make a real-world impact."
+
+def greet(self):
+    return "Let's build something awesome together!"
 ```
 
 </td>
