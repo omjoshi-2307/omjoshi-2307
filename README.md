@@ -75,9 +75,11 @@ class OmJoshi:
 
 ## 📌 Featured Work
 
+
+<!-- Project 1 -->
 <table align="center" width="95%">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
 
 ### 🤖 WALL-E Autonomous Robot
 
@@ -88,7 +90,15 @@ Built an obstacle-avoiding robot using Arduino and sensor-based logic.
 - Strengthened understanding of embedded systems
 
 </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<br/>
+
+<!-- Project 2 -->
+<table align="center" width="95%">
+  <tr>
+    <td valign="top">
 
 ### 💧 Jal-Sanchaee-Navachar
 
@@ -103,6 +113,7 @@ Developed a web-based solution for water conservation during a hackathon.
 </table>
 
 ---
+
 
 ## 🏆 Experience
 
