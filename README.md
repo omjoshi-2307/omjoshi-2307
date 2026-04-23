@@ -40,7 +40,7 @@ class OmJoshi:
 
     def mindset(self):
         return "Consistency > Hype"
-` ` `
+```
 
 </td>
     <td width="42%" align="center">
@@ -143,4 +143,3 @@ Developed a web-based solution for water conservation during a hackathon.
 *"Great developers are built by consistency, not shortcuts."*
 
 </div>
-```
