@@ -14,6 +14,10 @@
 
 ## 👤 About Me
 
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+
 ```python
 class OmJoshi:
     name       = "Om Joshi"
@@ -32,10 +36,12 @@ class OmJoshi:
         return "Consistency > Hype"
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
-</div>
-
+</td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Current Focus
