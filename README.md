@@ -165,8 +165,7 @@ I am actively contributing to the open-source community to collaborate with glob
   <a href="https://www.linkedin.com/in/0m-joshi2307"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <!-- Replace '#' with your actual links below -->
-  <a href="#"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00FFD1?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 </div>
 
 <br>
