@@ -84,12 +84,12 @@ I am a **B.E. Information Technology student** based in Pune, India, with a pass
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00FFD1&title_color=00FFD1" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00FFD1&title_color=00FFD1" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFD1&fire=00FFD1&currStreakNum=00FFD1" height="165" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1" height="165" alt="Top Languages" />
 </div>
 
 <br>
