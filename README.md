@@ -1,16 +1,28 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=220&section=header&text=Om%20Joshi&fontSize=80&fontColor=00FFD1&animation=fadeIn&fontAlignY=45&desc=Aspiring%20Software%20Engineer%20%C2%B7%20Robotics%20Builder&descSize=18&descAlignY=68&descColor=a0c4ff" alt="Om Joshi Header" />
-</div>
+ <!-- ===================================================== -->
+
+<!--                    HEADER                             -->
+
+<!-- ===================================================== -->
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=220&section=header&text=Om%20Joshi&fontSize=80&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%7C%20Problem%20Solving%20%7C%20Robotics&descSize=17&descAlignY=62&descColor=a0c4ff" width="100%" alt="Om Joshi — Software Engineering and Robotics" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00FFD1&center=true&vCenter=true&width=820&lines=Building+real-world+projects+with+code;C+%7C+Python+%7C+Problem+Solving;Exploring+AI%2C+Cloud+%26+Systems;Open+to+Hackathons+%26+Internships)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Building+projects+that+solve+real+problems;Exploring+Software+Engineering+%26+Cybersecurity;Learning+DSA%2C+Cloud+%26+Modern+Web+Development;Hackathons+%7C+Open+Source+%7C+Robotics" alt="Developer introduction animation" />
 
-<p align="center">
-  <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/0m-joshi2307"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+  <br/>
+
+  <a href="mailto:omjoshi2307@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/0m-joshi2307">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/omjoshi-2307">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/omjoshi_2307">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 
 </div>
 
@@ -18,157 +30,213 @@
 
 ## 👨‍💻 About Me
 
+Hi, I'm **Om Joshi**, an Information Technology engineering student passionate about building software, exploring cybersecurity, and turning ideas into working projects.
+
+I enjoy learning by building, collaborating with developers, and participating in hackathons where technology meets real-world problems.
+
+* 🎓 **Education:** B.E. in Information Technology
+* 💻 **Interests:** Software Engineering, Cybersecurity, AI, and Robotics
+* 🚀 **Building:** SureD — a blockchain-powered rental deposit platform
+* 🧠 **Currently learning:** Data Structures & Algorithms, Python, and React
+* 🌐 **Communities:** Open Source and Hackathons
+* 🎯 **Goal:** Become a well-rounded engineer by building reliable, useful, and secure software.
+
 ```python
 class OmJoshi:
     def __init__(self):
-        self.name = "Om Joshi"
-        self.role = "Software Engineer"
-        
-    def current_focus(self):
-        return ["Software Engineering", "Problem Solving", "Modern Web Development"]
-        
-    def interests(self):
-        return ["Robotics", "Cloud Fundamentals", "Hackathons", "Open Source"]
-        
-    def currently_building(self):
-        return "SureD - Blockchain Rental Deposit Platform"
-        
-    def learning(self):
-        return ["Data Structures & Algorithms", "Python", "React"]
-        
-    def mission(self):
-        return "Building robust systems, learning continuously, and solving real-world problems through code."
-```
+        self.role = "IT Engineering Student"
+        self.interests = [
+            "Software Engineering",
+            "Cybersecurity",
+            "Robotics",
+            "Cloud Computing",
+        ]
+        self.current_focus = [
+            "Data Structures & Algorithms",
+            "Building Real-World Projects",
+            "Open Source Contributions",
+        ]
 
-I am a Software Engineer passionate about crafting efficient solutions and building impactful systems. With a strong foundation in problem-solving and modern web development, I am actively exploring the realms of cloud technologies and robotics. I thrive in dynamic environments like hackathons and open-source communities, where I can collaborate, iterate rapidly, and contribute to meaningful projects. I am currently seeking opportunities such as Software Engineering Internships where I can bring my engineering mindset to a forward-thinking team.
+    def mindset(self):
+        return "Learn, Build, Improve, Repeat."
+
+me = OmJoshi()
+```
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I'm Working On
 
-* 🔭 **Building:** SureD (Blockchain Rental Deposit Platform)
-* 🌱 **Learning:** Data Structures & Algorithms, Python, React
-* ☁️ **Exploring:** Cloud Fundamentals & AI
-* 🤝 **Looking for:** Hackathons, Open Source Contributions, Software Engineering Internships
+| Focus                    | Description                                                  |
+| ------------------------ | ------------------------------------------------------------ |
+| 🔗 SureD                 | Blockchain-powered rental security deposit escrow            |
+| 🛰️ AI & Computer Vision | Exploring AI-powered visual computing and 3D reconstruction  |
+| 🛡️ Cybersecurity        | Learning application security and secure software practices  |
+| 🌱 Open Source           | Improving development skills through community contributions |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark" alt="Languages" />
-</div>
+### Programming Languages
 
-### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="Frontend" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark" alt="C, C++, Python, JavaScript, TypeScript, HTML and CSS" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="React, Tailwind CSS and Vite" />
+</p>
 
 ### Backend & Database
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend & Database" />
-</div>
 
-### Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino&theme=dark" alt="Tools" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express and MongoDB" />
+</p>
+
+### Blockchain & Embedded Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,arduino&theme=dark" alt="Rust and Arduino" />
+  <img src="https://img.shields.io/badge/Stellar-Soroban-7D00FF?style=flat-square" alt="Stellar Soroban" />
+</p>
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" alt="Git, GitHub, VS Code, Postman and Linux" />
+</p>
 
 ---
 
 ## 💻 Featured Projects
 
-### 🔗 SureD
-> **A blockchain-powered rental deposit escrow platform.**
+### 🔗 SureD — Blockchain Rental Deposit Platform
 
-SureD ensures secure and transparent rental deposits through smart contract automation, protecting both students and landlords. 
+**Making rental security deposits more transparent through blockchain technology.**
 
-- **Key Features:** Secure escrow, independent Student & Landlord dashboards, seamless wallet integration, and automated smart contracts.
-- **Impact:** Solves the critical real-world problem of rental deposit disputes by eliminating the need for trust between parties.
-- **Tech Stack:** `React`, `TypeScript`, `Tailwind CSS`, `Node.js`, `MongoDB`, `Stellar Soroban Smart Contracts`
+SureD is designed to help tenants and landlords manage rental security deposits through an escrow-based workflow, with smart contracts supporting transparent deposit handling.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) [![Live Demo](https://img.shields.io/badge/Live-Demo-00FFD1?style=for-the-badge&logo=vercel&logoColor=black)](#) [![Documentation](https://img.shields.io/badge/Read-Documentation-3776AB?style=for-the-badge&logo=readme&logoColor=white)](#)
+* 🔐 **Escrow workflow:** Deposit funding and release through a defined process.
+* 🤝 **Dual-party confirmation:** Tenant and landlord confirmation before the applicable release.
+* 🧾 **Transparency:** Blockchain-based transaction records.
+* 🏠 **Future direction:** Multi-tenant rental agreements and individual contribution tracking.
 
-<br/>
+**Tech:** React · TypeScript · Tailwind CSS · Node.js · MongoDB · Stellar · Soroban
 
-### 🤖 WALL-E Autonomous Robot
-> **An obstacle-avoiding autonomous robotics project.**
+<p>
+  <a href="https://github.com/Khushal-93/SureD">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github" alt="SureD GitHub repository" />
+  </a>
+  <a href="https://sure-d.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20SureD-00FFD1?style=for-the-badge&logo=vercel&logoColor=black" alt="SureD live demo" />
+  </a>
+</p>
 
-An embedded systems project featuring real-time obstacle detection and responsive navigation.
+### 🤖 WALL-E — Autonomous Obstacle-Avoiding Robot
 
-- **Key Features:** Sensor-based logic, real-time environment interaction, and robust decision-making.
-- **Learning Outcomes:** Deepened understanding of hardware-software interfacing, embedded C programming, and handling physical world constraints.
-- **Tech Stack:** `C`, `Arduino`, `Hardware Sensors`
+**Exploring the intersection of embedded programming and physical computing.**
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+An autonomous robotics project focused on detecting obstacles and responding to the surrounding environment using sensor-based logic.
 
-<br/>
+* 🤖 Autonomous obstacle detection and navigation.
+* ⚙️ Hardware-software integration.
+* 🧠 Practical experience with embedded programming and control logic.
 
-### 💧 Jal-Sanchaee-Navachar
-> **A web-based digital solution for water conservation.**
+**Tech:** C/C++ · Arduino · Sensors · Embedded Systems
 
-Developed rapidly during a hackathon to prototype environmental conservation strategies.
+### 💧 Jal-Sanchaee-Navachar — Water Conservation
 
-- **Key Features:** Intuitive user interface aimed at promoting water saving habits.
-- **Impact:** Showcased the ability to take an idea from concept to a functional prototype under strict time constraints.
-- **Tech Stack:** `HTML`, `CSS`, `JavaScript`
+**A hackathon prototype focused on environmental awareness and water conservation.**
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+A web-based concept designed to encourage water-saving habits through a simple digital interface.
+
+* 🌱 Environmental problem-solving.
+* 💻 Frontend prototyping.
+* ⚡ Rapid development and team collaboration.
+
+**Tech:** HTML · CSS · JavaScript
+
+> Project repository links can be added to the individual project sections when the correct repository URLs are available.
 
 ---
 
-## 🌟 Open Source
+## 🏆 Hackathons & Achievements
 
-I am actively contributing to the open-source community to collaborate with global developers and improve my engineering skills.
-
-- **GirlScript Summer of Code (GSSoC):** Actively participating and contributing to real-world projects.
-- **Mindset:** I believe in building in public, collaborating on challenging issues, and continuous learning through community feedback.
-- **Future Goals:** Aiming to contribute to major cloud and web tooling repositories to deepen my understanding of scalable systems.
+* 🥇 **Code Monopoly:** Secured 1st rank with teammate Khushal.
+* 🛰️ **Smart India Hackathon 2026:** Selected through the college internal hackathon with Team SochX Horizon; working on the DepthWizard problem statement.
+* 🚀 **Hackathon Experience:** Participated in events including Synapse Hackathon, Techathon 3.0, and Searchathon.
+* ☁️ **Google Cloud Study Jams 2025:** Completed learning activities covering cloud fundamentals.
+* 🌱 **Open Source:** Participating in the developer community and working to expand practical contribution experience.
 
 ---
 
-## 🏆 Experience & Achievements
+## 🌱 Open Source & Learning
 
-- **Hackathon Competitor:** Proven ability to build functional prototypes rapidly under pressure. Demonstrated strong team collaboration, problem-solving, and adaptability at events like *Synapse Hackathon*, *Techathon 3.0*, and *Searchathon*.
-- **Google Cloud Study Jams 2025:** Successfully completed the curriculum, gaining hands-on experience and a solid understanding of cloud fundamentals, infrastructure, and deployment.
-- **Robotics Enthusiast:** Engineered hardware-software integrated systems, transforming abstract logic into tangible real-world actions.
+I believe the best way to become a better engineer is to learn continuously, contribute to meaningful projects, and collaborate with other developers.
+
+My current priorities:
+
+* Strengthening Data Structures & Algorithms.
+* Building projects with maintainable code.
+* Learning application security and secure coding.
+* Understanding cloud infrastructure and deployment.
+* Contributing to open-source repositories.
+* Improving technical communication and teamwork.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00FFD1&title_color=00FFD1" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFD1&fire=00FFD1&currStreakNum=00FFD1" height="165" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&title_color=00FFD1" width="820" alt="GitHub Contribution Graph" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00FFD1&title_color=00FFD1&rank_icon=github" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFD1&fire=00FFD1&currStreakNum=00FFD1" height="170" alt="GitHub contribution streak" />
 </div>
 
-<br>
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE+VIEWS&color=00ffd1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1" height="165" alt="Most-used programming languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0d1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&title_color=00FFD1" width="95%" alt="GitHub contribution activity graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&label=PROFILE%20VIEWS&color=00ffd1&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, collaborating on projects, participating in hackathons, and learning from the open-source community.
 
 <div align="center">
-  <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/0m-joshi2307"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Replace '#' with your actual links below -->
-  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="mailto:omjoshi2307@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Om Joshi" />
+  </a>
+  <a href="https://www.linkedin.com/in/0m-joshi2307">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/omjoshi-2307">
+    <img src="https://img.shields.io/badge/GitHub-Collaborate-181717?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate on GitHub" />
+  </a>
+  <a href="https://x.com/omjoshi_2307">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
+  </a>
 </div>
 
-<br>
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:16213e,100:0f3460&height=120&section=footer" alt="Footer" />
+  <h3>💡 Learn Continuously. Build Thoughtfully. Solve Real Problems.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:16213e,100:0f3460&height=120&section=footer" width="100%" alt="Decorative footer" />
 </div>
