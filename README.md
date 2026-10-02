@@ -1,249 +1,172 @@
 <div align="center">
 
-<!-- ==================== ANIMATED HERO ==================== -->
+<!-- 🌸 ANIMATED PINK HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12072B,35:3B1278,70:6D28D9,100:7C3AED&height=260&section=header&text=Om%20Joshi&fontSize=72&fontColor=F8FAFC&animation=twinkling&fontAlignY=38&desc=B.E.%20Information%20Technology%20%E2%80%A2%20Builder%20%E2%80%A2%20Security%20Enthusiast&descSize=16&descAlignY=61&descColor=DDD6FE" width="100%" alt="Om Joshi"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120A12,25:2D0D24,50:5B123F,75:9D174D,100:EC4899&height=280&section=header&text=Om%20Joshi&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=B.E.%20Information%20Technology%20•%20Builder%20•%20Security%20Enthusiast&descAlignY=63&descSize=18&descColor=FBCFE8" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=F472B6&center=true&vCenter=true&width=650&lines=Building+practical+software;Exploring+Application+Security;Learning+Systems+%26+Networking;Turning+ideas+into+working+projects;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat" />
 
-<!-- ==================== TYPING ANIMATION ==================== -->
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Building+practical+software;Exploring+Application+Security;Learning+Systems+%26+Networking;Turning+ideas+into+working+projects;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat" alt="Typing animation"/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Building%20%26%20Learning-831843?style=for-the-badge&labelColor=1A0B16&color=BE185D"/>
 
-<br/><br/>
-
-<!-- ==================== STATUS ==================== -->
-
-<img src="https://img.shields.io/badge/🟢_Building_%26_Learning-1E1B4B?style=for-the-badge&labelColor=0F0A1E&color=7C3AED" alt="Building and Learning"/>
-
-<br/><br/>
-
-<!-- ==================== SOCIAL LINKS ==================== -->
+<br><br>
 
 <a href="https://om-joshi-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F0A1E" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-DB2777?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/0m-joshi2307">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0A1E" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-BE185D?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://github.com/omjoshi-2307">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0A1E" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-4A1633?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://x.com/omjoshi_2307">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0F0A1E" alt="X"/>
+<img src="https://img.shields.io/badge/X-831843?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-&nbsp;
 <a href="mailto:omjoshi2307@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0A1E" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
+
+<br>
 
 ---
 
 ## 👋 About Me
 
-I'm **Om Joshi**, a **B.E. Information Technology student at NMIET, Pune**, interested in building practical software and understanding how systems work.
+I'm **Om Joshi**, a first-year **B.E. Information Technology** student at **NMIET Pune (SPPU)**.
 
-I learn primarily by **building, experimenting, and solving real problems** through projects and hackathons.
+I learn by building functional software, participating in hackathons, and working on practical engineering problems.
 
-My current direction is:
-
-```text
-Software Engineering
-        ↓
-Systems & Networking
-        ↓
-Application Security
-        ↓
-Cybersecurity
-```
-
-I'm particularly interested in **web security, secure software engineering, Linux, and defensive cybersecurity**.
+My direction is toward **Cybersecurity, Secure Software Engineering, and Systems** while strengthening my core software engineering fundamentals.
 
 > **Learn → Build → Improve → Repeat**
 
 ---
 
-# 🚀 Selected Projects
+## 🚀 Selected Projects
 
-### 🏠 SureD
+### 🔐 SureD — Blockchain Rental Security Deposits
 
-**Blockchain-powered rental security deposit escrow**
+A blockchain-powered rental security deposit platform designed to make deposits more transparent and secure.
 
-SureD aims to make rental security deposits more transparent through a verifiable escrow workflow.
+**SureD 2.0** expands the original one-to-one escrow model into **multi-tenant rental agreements**, supporting shared contributions, individual tracking, and multi-party confirmation.
 
-```text
-Tenant
-  ↓
-Deposit Funding
-  ↓
-Smart Escrow
-  ↓
-Tenant + Landlord Confirmation
-  ↓
-Release / Refund
-```
+**Tech:** React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB · Stellar · Soroban · Rust
 
-**SureD 2.0** is extending the original one-to-one workflow toward **multi-tenant rental agreements**, including shared contributions, individual tracking, and multi-party confirmation.
-
-**My contribution:** Frontend development, application logic, state management and integration.
-**Blockchain:** Stellar / Soroban — led by Khushal Choudhary.
-
-`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Stellar` `Soroban`
-
-**[Repository ↗](https://github.com/Khushal-93/SureD)** · **[Live Application ↗](https://sure-d.vercel.app/)**
+🔗 **Repository:** https://github.com/Khushal-93/SureD
+🌐 **Live:** https://sure-d.vercel.app/
 
 ---
 
-### 🛰️ DepthWizard
+### 🛰️ DepthWizard — Single-View Height Estimation & 3D Flythrough
 
-**Single-View Height Estimation & 3D Flythrough**
+**SIH 2026 • ISRO Problem Statement PS26175 • Team SochX Horizon**
 
-`SIH 2026` · `ISRO PS26175` · `SochX Horizon`
-
-A computer-vision prototype exploring how **single-view optical remote-sensing imagery** can be transformed into useful depth/elevation representations and interactive 3D terrain visualizations.
+A remote-sensing workflow that explores extracting elevation information from a single RGB image.
 
 ```text
-RGB Image
-   ↓
-AI Depth Estimation
-   ↓
-Depth / Elevation Map
-   ↓
-DSM Generation
-   ↓
-3D Flythrough
+RGB IMAGE
+    ↓
+AI DEPTH ESTIMATION
+    ↓
+DEPTH / ELEVATION MAP
+    ↓
+DSM GENERATION
+    ↓
+3D FLYTHROUGH
 ```
 
-**Role:** Team Leader
-
-**Focus:** Monocular depth estimation • Remote sensing • DSM generation • 3D visualization
-
-`Python` `Computer Vision` `AI Depth Models` `Geospatial Data` `3D Visualization`
+Focus areas include **monocular depth estimation, remote sensing, DSM generation, and disaster management**.
 
 ---
 
-### 🤖 WALL-E
+### 🤖 WALL-E — Autonomous Obstacle Avoiding Robot
 
-**Autonomous Obstacle-Avoiding Robot**
+An autonomous robot that detects obstacles and changes its movement accordingly.
 
-A hands-on embedded systems project combining sensor feedback with autonomous navigation logic.
-
-* Ultrasonic obstacle detection
-* Real-time sensor processing
-* Motor control
-* Autonomous movement
-
-`C/C++` `Arduino` `Ultrasonic Sensors` `Embedded Systems`
+**Tech:** Arduino · C/C++ · Ultrasonic Sensors · Motor Control
 
 ---
 
 ### 💧 Jal-Sanchaee-Navachar
 
-**Water Conservation Portal**
+A web-based water conservation platform focused on awareness, rainwater harvesting, and practical water-management tools.
 
-A frontend hackathon prototype focused on water conservation awareness and rainwater-harvesting calculations.
-
-`HTML` `CSS` `JavaScript`
+**Tech:** HTML · CSS · JavaScript
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,tailwind,nodejs,express,mongodb,git,github,linux,vscode,postman,arduino&perline=9" alt="Technology stack"/>
-
-</div>
 
 ### Languages
 
-`C` `C++` `Python` `JavaScript` `TypeScript`
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 
-### Web & Backend
+### Frontend
 
-`React` `Tailwind CSS` `Node.js` `Express` `REST APIs` `MongoDB`
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+
+### Backend & Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,postman" />
 
 ### Security & Systems
 
-`Linux` `WSL` `OWASP Top 10` `Secure Coding` `Web Security`
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,vscode" />
 
-### Exploring
+### AI / Computer Vision
 
-`Computer Vision` `Geospatial AI` `Blockchain` `Embedded Systems`
+<img src="https://skillicons.dev/icons?i=python,opencv" />
 
----
+### Robotics
 
-# 📊 GitHub Activity
+<img src="https://skillicons.dev/icons?i=arduino" />
 
-<div align="center">
+### Blockchain
 
-<a href="https://github.com/omjoshi-2307">
+<img src="https://skillicons.dev/icons?i=rust" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=0F0A1E&title_color=A78BFA&text_color=E2E8F0&icon_color=F59E0B&border_radius=12" alt="Om Joshi GitHub statistics"/>
-
-</a>
-
-<a href="https://github.com/omjoshi-2307">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=0F0A1E&title_color=A78BFA&text_color=E2E8F0&border_radius=12" alt="Om Joshi top languages"/>
-
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=0F0A1E&ring=7C3AED&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak"/>
+**Stellar • Soroban • Rust**
 
 </div>
 
 ---
 
-# 🤝 Connect
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://om-joshi-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/0m-joshi2307">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://x.com/omjoshi_2307">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=120A12&title_color=F472B6&icon_color=EC4899&text_color=FBCFE8&ring_color=DB2777" height="165"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=120A12&title_color=F472B6&text_color=FBCFE8" height="165"/>
 
-<a href="mailto:omjoshi2307@gmail.com">
-<img src="https://img.shields.io/badge/omjoshi2307%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
 
-<br/><br/>
-
-<sub>Open to interesting projects, hackathons, open-source collaboration and learning opportunities.</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=120A12&ring=DB2777&fire=F472B6&currStreakLabel=F9A8D4&sideLabels=F9A8D4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FBCFE8" />
 
 </div>
 
 ---
 
+## 🌐 Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B1278,100:12072B&height=120&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
+<a href="https://om-joshi-portfolio.vercel.app">🌸 Portfolio</a>
+  •   <a href="https://www.linkedin.com/in/0m-joshi2307">💼 LinkedIn</a>
+  •   <a href="https://github.com/omjoshi-2307">💻 GitHub</a>
+  •   <a href="https://x.com/omjoshi_2307">𝕏 X</a>
+  •   <a href="mailto:omjoshi2307@gmail.com">💌 Email</a>
 
-<br/>
+<br><br>
 
-**Om Joshi** · B.E. Information Technology · Pune, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120A12,25:2D0D24,50:5B123F,75:9D174D,100:EC4899&height=140&section=footer&animation=twinkling"/>
 
-`Learn → Build → Secure → Repeat`
+### 🌸 Learn • Build • Secure • Repeat
 
 </div>
