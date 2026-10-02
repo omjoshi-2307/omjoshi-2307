@@ -1,36 +1,52 @@
 <div align="center">
 
-<!-- 🌸 ANIMATED PINK HERO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120A12,25:2D0D24,50:5B123F,75:9D174D,100:EC4899&height=280&section=header&text=Om%20Joshi&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=B.E.%20Information%20Technology%20•%20Builder%20•%20Security%20Enthusiast&descAlignY=63&descSize=18&descColor=FBCFE8" width="100%"/>
+<!--                    ✦ ANIMATED HERO ✦                          -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=F472B6&center=true&vCenter=true&width=650&lines=Building+practical+software;Exploring+Application+Security;Learning+Systems+%26+Networking;Turning+ideas+into+working+projects;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090612,20:160B2B,40:32145C,65:6D28D9,82:8B5CF6,100:C4B5FD&height=300&section=header&text=Om%20Joshi&fontSize=62&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=B.E.%20Information%20Technology%20•%20Builder%20•%20Security%20Enthusiast&descAlignY=62&descSize=18&descColor=DDD6FE" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Building%20%26%20Learning-831843?style=for-the-badge&labelColor=1A0B16&color=BE185D"/>
+<!-- ✦ Animated typing ✦ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=650&color=C4B5FD&center=true&vCenter=true&width=720&height=100&lines=Building+practical+software+%E2%9C%A8;Exploring+Application+Security+%F0%9F%94%90;Learning+Systems+%26+Networking+%F0%9F%96%A5%EF%B8%8F;Turning+ideas+into+working+projects+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat+%E2%9C%A8" />
+
+<br>
+
+<!-- ✦ Status ✦ -->
+
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Building%20%26%20Learning-1A102B?style=for-the-badge&labelColor=0D0817&color=8B5CF6"/>
 
 <br><br>
 
+<!-- ✦ Socials ✦ -->
+
 <a href="https://om-joshi-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-DB2777?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-C4B5FD?style=for-the-badge&logo=vercel&logoColor=160B2B"/>
 </a>
 <a href="https://www.linkedin.com/in/0m-joshi2307">
-<img src="https://img.shields.io/badge/LinkedIn-BE185D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/omjoshi-2307">
-<img src="https://img.shields.io/badge/GitHub-4A1633?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-32145C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://x.com/omjoshi_2307">
-<img src="https://img.shields.io/badge/X-831843?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-4C1D95?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="mailto:omjoshi2307@gmail.com">
-<img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
+<!-- ✦ Decorative visual ✦ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:C4B5FD,100:7C3AED&height=3&section=header" width="70%"/>
+
+</div>
 
 ---
 
@@ -43,6 +59,12 @@ I learn by building functional software, participating in hackathons, and workin
 My direction is toward **Cybersecurity, Secure Software Engineering, and Systems** while strengthening my core software engineering fundamentals.
 
 > **Learn → Build → Improve → Repeat**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A102B,50:4C1D95,100:8B5CF6&height=35&section=header&text=✦%20BUILD%20WITH%20PURPOSE%20✦&fontSize=13&fontColor=DDD6FE"/>
+
+</div>
 
 ---
 
@@ -135,19 +157,37 @@ A web-based water conservation platform focused on awareness, rainwater harvesti
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:C4B5FD,100:8B5CF6&height=3&section=header" width="55%"/>
+
+</div>
+
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=120A12&title_color=F472B6&icon_color=EC4899&text_color=FBCFE8&ring_color=DB2777" height="165"/>
+<!-- ✦ Main Stats ✦ -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=120A12&title_color=F472B6&text_color=FBCFE8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=0D0817&title_color=C4B5FD&icon_color=A78BFA&text_color=DDD6FE&ring_color=8B5CF6" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=0D0817&title_color=C4B5FD&text_color=DDD6FE" height="175"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=120A12&ring=DB2777&fire=F472B6&currStreakLabel=F9A8D4&sideLabels=F9A8D4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FBCFE8" />
+<!-- ✦ Streak ✦ -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=0D0817&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=DDD6FE" />
+
+<br><br>
+
+<!-- ✦ Contribution Activity ✦ -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0D0817&color=C4B5FD&line=8B5CF6&point=DDD6FE&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
@@ -165,8 +205,8 @@ A web-based water conservation platform focused on awareness, rainwater harvesti
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120A12,25:2D0D24,50:5B123F,75:9D174D,100:EC4899&height=140&section=footer&animation=twinkling"/>
+<!-- ✦ Animated Footer ✦ -->
 
-### 🌸 Learn • Build • Secure • Repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090612,20:160B2B,40:32145C,60:6D28D9,80:8B5CF6,100:C4B5FD&height=180&section=footer&animation=twinkling" width="100%"/>
 
 </div>
