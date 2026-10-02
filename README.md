@@ -1,46 +1,36 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    ⚔️ DEMON SLAYER HERO ⚔️                   -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:170707,40:3B0A0A,60:7F1D1D,80:B91C1C,100:DC2626&height=300&section=header&text=OM%20JOSHI&fontSize=62&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=B.E.%20Information%20Technology%20•%20Builder%20•%20Security%20Enthusiast&descAlignY=62&descSize=18&descColor=FECACA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:170707,50:3B0A0A,75:991B1B,100:DC2626&height=280&section=header&text=OM%20JOSHI&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=B.E.%20Information%20Technology%20%E2%80%A2%20Software%20Builder%20%E2%80%A2%20Security%20Enthusiast&descAlignY=62&descSize=17&descColor=FECACA" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=700&color=60A5FA&center=true&vCenter=true&width=760&height=100&lines=%E3%80%8C+Building+practical+software+%E3%80%8D;%E3%80%8C+Exploring+Application+Security+%E3%80%8D;%E3%80%8C+Learning+Systems+%26+Networking+%E3%80%8D;%E3%80%8C+Turning+ideas+into+working+projects+%E3%80%8D;%E3%80%8C+Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat+%E3%80%8D"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/%F0%9F%94%B4%20BUILDING%20%26%20LEARNING-160707?style=for-the-badge&labelColor=090909&color=B91C1C"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=780&height=90&lines=%E3%80%8C+Build+practical+software+%E3%80%8D;%E3%80%8C+Explore+application+security+%E3%80%8D;%E3%80%8C+Learn+systems+%26+networking+%E3%80%8D;%E3%80%8C+Turn+ideas+into+working+projects+%E3%80%8D;%E3%80%8C+Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat+%E3%80%8D"/>
 
 <br><br>
 
 <a href="https://om-joshi-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20PORTFOLIO-090909?style=for-the-badge&labelColor=090909&color=DC2626"/>
+<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20PORTFOLIO-090909?style=for-the-badge&color=DC2626"/>
 </a>
 <a href="https://www.linkedin.com/in/0m-joshi2307">
-<img src="https://img.shields.io/badge/%F0%9F%8C%8A%20LINKEDIN-090909?style=for-the-badge&labelColor=090909&color=2563EB"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8A%20LINKEDIN-090909?style=for-the-badge&color=2563EB"/>
 </a>
 <a href="https://github.com/omjoshi-2307">
-<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20GITHUB-090909?style=for-the-badge&labelColor=090909&color=7F1D1D"/>
+<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20GITHUB-090909?style=for-the-badge&color=7F1D1D"/>
 </a>
 <a href="https://x.com/omjoshi_2307">
-<img src="https://img.shields.io/badge/%F0%9F%8C%99%20X-090909?style=for-the-badge&labelColor=090909&color=374151"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%99%20X-090909?style=for-the-badge&color=374151"/>
 </a>
 <a href="mailto:omjoshi2307@gmail.com">
-<img src="https://img.shields.io/badge/%F0%9F%8F%AF%20EMAIL-090909?style=for-the-badge&labelColor=090909&color=991B1B"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%AF%20EMAIL-090909?style=for-the-badge&color=991B1B"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,25:991B1B,50:60A5FA,75:2563EB,100:DC2626&height=5&section=header" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,35:991B1B,65:2563EB,100:60A5FA&height=5&section=header" width="70%"/>
 
 <br>
 
-<sub>⚔️ <b>DEMON SLAYER INSPIRED • SOFTWARE BUILDER • SECURITY LEARNER</b> ⚔️</sub>
+<sub>⚔️ DEMON SLAYER INSPIRED • SOFTWARE BUILDER • SECURITY LEARNER ⚔️</sub>
 
 </div>
 
@@ -48,7 +38,7 @@
 
 <div align="center">
 
-### 「 水の呼吸 」 — *Water Breathing*
+## 「 水の呼吸 」 — Water Breathing
 
 **流れるように学び、鋭く考え、確実に build する。**
 
@@ -58,176 +48,164 @@
 
 ## 👋 About Me
 
-I'm **Om Joshi**, a first-year **B.E. Information Technology** student at **NMIET Pune (SPPU)**.
+I'm **Om Joshi**, a **B.E. Information Technology student at NMIET Pune (SPPU)**.
 
-I learn by building functional software, participating in hackathons, and working on practical engineering problems.
+I learn by **building**, experimenting, participating in hackathons, and solving practical engineering problems.
 
-My direction is toward **Cybersecurity, Secure Software Engineering, and Systems** while strengthening my core software engineering fundamentals.
-
-> **Learn → Build → Improve → Repeat**
-
-<br>
-
-<div align="center">
-
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
-
-**⚔️ DISCIPLINE • CURIOSITY • CONSISTENCY ⚔️**
-
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
-
-</div>
-
----
-
-## 🚀 Selected Projects
-
-<div align="center">
-
-### ⚔️ `MISSION 01`
-
-</div>
-
-### 🔐 SureD — Blockchain Rental Security Deposits
-
-A blockchain-powered rental security deposit platform designed to make deposits more transparent and secure.
-
-**SureD 2.0** expands the original one-to-one escrow model into **multi-tenant rental agreements**, supporting shared contributions, individual tracking, and multi-party confirmation.
-
-**Tech:** React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB · Stellar · Soroban · Rust
-
-🔗 **Repository:** https://github.com/Khushal-93/SureD
-🌐 **Live:** https://sure-d.vercel.app/
-
----
-
-<div align="center">
-
-### 🌊 `MISSION 02`
-
-</div>
-
-### 🛰️ DepthWizard — Single-View Height Estimation & 3D Flythrough
-
-**SIH 2026 • ISRO Problem Statement PS26175 • Team SochX Horizon**
-
-A remote-sensing workflow that explores extracting elevation information from a single RGB image.
+My current direction is:
 
 ```text
-╔══════════════════════════════════════════╗
-║             🌊 DEPTHWIZARD               ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║             RGB IMAGE                    ║
-║                 ↓                        ║
-║        AI DEPTH ESTIMATION               ║
-║                 ↓                        ║
-║       DEPTH / ELEVATION MAP              ║
-║                 ↓                        ║
-║          DSM GENERATION                  ║
-║                 ↓                        ║
-║           3D FLYTHROUGH                  ║
-║                                          ║
-╚══════════════════════════════════════════╝
+Software Engineering
+        ↓
+Systems & Networking
+        ↓
+Application Security
+        ↓
+Cybersecurity
 ```
 
-Focus areas include **monocular depth estimation, remote sensing, DSM generation, and disaster management**.
+I'm particularly interested in understanding **how software works, how systems communicate, and how those systems can be made more secure.**
+
+> **Learn → Build → Secure → Repeat**
 
 ---
 
-<div align="center">
+## ⚔️ Featured Projects
 
-### ⚡ `MISSION 03`
+### 🔐 01 — SureD
 
-</div>
+**Blockchain-Powered Rental Security Deposits**
 
-### 🤖 WALL-E — Autonomous Obstacle Avoiding Robot
+A rental security deposit platform designed around transparent, verifiable escrow.
 
-An autonomous robot that detects obstacles and changes its movement accordingly.
+**SureD 2.0** extends the original one-to-one tenant/landlord model toward **multi-tenant rental agreements**, including shared contributions, individual tracking, and multi-party confirmation.
 
-**Tech:** Arduino · C/C++ · Ultrasonic Sensors · Motor Control
+**Stack**
 
----
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Stellar` `Soroban` `Rust`
 
-<div align="center">
+**Links**
 
-### 🌸 `MISSION 04`
-
-</div>
-
-### 💧 Jal-Sanchaee-Navachar
-
-A web-based water conservation platform focused on awareness, rainwater harvesting, and practical water-management tools.
-
-**Tech:** HTML · CSS · JavaScript
+🔗 Repository — https://github.com/Khushal-93/SureD
+🌐 Live Demo — https://sure-d.vercel.app/
 
 ---
 
-<div align="center">
+### 🛰️ 02 — DepthWizard
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,40:7F1D1D,60:2563EB,100:090909&height=4&section=header" width="65%"/>
+**Single-View Height Estimation & 3D Flythrough**
 
-</div>
+**SIH 2026 • ISRO PS26175 • Team SochX Horizon**
+
+A remote-sensing workflow exploring how elevation information can be estimated from a single RGB image.
+
+```text
+RGB IMAGE
+    │
+    ▼
+AI DEPTH ESTIMATION
+    │
+    ▼
+DEPTH / ELEVATION MAP
+    │
+    ▼
+DSM GENERATION
+    │
+    ▼
+3D FLYTHROUGH
+```
+
+**Focus**
+
+`Monocular Depth Estimation` · `Remote Sensing` · `DSM` · `3D Visualization` · `Disaster Management`
 
 ---
 
-## 🛠️ Technical Skills
+### 🤖 03 — WALL-E
+
+**Autonomous Obstacle Avoiding Robot**
+
+A small autonomous robotics project that detects obstacles and dynamically changes its movement.
+
+**Stack**
+
+`Arduino` `C/C++` `Ultrasonic Sensors` `Motor Control`
+
+---
+
+### 💧 04 — Jal-Sanchaee-Navachar
+
+**Water Conservation Platform**
+
+A web-based platform focused on water conservation awareness, rainwater harvesting, and practical water-management concepts.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ⚔️ Languages
+### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 
-### 🌊 Frontend
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+### 🌐 Web Development
 
-### 🏯 Backend & Development
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,express,mongodb" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,postman" />
+<br><br>
 
 ### 🔐 Security & Systems
 
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,vscode,git,github,postman" />
 
-### 🌊 AI / Computer Vision
+<br><br>
+
+### 🤖 AI & Computer Vision
 
 <img src="https://skillicons.dev/icons?i=python,opencv" />
 
-### ⚡ Robotics
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=arduino" />
+### ⚡ Robotics & Blockchain
 
-### 💎 Blockchain
+<img src="https://skillicons.dev/icons?i=arduino,rust" />
 
-<img src="https://skillicons.dev/icons?i=rust" />
+<br>
 
 **Stellar • Soroban • Rust**
 
 </div>
 
-<br>
+---
+
+## ⚔️ The Technique Tree
 
 <div align="center">
 
 ```text
-       ⚔️ TECHNIQUE TREE ⚔️
-
-             ┌─────────┐
-             │   CODE  │
-             └────┬────┘
-                  │
-        ┌─────────┴─────────┐
-        ↓                   ↓
-   SOFTWARE              SYSTEMS
-        │                   │
-        └─────────┬─────────┘
-                  ↓
-             SECURITY
-                  │
-                  ↓
-          CYBERSECURITY
+                         ⚔️ OM JOSHI ⚔️
+                               │
+                         ┌─────┴─────┐
+                         │   CODE    │
+                         └─────┬─────┘
+                               │
+                ┌──────────────┴──────────────┐
+                │                             │
+          SOFTWARE                        SYSTEMS
+                │                             │
+                └──────────────┬──────────────┘
+                               │
+                         SECURITY
+                               │
+                               ▼
+                       CYBERSECURITY
 ```
 
 </div>
@@ -244,9 +222,21 @@ A web-based water conservation platform focused on awareness, rainwater harvesti
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=090909&ring=B91C1C&fire=F87171&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=090909&ring=B91C1C&fire=F87171&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1"/>
 
 </div>
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+`Cybersecurity` • `Application Security` • `Linux` • `Networking`
+`Secure Software Engineering` • `Systems` • `Open Source`
+
+</div>
+
 ---
 
 ## 🌐 Connect
@@ -254,14 +244,14 @@ A web-based water conservation platform focused on awareness, rainwater harvesti
 <div align="center">
 
 <a href="https://om-joshi-portfolio.vercel.app">⚔️ Portfolio</a>
-  •   <a href="https://www.linkedin.com/in/0m-joshi2307">🌊 LinkedIn</a>
-  •   <a href="https://github.com/omjoshi-2307">⚔️ GitHub</a>
-  •   <a href="https://x.com/omjoshi_2307">🌙 X</a>
-  •   <a href="mailto:omjoshi2307@gmail.com">🏯 Email</a>
+  •   <a href="https://www.linkedin.com/in/0m-joshi2307">🌊 LinkedIn</a>
+  •   <a href="https://github.com/omjoshi-2307">⚔️ GitHub</a>
+  •   <a href="https://x.com/omjoshi_2307">🌙 X</a>
+  •   <a href="mailto:omjoshi2307@gmail.com">🏯 Email</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:170707,40:3B0A0A,60:7F1D1D,80:B91C1C,100:DC2626&height=190&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:170707,40:3B0A0A,60:7F1D1D,80:B91C1B,100:DC2626&height=170&section=footer&animation=twinkling" width="100%"/>
 
 ### ⚔️ Learn • Build • Secure • Repeat 🌊
 
