@@ -246,12 +246,7 @@ A web-based water conservation platform focused on awareness, rainwater harvesti
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=090909&ring=B91C1C&fire=F87171&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=090909&color=60A5FA&line=B91C1C&point=FFFFFF&area=true&hide_border=true&custom_title=🌊%20BREATHING%20%2F%20CONTRIBUTION%20FLOW" width="95%"/>
-
 </div>
-
 ---
 
 ## 🌐 Connect
