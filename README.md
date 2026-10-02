@@ -1,12 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:12072B,45:3B1278,90:6D28D9,100:7C3AED&height=230&section=header&text=Om%20Joshi&fontSize=70&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=B.E.%20Information%20Technology%20%E2%80%A2%20Builder%20%E2%80%A2%20Security%20Enthusiast&descSize=15&descAlignY=62&descColor=DDD6FE" width="100%" alt="Om Joshi"/>
+<!-- ==================== ANIMATED HERO ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12072B,35:3B1278,70:6D28D9,100:7C3AED&height=260&section=header&text=Om%20Joshi&fontSize=72&fontColor=F8FAFC&animation=twinkling&fontAlignY=38&desc=B.E.%20Information%20Technology%20%E2%80%A2%20Builder%20%E2%80%A2%20Security%20Enthusiast&descSize=16&descAlignY=61&descColor=DDD6FE" width="100%" alt="Om Joshi"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+practical+software;Exploring+application+security;Learning+systems+from+the+inside+out;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat" alt="Typing animation"/>
+<!-- ==================== TYPING ANIMATION ==================== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Building+practical+software;Exploring+Application+Security;Learning+Systems+%26+Networking;Turning+ideas+into+working+projects;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat" alt="Typing animation"/>
 
 <br/><br/>
+
+<!-- ==================== STATUS ==================== -->
+
+<img src="https://img.shields.io/badge/🟢_Building_%26_Learning-1E1B4B?style=for-the-badge&labelColor=0F0A1E&color=7C3AED" alt="Building and Learning"/>
+
+<br/><br/>
+
+<!-- ==================== SOCIAL LINKS ==================== -->
 
 <a href="https://om-joshi-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F0A1E" alt="Portfolio"/>
@@ -18,6 +30,10 @@
 &nbsp;
 <a href="https://github.com/omjoshi-2307">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0A1E" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://x.com/omjoshi_2307">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0F0A1E" alt="X"/>
 </a>
 &nbsp;
 <a href="mailto:omjoshi2307@gmail.com">
@@ -49,17 +65,6 @@ Cybersecurity
 I'm particularly interested in **web security, secure software engineering, Linux, and defensive cybersecurity**.
 
 > **Learn → Build → Improve → Repeat**
-
----
-
-## ⚡ Current Focus
-
-| 🔨 Building                                        | 🧠 Learning                    |
-| :------------------------------------------------- | :----------------------------- |
-| **SureD 2.0** — Multi-tenant rental deposit escrow | Data Structures & Algorithms   |
-| **DepthWizard** — AI-based terrain estimation      | Operating Systems & Networking |
-| Hackathon prototypes & practical software          | OWASP & Application Security   |
-| Open-source & collaborative development            | Linux & Secure Coding          |
 
 ---
 
@@ -155,39 +160,25 @@ A frontend hackathon prototype focused on water conservation awareness and rainw
 
 </div>
 
-### Areas of Interest
+### Languages
 
-**Programming**
-C • C++ • Python • JavaScript • TypeScript
+`C` `C++` `Python` `JavaScript` `TypeScript`
 
-**Web Engineering**
-React • Node.js • Express • REST APIs • MongoDB
+### Web & Backend
 
-**Security & Systems**
-Linux • WSL • OWASP Top 10 • Secure Coding • Web Security
+`React` `Tailwind CSS` `Node.js` `Express` `REST APIs` `MongoDB`
 
-**Exploration**
-Computer Vision • Geospatial AI • Blockchain • Embedded Systems
+### Security & Systems
 
----
+`Linux` `WSL` `OWASP Top 10` `Secure Coding` `Web Security`
 
-# 🏆 Highlights
+### Exploring
 
-<div align="center">
-
-| Achievement | Highlight                                     |
-| :---------- | :-------------------------------------------- |
-| 🥇          | **1st Rank — Code Monopoly**                  |
-| 🚀          | **Team Leader — SIH 2026 Internal Selection** |
-| 🛰️         | **DepthWizard — ISRO PS26175**                |
-| ☁️          | **Google Cloud Study Jams**                   |
-| ⚡           | **Multiple Collegiate Hackathons**            |
-
-</div>
+`Computer Vision` `Geospatial AI` `Blockchain` `Embedded Systems`
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -247,7 +238,9 @@ Computer Vision • Geospatial AI • Blockchain • Embedded Systems
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:12072B,45:3B1278,90:6D28D9,100:7C3AED&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B1278,100:12072B&height=120&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
+
+<br/>
 
 **Om Joshi** · B.E. Information Technology · Pune, India
 
