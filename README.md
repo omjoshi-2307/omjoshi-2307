@@ -10,19 +10,13 @@
 
 <br>
 
-<!-- 🌊 Breathing-style animated introduction -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=700&color=60A5FA&center=true&vCenter=true&width=760&height=100&lines=%E3%80%8C+Building+practical+software+%E3%80%8D;%E3%80%8C+Exploring+Application+Security+%E3%80%8D;%E3%80%8C+Learning+Systems+%26+Networking+%E3%80%8D;%E3%80%8C+Turning+ideas+into+working+projects+%E3%80%8D;%E3%80%8C+Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat+%E3%80%8D"/>
 
 <br>
 
-<!-- ⚔️ Status -->
-
 <img src="https://img.shields.io/badge/%F0%9F%94%B4%20BUILDING%20%26%20LEARNING-160707?style=for-the-badge&labelColor=090909&color=B91C1C"/>
 
 <br><br>
-
-<!-- ⚔️ Katana-inspired navigation -->
 
 <a href="https://om-joshi-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20PORTFOLIO-090909?style=for-the-badge&labelColor=090909&color=DC2626"/>
@@ -41,8 +35,6 @@
 </a>
 
 <br><br>
-
-<!-- ⚔️ Blade -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,25:991B1B,50:60A5FA,75:2563EB,100:DC2626&height=5&section=header" width="78%"/>
 
@@ -246,53 +238,17 @@ A web-based water conservation platform focused on awareness, rainwater harvesti
 
 <div align="center">
 
-<!-- ⚔️ GitHub Stats -->
-
 <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=090909&title_color=F87171&icon_color=60A5FA&text_color=E5E7EB&ring_color=B91C1C" height="175"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=090909&title_color=F87171&text_color=E5E7EB" height="175"/>
 
 <br><br>
 
-<!-- 🌊 Streak -->
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=090909&ring=B91C1C&fire=F87171&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1" />
 
 <br><br>
 
-<!-- 🌊 Contribution Flow -->
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=090909&color=60A5FA&line=B91C1C&point=FFFFFF&area=true&hide_border=true&custom_title=🌊%20BREATHING%20%2F%20CONTRIBUTION%20FLOW" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚔️ `THE PATH CONTINUES...`
-
-<br>
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║                    ⚔️                                ║
-║                   ╱                                  ║
-║                  ╱                                   ║
-║                 ╱                                    ║
-║                ╱                                     ║
-║                                                      ║
-║             LEARN → BUILD → SECURE                  ║
-║                                                      ║
-║                 KEEP MOVING                          ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=FCA5A5&center=true&vCenter=true&width=600&lines=%E3%80%8C+There+is+always+another+technique+to+learn.+%E3%80%8D;%E3%80%8C+There+is+always+another+problem+to+solve.+%E3%80%8D;%E3%80%8C+Keep+building.+Keep+improving.+%E3%80%8D"/>
 
 </div>
 
@@ -309,8 +265,6 @@ A web-based water conservation platform focused on awareness, rainwater harvesti
   •   <a href="mailto:omjoshi2307@gmail.com">🏯 Email</a>
 
 <br><br>
-
-<!-- ⚔️ Animated Final Slash -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:170707,40:3B0A0A,60:7F1D1D,80:B91C1C,100:DC2626&height=190&section=footer&animation=twinkling" width="100%"/>
 
