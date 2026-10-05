@@ -1,32 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1514,25:3B2020,50:722F37,75:8A454C,100:B7A89A&height=280&section=header&text=OM%20JOSHI&fontSize=64&fontColor=E8DCC6&fontAlignY=40&animation=twinkling&desc=B.E.%20Information%20Technology%20%E2%80%A2%20Software%20Builder%20%E2%80%A2%20Security%20Enthusiast&descAlignY=62&descSize=17&descColor=B7A89A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1514,25:3B2020,50:722F37,75:8A454C,100:E8DCC6&height=300&section=header&text=OM%20JOSHI&fontSize=68&fontColor=E8DCC6&fontAlignY=38&animation=twinkling&desc=B.E.%20Information%20Technology%20%E2%80%A2%20Software%20Builder%20%E2%80%A2%20Security%20Enthusiast&descAlignY=62&descSize=17&descColor=B7A89A" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=800&color=722F37&center=true&vCenter=true&width=780&height=90&lines=%E3%80%8C+Build+practical+software+%E3%80%8D;%E3%80%8C+Explore+application+security+%E3%80%8D;%E3%80%8C+Learn+systems+%26+networking+%E3%80%8D;%E3%80%8C+Turn+ideas+into+working+projects+%E3%80%8D;%E3%80%8C+Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat+%E3%80%8D"/>
+### `BUILD · EXPLORE · UNDERSTAND · SECURE`
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=800&color=722F37&center=true&vCenter=true&width=820&height=90&lines=%E3%80%8C+Build+practical+software+%E3%80%8D;%E3%80%8C+Explore+application+security+%E3%80%8D;%E3%80%8C+Learn+systems+%26+networking+%E3%80%8D;%E3%80%8C+Turn+ideas+into+working+projects+%E3%80%8D;%E3%80%8C+Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat+%E3%80%8D"/>
+
+<br>
 
 <a href="https://om-joshi-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20PORTFOLIO-1A1514?style=for-the-badge&color=722F37&labelColor=1A1514"/>
+<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20PORTFOLIO-1A1514?style=for-the-badge&labelColor=1A1514&color=722F37"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/0m-joshi2307">
-<img src="https://img.shields.io/badge/%F0%9F%8C%8A%20LINKEDIN-1A1514?style=for-the-badge&color=722F37&labelColor=1A1514"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8A%20LINKEDIN-1A1514?style=for-the-badge&labelColor=1A1514&color=722F37"/>
 </a>
+&nbsp;
 <a href="https://github.com/omjoshi-2307">
-<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20GITHUB-1A1514?style=for-the-badge&color=722F37&labelColor=1A1514"/>
+<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20GITHUB-1A1514?style=for-the-badge&labelColor=1A1514&color=722F37"/>
 </a>
+&nbsp;
 <a href="https://x.com/omjoshi_2307">
-<img src="https://img.shields.io/badge/%F0%9F%8C%99%20X-1A1514?style=for-the-badge&color=B7A89A&labelColor=1A1514"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%99%20X-1A1514?style=for-the-badge&labelColor=1A1514&color=B7A89A"/>
 </a>
+&nbsp;
 <a href="mailto:omjoshi2307@gmail.com">
-<img src="https://img.shields.io/badge/%F0%9F%8F%AF%20EMAIL-1A1514?style=for-the-badge&color=722F37&labelColor=1A1514"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%AF%20EMAIL-1A1514?style=for-the-badge&labelColor=1A1514&color=722F37"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:722F37,35:8A454C,65:B7A89A,100:E8DCC6&height=5&section=header" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:722F37,35:8A454C,65:B7A89A,100:E8DCC6&height=5&section=header" width="78%"/>
 
 <br>
 
@@ -38,41 +44,92 @@
 
 <div align="center">
 
-## 「 水の呼吸 」 — Water Breathing
+# `01 / IDENTITY`
+
+### 「 水の呼吸 」 — Water Breathing
 
 **流れるように学び、鋭く考え、確実に build する。**
+
+<br>
+
+> **Learn → Build → Secure → Repeat**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 ABOUT ME
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 I'm **Om Joshi**, a **B.E. Information Technology student at NMIET Pune (SPPU)**.
 
 I learn by **building**, experimenting, participating in hackathons, and solving practical engineering problems.
 
-My current direction is:
+I'm particularly interested in understanding:
+
+* how software works
+* how systems communicate
+* how applications are secured
+* how engineering ideas become working systems
+
+</td>
+
+<td width="45%" valign="top">
+
+### CURRENT DIRECTION
 
 ```text
-Software Engineering
-        ↓
-Systems & Networking
-        ↓
-Application Security
-        ↓
-Cybersecurity
+SOFTWARE
+   │
+   ▼
+SYSTEMS
+   │
+   ▼
+NETWORKING
+   │
+   ▼
+APPLICATION SECURITY
+   │
+   ▼
+CYBERSECURITY
 ```
 
-I'm particularly interested in understanding **how software works, how systems communicate, and how those systems can be made more secure.**
-
-> **Learn → Build → Secure → Repeat**
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚔️ Featured Projects
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=722F37&height=3&section=header" width="45%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `02 / SELECTED WORK`
+
+### ⚔️ FEATURED PROJECTS
+
+**Four projects. Different domains. One approach — learn by building.**
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 01 — SureD
+
+#### BLOCKCHAIN · FINTECH · ESCROW
 
 **Blockchain-Powered Rental Security Deposits**
 
@@ -80,18 +137,25 @@ A rental security deposit platform designed around transparent, verifiable escro
 
 **SureD 2.0** extends the original one-to-one tenant/landlord model toward **multi-tenant rental agreements**, including shared contributions, individual tracking, and multi-party confirmation.
 
-**Stack**
+**STACK**
 
-`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Stellar` `Soroban` `Rust`
+`React` `TypeScript` `Tailwind CSS`
+`Node.js` `Express` `MongoDB`
+`Stellar` `Soroban` `Rust`
 
-**Links**
+**LINKS**
 
 🔗 Repository — https://github.com/Khushal-93/SureD
+
 🌐 Live Demo — https://sure-d.vercel.app/
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛰️ 02 — DepthWizard
+
+#### AI · REMOTE SENSING · 3D
 
 **Single-View Height Estimation & 3D Flythrough**
 
@@ -115,79 +179,142 @@ DSM GENERATION
 3D FLYTHROUGH
 ```
 
-**Focus**
+**FOCUS**
 
-`Monocular Depth Estimation` · `Remote Sensing` · `DSM` · `3D Visualization` · `Disaster Management`
+`Monocular Depth Estimation`
+`Remote Sensing` · `DSM`
+`3D Visualization` · `Disaster Management`
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 03 — WALL-E
+
+#### ROBOTICS · EMBEDDED SYSTEMS
 
 **Autonomous Obstacle Avoiding Robot**
 
 A small autonomous robotics project that detects obstacles and dynamically changes its movement.
 
-**Stack**
+**STACK**
 
-`Arduino` `C/C++` `Ultrasonic Sensors` `Motor Control`
+`Arduino` `C/C++`
+`Ultrasonic Sensors` `Motor Control`
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 💧 04 — Jal-Sanchaee-Navachar
+
+#### WEB · WATER CONSERVATION
 
 **Water Conservation Platform**
 
 A web-based platform focused on water conservation awareness, rainwater harvesting, and practical water-management concepts.
 
-**Stack**
+**STACK**
 
 `HTML` `CSS` `JavaScript`
 
----
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+---
 
 <div align="center">
 
-### 💻 Programming
+### PROJECT SPECTRUM
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
-
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,express,mongodb" />
-
-<br><br>
-
-### 🔐 Security & Systems
-
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,vscode,git,github,postman" />
-
-<br><br>
-
-### 🤖 AI & Computer Vision
-
-<img src="https://skillicons.dev/icons?i=python,opencv" />
-
-<br><br>
-
-### ⚡ Robotics & Blockchain
-
-<img src="https://skillicons.dev/icons?i=arduino,rust" />
-
-<br>
-
-**Stellar • Soroban • Rust**
+`FINTECH` ───── `AI` ───── `REMOTE SENSING` ───── `ROBOTICS` ───── `WEB`
 
 </div>
 
 ---
 
-## ⚔️ The Technique Tree
+<div align="center">
+
+# `03 / TOOLKIT`
+
+### 🛠️ TECHNOLOGIES I WORK WITH
+
+</div>
+
+### 💻 PROGRAMMING
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+
+</div>
+
+<br>
+
+### 🌐 WEB DEVELOPMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,express,mongodb" />
+
+</div>
+
+<br>
+
+### 🔐 SECURITY & SYSTEMS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,vscode,git,github,postman" />
+
+</div>
+
+<br>
+
+### 🤖 AI & COMPUTER VISION
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+
+</div>
+
+<br>
+
+### ⚡ ROBOTICS & BLOCKCHAIN
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,rust" />
+
+<br>
+
+`STELLAR` · `SOROBAN` · `RUST`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8DCC6,50:B7A89A,100:722F37&height=3&section=header" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `04 / THE SYSTEM`
+
+### ⚔️ THE TECHNIQUE TREE
+
+**A simplified map of where I'm heading.**
+
+<br>
 
 ```text
                          ⚔️ OM JOSHI ⚔️
@@ -208,11 +335,21 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
                        CYBERSECURITY
 ```
 
+<br>
+
+`CODE` → `SYSTEMS` → `SECURITY` → `CYBERSECURITY`
+
 </div>
 
 ---
 
-## 📊 GitHub Activity
+<div align="center">
+
+# `05 / ACTIVITY`
+
+### 📊 GITHUB ACTIVITY
+
+</div>
 
 <div align="center">
 
@@ -228,31 +365,59 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
 
 ---
 
-## 🌱 Currently Exploring
-
 <div align="center">
 
-`Cybersecurity` • `Application Security` • `Linux` • `Networking`
-`Secure Software Engineering` • `Systems` • `Open Source`
+# `06 / NOW`
+
+### 🌱 CURRENTLY EXPLORING
+
+<br>
+
+<table>
+<tr>
+<td align="center">🔐<br><b>CYBERSECURITY</b></td>
+<td align="center">🛡️<br><b>APP SECURITY</b></td>
+<td align="center">🐧<br><b>LINUX</b></td>
+<td align="center">🌐<br><b>NETWORKING</b></td>
+</tr>
+<tr>
+<td align="center">⚙️<br><b>SECURE SOFTWARE</b></td>
+<td align="center">💻<br><b>SYSTEMS</b></td>
+<td align="center">🌱<br><b>OPEN SOURCE</b></td>
+<td align="center">🧠<br><b>CONTINUOUS LEARNING</b></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🌐 Connect
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=722F37&height=3&section=header" width="35%"/>
+
+<br>
+
+# `07 / CONNECT`
+
+### 🌐 FIND ME AROUND THE WEB
+
+<br>
+
 <a href="https://om-joshi-portfolio.vercel.app">⚔️ Portfolio</a>
-  •   <a href="https://www.linkedin.com/in/0m-joshi2307">🌊 LinkedIn</a>
-  •   <a href="https://github.com/omjoshi-2307">⚔️ GitHub</a>
-  •   <a href="https://x.com/omjoshi_2307">🌙 X</a>
-  •   <a href="mailto:omjoshi2307@gmail.com">🏯 Email</a>
+  •   <a href="https://www.linkedin.com/in/0m-joshi2307">🌊 LinkedIn</a>
+  •   <a href="https://github.com/omjoshi-2307">⚔️ GitHub</a>
+  •   <a href="https://x.com/omjoshi_2307">🌙 X</a>
+  •   <a href="mailto:omjoshi2307@gmail.com">🏯 Email</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1514,20:3B2020,40:722F37,60:7F454B,80:B7A89A,100:E8DCC6&height=170&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1514,20:3B2020,40:722F37,60:7F454B,80:B7A89A,100:E8DCC6&height=190&section=footer&animation=twinkling" width="100%"/>
 
 ### ⚔️ Learn • Build • Secure • Repeat 🌊
+
+<br>
+
+<sub>OM JOSHI · INFORMATION TECHNOLOGY · NMIET · PUNE</sub>
 
 </div>
