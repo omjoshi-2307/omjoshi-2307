@@ -4,37 +4,38 @@
 
 <br>
 
-# `OM / JOSHI`
-
-### B.E. INFORMATION TECHNOLOGY · NMIET PUNE
-
-**Software Builder · Systems Explorer · Security Learner**
-
-<br>
+### `BUILD · EXPLORE · UNDERSTAND · SECURE`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=800&color=722F37&center=true&vCenter=true&width=820&height=80&lines=%E3%80%8C+Build+practical+software+%E3%80%8D;%E3%80%8C+Explore+application+security+%E3%80%8D;%E3%80%8C+Learn+systems+%26+networking+%E3%80%8D;%E3%80%8C+Turn+ideas+into+working+projects+%E3%80%8D;%E3%80%8C+Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Repeat+%E3%80%8D"/>
 
 <br>
 
 <a href="https://om-joshi-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-1A1514?style=for-the-badge&labelColor=1A1514&color=722F37"/>
+<img src="https://img.shields.io/badge/⚔️%20PORTFOLIO-722F37?style=for-the-badge&labelColor=1A1514"/>
 </a>
 <a href="https://www.linkedin.com/in/0m-joshi2307">
-<img src="https://img.shields.io/badge/LINKEDIN-1A1514?style=for-the-badge&labelColor=1A1514&color=722F37"/>
+<img src="https://img.shields.io/badge/🌊%20LINKEDIN-722F37?style=for-the-badge&labelColor=1A1514"/>
 </a>
 <a href="https://github.com/omjoshi-2307">
-<img src="https://img.shields.io/badge/GITHUB-1A1514?style=for-the-badge&labelColor=1A1514&color=722F37"/>
+<img src="https://img.shields.io/badge/⚔️%20GITHUB-722F37?style=for-the-badge&labelColor=1A1514"/>
 </a>
 <a href="https://x.com/omjoshi_2307">
-<img src="https://img.shields.io/badge/X-1A1514?style=for-the-badge&labelColor=1A1514&color=B7A89A"/>
+<img src="https://img.shields.io/badge/🌙%20X-B7A89A?style=for-the-badge&labelColor=1A1514"/>
+</a>
+<a href="https://www.instagram.com/0m.a.joshi/">
+<img src="https://img.shields.io/badge/📸%20INSTAGRAM-722F37?style=for-the-badge&labelColor=1A1514"/>
 </a>
 <a href="mailto:omjoshi2307@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-1A1514?style=for-the-badge&labelColor=1A1514&color=722F37"/>
+<img src="https://img.shields.io/badge/🏯%20EMAIL-722F37?style=for-the-badge&labelColor=1A1514"/>
 </a>
 
 <br><br>
 
-`⚔️ DEMON SLAYER INSPIRED` · `SOFTWARE BUILDER` · `SECURITY LEARNER`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:722F37,35:8A454C,65:B7A89A,100:E8DCC6&height=5&section=header" width="78%"/>
+
+<br>
+
+<sub>⚔️ DEMON SLAYER INSPIRED • SOFTWARE BUILDER • SECURITY LEARNER ⚔️</sub>
 
 </div>
 
@@ -42,17 +43,19 @@
 
 <div align="center">
 
-### 「 水の呼吸 」 — WATER BREATHING
+## 「 水の呼吸 」 — WATER BREATHING
 
-**流れるように学び、鋭く考え、確実に build する。**
-
-</div>
+### 流れるように学び、鋭く考え、確実に build する。
 
 <br>
 
+`LEARN` → `BUILD` → `SECURE` → `REPEAT`
+
+</div>
+
 ---
 
-# 01 — THE PERSON
+# `01 / IDENTITY`
 
 <table>
 <tr>
@@ -75,23 +78,20 @@ I'm particularly interested in understanding **how software works, how systems c
 
 ### CURRENT DIRECTION
 
-<br>
-
-```text
+```text id="5w5k4g"
 SOFTWARE
    │
-   ├── WEB
+   ▼
+SYSTEMS
    │
-   └── SYSTEMS
-          │
-          ▼
-      NETWORKING
-          │
-          ▼
- APPLICATION SECURITY
-          │
-          ▼
-   CYBERSECURITY
+   ▼
+NETWORKING
+   │
+   ▼
+APPLICATION SECURITY
+   │
+   ▼
+CYBERSECURITY
 ```
 
 </td>
@@ -101,17 +101,40 @@ SOFTWARE
 
 ---
 
-# 02 — THE WORK
+<div align="center">
+
+### A SMALL MAP OF WHAT I BUILD
+
+```text
+        ┌───────────────┐
+        │    SOFTWARE   │
+        └───────┬───────┘
+                │
+       ┌────────┴────────┐
+       ▼                 ▼
+    WEB APPS          SYSTEMS
+       │                 │
+       └────────┬────────┘
+                ▼
+          SECURITY
+                │
+                ▼
+        CYBERSECURITY
+```
+
+</div>
+
+---
+
+# `02 / SELECTED WORK`
 
 <div align="center">
 
 ## ⚔️ FEATURED PROJECTS
 
-`04 PROJECTS` · `MULTIPLE DOMAINS` · `ONE BUILD-FIRST MINDSET`
+`FINTECH` · `AI` · `REMOTE SENSING` · `ROBOTICS` · `WEB`
 
 </div>
-
-<br>
 
 ---
 
@@ -119,6 +142,7 @@ SOFTWARE
 
 <table>
 <tr>
+
 <td width="35%" valign="top">
 
 ### 🔐
@@ -130,7 +154,9 @@ SOFTWARE
 <br>
 
 `FINTECH`
+
 `BLOCKCHAIN`
+
 `ESCROW`
 
 </td>
@@ -146,7 +172,9 @@ A rental security deposit platform designed around transparent, verifiable escro
 **STACK**
 
 `React` `TypeScript` `Tailwind CSS`
+
 `Node.js` `Express` `MongoDB`
+
 `Stellar` `Soroban` `Rust`
 
 <br>
@@ -156,6 +184,7 @@ A rental security deposit platform designed around transparent, verifiable escro
 🌐 Live Demo — https://sure-d.vercel.app/
 
 </td>
+
 </tr>
 </table>
 
@@ -165,6 +194,7 @@ A rental security deposit platform designed around transparent, verifiable escro
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
 ### 🛰️
@@ -177,9 +207,7 @@ A rental security deposit platform designed around transparent, verifiable escro
 
 A remote-sensing workflow exploring how elevation information can be estimated from a single RGB image.
 
-<br>
-
-```text
+```text id="ofh3q0"
 ┌─────────────┐
 │  RGB IMAGE  │
 └──────┬──────┘
@@ -211,8 +239,6 @@ A remote-sensing workflow exploring how elevation information can be estimated f
 
 ### FOCUS
 
-<br>
-
 `MONOCULAR DEPTH`
 
 `REMOTE SENSING`
@@ -223,7 +249,7 @@ A remote-sensing workflow exploring how elevation information can be estimated f
 
 `DISASTER MANAGEMENT`
 
-<br><br>
+<br>
 
 ### DOMAIN
 
@@ -234,6 +260,7 @@ A remote-sensing workflow exploring how elevation information can be estimated f
 `COMPUTER VISION`
 
 </td>
+
 </tr>
 </table>
 
@@ -243,6 +270,7 @@ A remote-sensing workflow exploring how elevation information can be estimated f
 
 <table>
 <tr>
+
 <td width="30%" valign="top">
 
 ### 🤖
@@ -264,6 +292,7 @@ A small autonomous robotics project that detects obstacles and dynamically chang
 `Arduino` · `C/C++` · `Ultrasonic Sensors` · `Motor Control`
 
 </td>
+
 </tr>
 </table>
 
@@ -273,6 +302,7 @@ A small autonomous robotics project that detects obstacles and dynamically chang
 
 <table>
 <tr>
+
 <td width="30%" valign="top">
 
 ### 💧
@@ -294,6 +324,7 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
 `HTML` · `CSS` · `JavaScript`
 
 </td>
+
 </tr>
 </table>
 
@@ -305,15 +336,15 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
 
 <br>
 
-### FROM CODE → SYSTEMS → REAL-WORLD PROBLEMS
+### PROJECT SPECTRUM
 
-`FINTECH`   `AI`   `REMOTE SENSING`   `ROBOTICS`   `WEB`
+`FINTECH` ─── `AI` ─── `REMOTE SENSING` ─── `ROBOTICS` ─── `WEB`
 
 </div>
 
 ---
 
-# 03 — THE TOOLKIT
+# `03 / TOOLKIT`
 
 <div align="center">
 
@@ -321,25 +352,31 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
 
 </div>
 
-<br>
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### `01` — PROGRAMMING
+### `01` PROGRAMMING
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts"/>
 
+</div>
+
 </td>
 
 <td width="50%" valign="top">
 
-### `02` — WEB DEVELOPMENT
+### `02` WEB DEVELOPMENT
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,express,mongodb"/>
 
+</div>
+
 </td>
 
 </tr>
@@ -348,17 +385,25 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
 
 <td width="50%" valign="top">
 
-### `03` — SECURITY & SYSTEMS
+### `03` SECURITY & SYSTEMS
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,vscode,git,github,postman"/>
 
+</div>
+
 </td>
 
 <td width="50%" valign="top">
 
-### `04` — AI & COMPUTER VISION
+### `04` AI & COMPUTER VISION
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,opencv"/>
+
+</div>
 
 </td>
 
@@ -368,21 +413,29 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
 
 <td width="50%" valign="top">
 
-### `05` — ROBOTICS
+### `05` ROBOTICS
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=arduino"/>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `06` — BLOCKCHAIN
+### `06` BLOCKCHAIN
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=rust"/>
 
 <br>
 
 `STELLAR` · `SOROBAN` · `RUST`
+
+</div>
 
 </td>
 
@@ -391,54 +444,47 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
 
 ---
 
-# 04 — THE TECHNIQUE
+# `04 / THE TECHNIQUE`
 
 <div align="center">
 
 ## ⚔️ THE TECHNIQUE TREE
 
-### HOW THE INTERESTS CONNECT
-
-<br>
-
-```text
-                           OM JOSHI
-                              │
-                              ▼
-                           ┌──────┐
-                           │ CODE │
-                           └──┬───┘
-                              │
-                ┌─────────────┴─────────────┐
-                │                           │
-                ▼                           ▼
-           SOFTWARE                     SYSTEMS
-                │                           │
-                │                      NETWORKING
-                │                           │
-                └─────────────┬─────────────┘
-                              │
-                              ▼
-                       APPLICATION
-                         SECURITY
-                              │
-                              ▼
-                       CYBERSECURITY
+```text id="qu84yi"
+                           ⚔️ OM JOSHI ⚔️
+                                │
+                                ▼
+                             CODE
+                                │
+                  ┌─────────────┴─────────────┐
+                  │                           │
+                  ▼                           ▼
+             SOFTWARE                     SYSTEMS
+                  │                           │
+                  │                       NETWORKING
+                  │                           │
+                  └─────────────┬─────────────┘
+                                │
+                                ▼
+                       APPLICATION SECURITY
+                                │
+                                ▼
+                         CYBERSECURITY
 ```
 
 <br>
 
-### `LEARN` → `BUILD` → `UNDERSTAND` → `SECURE`
+`CODE` → `SYSTEMS` → `SECURITY` → `CYBERSECURITY`
 
 </div>
 
 ---
 
-# 05 — THE ACTIVITY
+# `05 / GITHUB`
 
 <div align="center">
 
-## 📊 GITHUB ACTIVITY
+## 📊 ACTIVITY / SIGNAL
 
 <br>
 
@@ -454,7 +500,21 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
 
 ---
 
-# 06 — THE CURRENT CHAPTER
+<div align="center">
+
+## 🐍 CONTRIBUTION FLOW
+
+### THE CODE I WRITE LEAVES A TRACE.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+# `06 / CURRENT CHAPTER`
 
 <div align="center">
 
@@ -462,51 +522,121 @@ A web-based platform focused on water conservation awareness, rainwater harvesti
 
 <br>
 
-<table>
-<tr>
-<td align="center">🔐<br><b>CYBERSECURITY</b></td>
-<td align="center">🛡️<br><b>APPLICATION SECURITY</b></td>
-<td align="center">🐧<br><b>LINUX</b></td>
-<td align="center">🌐<br><b>NETWORKING</b></td>
-</tr>
-
-<tr>
-<td align="center">⚙️<br><b>SECURE SOFTWARE</b></td>
-<td align="center">💻<br><b>SYSTEMS</b></td>
-<td align="center">🌱<br><b>OPEN SOURCE</b></td>
-<td align="center">🧠<br><b>CONTINUOUS LEARNING</b></td>
-</tr>
-</table>
-
-<br>
-
-```text
-CURRENT CHAPTER
-
-Cybersecurity
-      +
-Application Security
-      +
-Linux & Networking
-      +
-Secure Software Engineering
-      +
-Systems
-      +
-Open Source
+```text id="c2i6c0"
+┌──────────────────────────────────────────┐
+│              CURRENT CHAPTER             │
+├──────────────────────────────────────────┤
+│                                          │
+│   🔐  CYBERSECURITY                      │
+│                                          │
+│   🛡️  APPLICATION SECURITY               │
+│                                          │
+│   🐧  LINUX                              │
+│                                          │
+│   🌐  NETWORKING                         │
+│                                          │
+│   ⚙️  SECURE SOFTWARE ENGINEERING        │
+│                                          │
+│   💻  SYSTEMS                            │
+│                                          │
+│   🌱  OPEN SOURCE                        │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-# 07 — THE NETWORK
+# `07 / VISUAL INDEX`
 
 <div align="center">
 
-## 🌐 CONNECT
+### WHAT CONNECTS THE WORK
 
 <br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🔐
+
+**SECURITY**
+
+Applications
+Systems
+Networking
+
+</td>
+
+<td align="center">
+
+### 🧠
+
+**INTELLIGENCE**
+
+AI
+Computer Vision
+Depth Estimation
+
+</td>
+
+<td align="center">
+
+### ⚙️
+
+**ENGINEERING**
+
+Software
+Robotics
+Web
+
+</td>
+
+<td align="center">
+
+### ⛓️
+
+**TRUST**
+
+Blockchain
+Escrow
+Verification
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```text
+                 BUILD
+                   │
+       ┌───────────┼───────────┐
+       ▼           ▼           ▼
+    SOFTWARE      AI        ROBOTICS
+       │           │           │
+       └───────────┼───────────┘
+                   ▼
+                SYSTEMS
+                   │
+                   ▼
+               SECURITY
+                   │
+                   ▼
+             CYBERSECURITY
+```
+
+</div>
+
+---
+
+# `08 / CONNECT`
+
+<div align="center">
+
+## 🌐 THE NETWORK
 
 ### BUILD SOMETHING. DISCUSS SOMETHING. LEARN SOMETHING.
 
@@ -526,6 +656,10 @@ Open Source
 
 <a href="https://x.com/omjoshi_2307">
 <img src="https://img.shields.io/badge/🌙%20X-B7A89A?style=for-the-badge&labelColor=1A1514"/>
+</a>
+
+<a href="https://www.instagram.com/0m.a.joshi/">
+<img src="https://img.shields.io/badge/📸%20INSTAGRAM-722F37?style=for-the-badge&labelColor=1A1514"/>
 </a>
 
 <a href="mailto:omjoshi2307@gmail.com">
