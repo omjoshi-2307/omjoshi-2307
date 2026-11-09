@@ -1,21 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Om Joshi</title>
-  <desc id="desc">Monochrome geometric banner with the name Om Joshi and the tagline Building, Learning, Exploring.</desc>
-  <rect width="1200" height="300" fill="#111111"/>
-  <g fill="none" stroke="#777777" stroke-width="1" opacity=".55">
-    <path d="M0 242H1200M0 258H1200"/>
-    <path d="M70 0V300M88 0V300M1112 0V300M1130 0V300"/>
-    <path d="M70 242L190 122L310 242M890 242L1010 122L1130 242"/>
-    <path d="M190 122H1010"/>
-    <path d="M310 242L420 132L530 242M670 242L780 132L890 242" opacity=".35"/>
-  </g>
-  <g fill="#F5F5F5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
-    <text x="600" y="126" font-size="64" font-weight="700" letter-spacing="8">OM JOSHI</text>
-    <text x="600" y="171" font-size="17" letter-spacing="5" fill="#BDBDBD">BUILDING · LEARNING · EXPLORING</text>
-    <text x="600" y="282" font-size="11" letter-spacing="3" fill="#A3A3A3">INFORMATION TECHNOLOGY  /  INDIA</text>
-  </g>
-  <g fill="#F5F5F5">
-    <circle cx="70" cy="242" r="3"/><circle cx="1130" cy="242" r="3"/>
-    <circle cx="190" cy="122" r="3"/><circle cx="1010" cy="122" r="3"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Om Joshi — Information Technology</title><desc id="desc">A monochrome editorial profile banner with precise grid lines and geometric details.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".055" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="360" rx="8" fill="#0b0b0c"/><rect width="1200" height="360" fill="url(#grid)"/>
+<circle cx="1010" cy="170" r="190" fill="none" stroke="#fff" stroke-opacity=".12"/><circle cx="1010" cy="170" r="145" fill="none" stroke="#fff" stroke-opacity=".1"/><circle cx="1010" cy="170" r="98" fill="none" stroke="#fff" stroke-opacity=".08"/><path d="M810 360 1110 60M890 360 1190 60M970 360 1270 60" stroke="#fff" stroke-opacity=".12"/>
+<path d="M72 62H210" stroke="#fff" stroke-width="2"/><text x="72" y="92" fill="#b8b8b8" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="4">INFORMATION TECHNOLOGY</text>
+<text x="68" y="204" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="700" letter-spacing="-3">OM JOSHI</text>
+<text x="74" y="247" fill="#c7c7c7" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="2">BUILDING WITH CURIOSITY. LEARNING WITH INTENT.</text>
+<text x="74" y="310" fill="#777" font-family="monospace" font-size="12" letter-spacing="2">PUNE, INDIA  /  CODE • SYSTEMS • SECURITY</text>
+<path d="M1090 70h38v38" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="2"/><circle cx="1010" cy="170" r="5" fill="#fff"/>
 </svg>
