@@ -133,7 +133,7 @@ I'm continuously expanding this toolkit through coursework, experimentation, and
 I use GitHub to document learning, build projects, collaborate, and improve through consistent practice.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0b0b0c&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://ghchart.rshah.org/0b0b0c/omjoshi-2307" alt="GitHub contribution calendar for omjoshi-2307" width="100%" />
 </p>
 
 <p align="center">
