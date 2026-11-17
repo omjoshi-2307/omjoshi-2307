@@ -7,7 +7,7 @@
 <text x="56" y="145" fill="#9BAEB7" font-family="Arial,sans-serif" font-size="16">Single-view height estimation and 3D flythrough.</text>
 <text x="56" y="198" fill="#E9A64B" font-family="monospace" font-size="12" letter-spacing="1.4">SIH 2026  /  PS26175  /  DISASTER MANAGEMENT</text>
 <text x="56" y="239" fill="#657783" font-family="monospace" font-size="10" letter-spacing="1.2">RGB IMAGE → AI DEPTH → DEPTH MAP → DSM → 3D VIEW</text>
-<g transform="translate(620 72)" font-family="monospace" text-anchor="middle">
+<g transform="translate(560 72)" font-family="monospace" text-anchor="middle">
   <g><rect x="0" y="24" width="95" height="92" rx="5" fill="#172630" stroke="#657783"/><path d="M12 100L36 61L52 82L68 52L84 100Z" fill="#35C5D8" fill-opacity=".24" stroke="#35C5D8"/><circle cx="70" cy="43" r="8" fill="#E9A64B"/><text x="47" y="139" fill="#DCE7E8" font-size="10">RGB</text></g>
   <path d="M98 70H125M117 62L125 70L117 78" stroke="#35C5D8" stroke-width="2" fill="none"/>
   <g transform="translate(130)"><rect x="0" y="24" width="95" height="92" rx="5" fill="#172630" stroke="#35C5D8"/><path d="M12 98L34 58L53 83L69 45L84 98Z" fill="url(#g)" fill-opacity=".8"/><text x="47" y="139" fill="#DCE7E8" font-size="10">AI DEPTH</text></g>

@@ -21,6 +21,8 @@
   <img src="./assets/overview.svg" alt="A quick introduction to Om Joshi, an Information Technology student who learns by building and experimenting" width="100%" />
 </p>
 
+<p align="center"><img src="./assets/section-divider.svg" alt="" width="100%" /></p>
+
 ## 🧭 About the Builder
 
 I'm **Om Joshi**, an Information Technology student at **NMIET, Pune, India**. I like understanding how systems work, exploring ideas across software and engineering, and turning what I learn into practical experiments.
@@ -31,6 +33,8 @@ I approach development as a loop: **question → research → prototype → test
 - 🧩 Interested in software, computer systems, problem-solving, and applied engineering
 - 🛠️ Learning through coursework, independent builds, and team projects
 - 🌱 Focused on strengthening fundamentals and shipping useful work
+
+<p align="center"><img src="./assets/section-divider.svg" alt="" width="100%" /></p>
 
 ## 🧰 Technology Stack
 
@@ -50,6 +54,8 @@ I approach development as a loop: **question → research → prototype → test
 </p>
 
 <sub>These are the tools and foundations I currently work with; the list reflects active learning, not a claim of expert-level proficiency.</sub>
+
+<p align="center"><img src="./assets/section-divider.svg" alt="" width="100%" /></p>
 
 ## 🚀 Selected Work
 
@@ -91,6 +97,8 @@ A selection of projects across blockchain, computer vision, civic technology, an
   </tr>
 </table>
 
+<p align="center"><img src="./assets/section-divider.svg" alt="" width="100%" /></p>
+
 ## 📡 GitHub Activity
 
 I use GitHub as a working lab: documenting experiments, improving projects, collaborating, and learning in public.
@@ -113,6 +121,8 @@ I use GitHub as a working lab: documenting experiments, improving projects, coll
 <p align="center">
   <img src="./assets/working-loop.svg" alt="A five-stage working loop: question, explore, build, refine, share" width="100%" />
 </p>
+
+<p align="center"><img src="./assets/section-divider.svg" alt="" width="100%" /></p>
 
 ## 🤝 Connect
 

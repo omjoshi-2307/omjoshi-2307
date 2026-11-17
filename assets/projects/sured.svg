@@ -7,7 +7,7 @@
 <text x="56" y="145" fill="#9BAEB7" font-family="Arial,sans-serif" font-size="16">Rental deposits, governed by transparent escrow logic.</text>
 <text x="56" y="197" fill="#E9A64B" font-family="monospace" font-size="12" letter-spacing="1.4">STELLAR NETWORK  /  SOROBAN SMART CONTRACTS</text>
 <text x="56" y="239" fill="#657783" font-family="monospace" font-size="10" letter-spacing="1.2">CREATE → FUND → CONFIRM → RELEASE / REFUND</text>
-<g transform="translate(650 65)" font-family="monospace" text-anchor="middle">
+<g transform="translate(545 65)" font-family="monospace" text-anchor="middle">
   <rect x="0" y="50" width="145" height="86" rx="7" fill="#172630" stroke="#35C5D8" stroke-width="2"/><text x="72" y="87" fill="#DCE7E8" font-size="13">TENANT</text><text x="72" y="109" fill="#657783" font-size="10">DEPOSIT</text>
   <path d="M145 93H214" stroke="url(#g)" stroke-width="3"/><path d="M204 84L214 93L204 102" fill="none" stroke="#35C5D8" stroke-width="2"/>
   <rect x="214" y="25" width="190" height="136" rx="8" fill="#172630" stroke="#E9A64B" stroke-width="2"/><circle cx="309" cy="76" r="24" fill="none" stroke="#35C5D8" stroke-width="2"/><path d="M309 55V97M288 76H330" stroke="#35C5D8"/><text x="309" y="124" fill="#DCE7E8" font-size="12">SOROBAN ESCROW</text><text x="309" y="143" fill="#657783" font-size="9">RULE-BASED RELEASE</text>
