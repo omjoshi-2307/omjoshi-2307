@@ -94,15 +94,20 @@ An Arduino-based robotics project using **C++, ultrasonic distance sensing, and 
 
 ---
 
-<p align="center"><img src="./assets/branding/fieldnotes-footer.svg" alt="Keep exploring. Keep building." width="100%" /></p>
+<p align="center"><img src="./assets/branding/fieldnotes-footer.svg" alt="Keep exploring. Keep building. — Om Joshi" width="100%" /></p>
 
 <p align="center"><sub>OM JOSHI · INFORMATION TECHNOLOGY · PUNE, INDIA</sub></p>
 
 <p align="center">
-  <a href="https://github.com/omjoshi-2307">GITHUB</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/0m-joshi2307">LINKEDIN</a> &nbsp; / &nbsp;
-  <a href="https://x.com/omjoshi_2307">X</a> &nbsp; / &nbsp;
-  <a href="mailto:omjoshi2307@gmail.com">EMAIL</a>
+  <a href="https://portfolio2307.vercel.app/"><img src="./assets/branding/link-portfolio.svg" alt="Visit portfolio" width="19%" /></a>
+  <a href="https://www.linkedin.com/in/0m-joshi2307"><img src="./assets/branding/link-linkedin.svg" alt="LinkedIn profile" width="19%" /></a>
+  <a href="https://x.com/omjoshi_2307"><img src="./assets/branding/link-x.svg" alt="X profile" width="19%" /></a>
+  <a href="https://www.instagram.com/0m.a.joshi/"><img src="./assets/branding/link-instagram.svg" alt="Instagram profile" width="19%" /></a>
+  <a href="mailto:omjoshi2307@gmail.com"><img src="./assets/branding/link-email.svg" alt="Send email" width="19%" /></a>
+</p>
+
+<p align="center">
+  <sub>ELSEWHERE ON THE WEB · <a href="https://github.com/omjoshi-2307">GITHUB</a> · <a href="https://portfolio2307.vercel.app/">PORTFOLIO</a></sub>
   <br />
   <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
