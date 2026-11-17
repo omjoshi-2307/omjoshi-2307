@@ -65,6 +65,11 @@ Explores a more transparent rental deposit lifecycle using the **Stellar network
 
 **In exploration:** SureD 2.0 planning considers co-tenants, shared contributions, and individual tracking. These are planned improvements, not shipped features.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Khushal-93&repo=SureD&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushal-93&repo=SureD&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=737373&icon_color=111111" alt="SureD repository card" width="100%" />
+</picture>
+
 [Live platform](https://sure-d.vercel.app/) · [Source repository](https://github.com/Khushal-93/SureD)
 
 </td>
@@ -182,7 +187,10 @@ An Arduino-based robotics project using **C++, ultrasonic distance sensing, and 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=ffffff&color=111111&line=737373&point=111111&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0A0A0A&color=FFFFFF&line=A3A3A3&point=FFFFFF&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=ffffff&color=111111&line=737373&point=111111&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+  </picture>
 </p>
 
 <p align="center"><img src="./assets/working-loop.svg" alt="Question, explore, build, refine and share workflow" width="100%" /></p>
