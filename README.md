@@ -52,65 +52,53 @@ I'm **Om Joshi**, an Information Technology student at **NMIET, Pune**. I enjoy 
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A single, consistent project layout: full-width illustrations, a shared monochrome palette, and the same typography and spacing throughout.
 
 ### 01 / SureD
+
 **Blockchain-based rental security deposit platform**
 
-<img src="./assets/projects/sured.svg" alt="SureD escrow workflow: tenant, Soroban escrow and landlord" width="100%" />
+<p align="center"><img src="./assets/projects/sured.svg" alt="SureD escrow workflow: tenant, Soroban escrow and landlord" width="100%" /></p>
 
 Explores a more transparent rental deposit lifecycle using the **Stellar network and Soroban smart contracts**: creation, funding, confirmation, and release or refund.
 
 **In exploration:** SureD 2.0 planning considers co-tenants, shared contributions, and individual tracking. These are planned improvements, not shipped features.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Khushal-93&repo=SureD&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushal-93&repo=SureD&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=737373&icon_color=111111" alt="SureD repository card" width="100%" />
-</picture>
-
 [Live platform](https://sure-d.vercel.app/) · [Source repository](https://github.com/Khushal-93/SureD)
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 02 / DepthWizard
+
 **Single-view height estimation and 3D flythrough**
 
-<img src="./assets/projects/depthwizard.svg" alt="DepthWizard pipeline from RGB image to AI depth, DSM and 3D view" width="100%" />
+<p align="center"><img src="./assets/projects/depthwizard.svg" alt="DepthWizard pipeline from RGB image to AI depth, DSM and 3D view" width="100%" /></p>
 
 A team project concept for **Smart India Hackathon 2026, SIH26175 / PS26175**. Proposed pipeline: RGB image → AI depth estimation → depth map → digital surface model → 3D flythrough.
 
 Non-georeferenced images produce relative estimates; georeferenced inputs can support metric DSM outputs.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 03 / CivicLoop
+
 **Complaints That Don't Disappear**
 
-<img src="./assets/projects/civicloop.svg" alt="CivicLoop proposed complaint reporting, clustering, timeline and ward insight workflow" width="100%" />
+<p align="center"><img src="./assets/projects/civicloop.svg" alt="CivicLoop proposed complaint reporting, clustering, timeline and ward insight workflow" width="100%" /></p>
 
 A civic-technology concept selected for **Anveshana 2026–27 (Pune Region)**.
 
 **Stage:** concept and planning; development has not started. Reporting, duplicate clustering, public timelines, and ward insights remain proposed features.
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 04 / WALL-E
+
 **Autonomous obstacle-avoiding robot**
 
-<img src="./assets/projects/wall-e.svg" alt="WALL-E Arduino robot with ultrasonic sensing and motor control" width="100%" />
+<p align="center"><img src="./assets/projects/wall-e.svg" alt="WALL-E Arduino robot with ultrasonic sensing and motor control" width="100%" /></p>
 
 An Arduino-based robotics project using **C++, ultrasonic distance sensing, and motor control** to detect obstacles and respond through autonomous movement.
-
-</td>
-</tr>
-</table>
 
 <p align="center"><img src="./assets/section-divider.svg" alt="" width="100%" /></p>
 
