@@ -84,6 +84,12 @@ An Arduino-based robotics project using **C++, ultrasonic distance sensing, and 
   </picture>
 </p>
 
+### 3D contribution landscape
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Three-dimensional GitHub contribution calendar" width="100%" />
+</p>
+
 [View GitHub achievements ↗](https://github.com/omjoshi-2307)
 
 ---
