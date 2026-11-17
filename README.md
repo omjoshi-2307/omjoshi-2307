@@ -107,30 +107,5 @@ An Arduino-based robotics project using **C++, ultrasonic distance sensing, and 
 </p>
 
 <p align="center">
-  <sub>ELSEWHERE ON THE WEB</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/omjoshi-2307">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://portfolio2307.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/0m-joshi2307">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/omjoshi_2307">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/0m.a.joshi/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:omjoshi2307@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
