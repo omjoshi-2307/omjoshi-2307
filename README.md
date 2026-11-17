@@ -10,15 +10,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://github.com/omjoshi-2307">GITHUB</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/0m-joshi2307">LINKEDIN</a> &nbsp; / &nbsp;
-  <a href="https://x.com/omjoshi_2307">X</a> &nbsp; / &nbsp;
-  <a href="mailto:omjoshi2307@gmail.com">EMAIL</a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
 <p align="center"><img src="./assets/overview.svg" alt="Profile overview" width="100%" /></p>
 
 ## About
@@ -182,16 +173,14 @@ An Arduino-based robotics project using **C++, ultrasonic distance sensing, and 
 
 <p align="center"><img src="./assets/section-divider.svg" alt="" width="100%" /></p>
 
-## Connect
-
-<p align="center">
-  <a href="https://github.com/omjoshi-2307">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/0m-joshi2307">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/omjoshi_2307">X</a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/0m.a.joshi/">Instagram</a> &nbsp;·&nbsp;
-  <a href="https://www.credly.com/users/om-joshi2623">Credly</a> &nbsp;·&nbsp;
-  <a href="mailto:omjoshi2307@gmail.com">Email</a>
-</p>
-
 <p align="center"><img src="./assets/branding/fieldnotes-footer.svg" alt="Keep exploring. Keep building." width="100%" /></p>
 <p align="center"><sub>OM JOSHI · INFORMATION TECHNOLOGY · PUNE, INDIA</sub></p>
+
+<p align="center">
+  <a href="https://github.com/omjoshi-2307">GITHUB</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/0m-joshi2307">LINKEDIN</a> &nbsp; / &nbsp;
+  <a href="https://x.com/omjoshi_2307">X</a> &nbsp; / &nbsp;
+  <a href="mailto:omjoshi2307@gmail.com">EMAIL</a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
