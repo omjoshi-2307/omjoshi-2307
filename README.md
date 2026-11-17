@@ -133,12 +133,12 @@ An Arduino-based robotics project using **C++, ultrasonic distance sensing, and 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" width="49%" alt="GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark" />
+    <img src="https://github-stats-extended.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" width="49%" alt="GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&langs_count=6&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&langs_count=6&theme=default" width="49%" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&langs_count=6&theme=github_dark" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&langs_count=6&theme=default" width="49%" alt="Most used languages" />
   </picture>
 </p>
 
@@ -168,11 +168,9 @@ An Arduino-based robotics project using **C++, ultrasonic distance sensing, and 
 ### Achievements on GitHub
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-    <img src="https://github-profile-trophy.vercel.app/?username=omjoshi-2307&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies" />
-  </picture>
+  <a href="https://github.com/omjoshi-2307">View GitHub achievements on my profile ↗</a>
 </p>
+<p align="center"><sub>The public trophy-card service is currently unavailable, so this links directly to the first-party GitHub profile instead of showing a broken image.</sub></p>
 
 <p align="center">
   <picture>
