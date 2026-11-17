@@ -48,7 +48,7 @@ Explores a more transparent rental deposit lifecycle using the **Stellar network
 
 A team project concept for **Smart India Hackathon 2026, SIH26175 / PS26175**. Proposed pipeline: RGB image → AI depth estimation → depth map → digital surface model → 3D flythrough.
 
-Non-georeferenced images produce relative estimates; georeferenced inputs can support metric DSM outputs.
+A single RGB image can provide relative depth estimates. Georeferencing anchors a model spatially; reliable metric heights also require suitable scale or camera information and validation.
 
 ### 03 / CivicLoop
 **Complaints That Don't Disappear**
@@ -90,7 +90,7 @@ An Arduino-based robotics project using **C++, ultrasonic distance sensing, and 
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="Three-dimensional GitHub contribution calendar" width="100%" />
 </p>
 
-[View GitHub achievements ↗](https://github.com/omjoshi-2307)
+[Explore GitHub profile ↗](https://github.com/omjoshi-2307)
 
 ---
 
