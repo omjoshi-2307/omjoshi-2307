@@ -19,7 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<p align="center"><img src="./assets/branding/fieldnotes-mark.svg" alt="OJ monogram" width="66" /></p>
 <p align="center"><img src="./assets/overview.svg" alt="Profile overview" width="100%" /></p>
 
 ## About
