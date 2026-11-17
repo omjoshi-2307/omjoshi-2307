@@ -1,16 +1,15 @@
-<!--
-  OM JOSHI — GitHub Profile
-  Visual system: Monochrome Editorial
--->
+<p align="center">
+  <img src="./assets/branding/observatory-header.svg" alt="Om Joshi — The Digital Observatory. Engineering the Unknown." width="100%" />
+</p>
 
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Om Joshi — Building with curiosity. Learning with intent." width="100%" />
+  <img src="./assets/branding/identity-mark.svg" alt="Digital Observatory identity mark" width="76" />
 </p>
 
 <p align="center">
   <strong>INFORMATION TECHNOLOGY STUDENT</strong>
   <br />
-  <sub>Developer · Cybersecurity Enthusiast · Lifelong Learner</sub>
+  <sub>BUILD. EXPLORE. EXPERIMENT.</sub>
 </p>
 
 <p align="center">
@@ -27,136 +26,111 @@
   <img src="./assets/section-divider.svg" alt="" width="100%" />
 </p>
 
-## 01 / About Me
+## 01 / Observatory Log
 
-I'm an Information Technology student at **NMIET, Pune**, interested in how software, systems, and security come together.
+I'm an Information Technology student at **NMIET, Pune, India**. I enjoy exploring how software works, turning ideas into practical projects, and learning through experimentation.
 
-I enjoy turning concepts into practical projects, understanding the logic behind the tools I use, and learning by building. My current interests include **programming fundamentals, web technologies, and cybersecurity**.
+My approach is simple: understand the problem, build a thoughtful solution, test it, and keep improving.
 
-- Based in Pune, India
-- Focused on strengthening core computer science and development skills
-- Interested in cybersecurity, problem-solving, and collaborative projects
-
-<p align="center">
-  <img src="./assets/section-divider.svg" alt="" width="100%" />
-</p>
-
-## 02 / What I'm Exploring
-
-| Area | Current focus |
-| --- | --- |
-| Cybersecurity | Building a stronger foundation in security concepts and systems |
-| Development | Improving programming, web development, and project-building skills |
-| SureD 2.0 | Planning a multi-tenant experience for shared rental deposits; UI and flow decisions are being explored |
-| CivicLoop | Planning a civic-complaint platform concept selected for Anveshana 2026–27 |
+- Interested in software development, computer systems, and problem-solving.
+- Learning through coursework, independent exploration, and collaborative projects.
+- Open to connecting with fellow learners, developers, and builders.
 
 <p align="center">
   <img src="./assets/section-divider.svg" alt="" width="100%" />
 </p>
 
-## 03 / Featured Projects
-
-### SureD — Rental Security Deposit Platform
+## 02 / Technology Field Kit
 
 <p align="center">
-  <img src="./assets/projects/sured.svg" alt="SureD escrow workflow: create, fund, confirm, verify, release" width="100%" />
+  <img src="./assets/skills.svg" alt="Current toolkit: C, C++, Python, HTML, CSS, Git and GitHub" width="100%" />
 </p>
 
-A blockchain-based rental security deposit platform built around a transparent escrow workflow. It uses **Stellar and Soroban** to support the deposit lifecycle, from funding to confirmation and release.
+**Programming:** C, C++, Python  
+**Web foundations:** HTML, CSS  
+**Developer tools:** Git, GitHub, VS Code
 
-**Exploring next:** SureD 2.0 planning focuses on co-tenants, shared contributions, and clearer individual tracking. These are planned improvements, not shipped features.
-
-[Live project](https://sure-d.vercel.app/) · [Source repository](https://github.com/Khushal-93/SureD)
-
-### DepthWizard — Single-View Height Estimation
-
-<p align="center">
-  <img src="./assets/projects/depthwizard.svg" alt="DepthWizard pipeline: RGB image, AI depth, depth map, DSM, 3D view" width="100%" />
-</p>
-
-A web-app concept for **SIH 2026 problem statement PS26175**, focused on estimating scene height from a single image and generating a 3D flythrough.
-
-The proposed pipeline moves from an RGB image to AI depth estimation, a depth map, a digital surface model (DSM), and a 3D view. Georeferenced inputs can support metric-scale outputs; ordinary images produce relative depth/height estimates.
-
-### CivicLoop — Complaints That Don't Disappear
-
-A civic-tech concept selected for **Anveshana 2026–27**. The idea is to make public complaints easier to track through a clear status history and evidence-based updates.
-
-**Stage:** planning. Features and implementation details are still being shaped.
-
-### WALL-E — Autonomous Robot
-
-<p align="center">
-  <img src="./assets/projects/wall-e.svg" alt="WALL-E autonomous robot concept with sensing, decision, and movement stages" width="100%" />
-</p>
-
-An Arduino-based obstacle-avoiding robot project using **C++**, ultrasonic sensing, and motor control to respond to its surroundings.
-
-### Plate Stacking & Minimum Tracking System
-
-<p align="center">
-  <img src="./assets/projects/plate-stacking.svg" alt="Plate stacking min-stack system with constant-time minimum query" width="100%" />
-</p>
-
-A Python-based stack application that tracks the minimum element efficiently. Its min-stack approach supports **O(1) minimum retrieval**, alongside standard stack operations.
+This is a working toolkit, not a fixed list. I'm continuously developing these foundations through practice and project work.
 
 <p align="center">
   <img src="./assets/section-divider.svg" alt="" width="100%" />
 </p>
 
-## 04 / Technical Skills
+## 03 / Featured Expeditions
+
+### 01 — SureD
+**Blockchain-based rental security deposit platform**
 
 <p align="center">
-  <img src="./assets/skills.svg" alt="C, C++, Python, HTML, CSS, Git, and GitHub" width="100%" />
+  <img src="./assets/projects/sured.svg" alt="SureD architecture illustration showing tenant, Soroban escrow and landlord" width="100%" />
 </p>
 
-**Languages:** C, C++, Python  
-**Web:** HTML, CSS  
-**Tools:** Git, GitHub, VS Code
+SureD explores a more transparent rental deposit process using the **Stellar network and Soroban smart contracts**. Its core lifecycle covers deposit creation, funding, confirmation, and release or refund.
 
-I'm continuously expanding this toolkit through coursework, experimentation, and project work.
+**Exploring next:** SureD 2.0 planning considers co-tenants, shared contributions, and individual deposit tracking. These are planned improvements, not shipped features.
+
+[Live platform](https://sure-d.vercel.app/) · [Source repository](https://github.com/Khushal-93/SureD)
+
+### 02 — DepthWizard
+**Single-view height estimation and 3D flythrough**
+
+<p align="center">
+  <img src="./assets/projects/depthwizard.svg" alt="DepthWizard pipeline from RGB image to AI depth, depth map, DSM and 3D view" width="100%" />
+</p>
+
+A team project concept prepared for **Smart India Hackathon 2026, problem statement SIH26175 / PS26175**. The proposed web application explores estimating scene height from a single image and generating a 3D flythrough.
+
+**Pipeline:** RGB image → AI depth estimation → depth map → digital surface model (DSM) → 3D view.
+
+Non-georeferenced images produce relative depth and height estimates; georeferenced inputs can support absolute metric DSM outputs.
+
+### 03 — CivicLoop
+**Complaints That Don't Disappear**
+
+<p align="center">
+  <img src="./assets/projects/civicloop.svg" alt="CivicLoop proposed civic workflow: report, cluster, public timeline and ward insights" width="100%" />
+</p>
+
+A civic-technology concept selected for **Anveshana 2026–27 (Pune Region)**. Its goal is to make public complaints easier to follow through transparent status histories and evidence-based updates.
+
+**Current stage:** concept and planning. Development has not started. Citizen reporting, duplicate clustering, public timelines, and ward-level insights remain proposed features.
+
+### 04 — WALL-E
+**Autonomous obstacle-avoiding robot**
+
+<p align="center">
+  <img src="./assets/projects/wall-e.svg" alt="WALL-E Arduino robot illustration with ultrasonic sensing and obstacle detection" width="100%" />
+</p>
+
+An Arduino-based robotics project using **C++, ultrasonic distance sensing, and motor control** to detect obstacles and respond through autonomous movement.
 
 <p align="center">
   <img src="./assets/section-divider.svg" alt="" width="100%" />
 </p>
 
-## 05 / Achievements & Recognition
-
-- **Anveshana 2026–27:** CivicLoop selected for the Pune Region programme.
+## 04 / The Working Loop
 
 <p align="center">
-  <img src="./assets/section-divider.svg" alt="" width="100%" />
+  <img src="./assets/activity.svg" alt="A repeatable learning loop: idea, experiment, build, refine and share" width="100%" />
 </p>
 
-## 06 / GitHub Activity
-
-I use GitHub to document learning, build projects, collaborate, and improve through consistent practice.
+I use GitHub to document learning, develop projects, collaborate, and improve through consistent practice.
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0b0b0c/omjoshi-2307" alt="GitHub contribution calendar for omjoshi-2307" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/activity.svg" alt="Build, learn, contribute" width="100%" />
+  <img src="https://ghchart.rshah.org/35C5D8/omjoshi-2307" alt="GitHub contribution calendar for omjoshi-2307" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/section-divider.svg" alt="" width="100%" />
 </p>
 
-## 07 / Beyond Coding
+## 05 / Connect
 
-Curiosity doesn't stop at the editor. I enjoy exploring new technologies, understanding how things work, learning from other builders, and collaborating on ideas that can become useful products.
-
-<p align="center">
-  <img src="./assets/section-divider.svg" alt="" width="100%" />
-</p>
-
-## 08 / Let's Connect
-
-I'm always glad to connect with fellow students, developers, and people who enjoy learning and building.
+I'm glad to connect with people who enjoy learning, building, and exchanging ideas.
 
 <p align="center">
+  <a href="https://github.com/omjoshi-2307">GitHub</a>
+  &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/0m-joshi2307">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="https://x.com/omjoshi_2307">X</a>
@@ -169,9 +143,5 @@ I'm always glad to connect with fellow students, developers, and people who enjo
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="Thank you for stopping by" width="100%" />
-</p>
-
-<p align="center">
-  <sub>BUILD WITH CURIOSITY · STAY GROUNDED · KEEP LEARNING</sub>
+  <img src="./assets/branding/observatory-footer.svg" alt="The Digital Observatory — Build. Explore. Experiment." width="100%" />
 </p>
