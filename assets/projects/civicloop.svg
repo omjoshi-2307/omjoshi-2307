@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
-<title id="t">CivicLoop — proposed civic complaint accountability platform</title><desc id="d">A concept-stage civic workflow showing citizen reports, duplicate clustering, public status timelines and ward-level insights. Development has not started.</desc>
-<defs><pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#DCE7E8" stroke-opacity=".045"/></pattern></defs>
-<rect width="1200" height="260" fill="#101820"/><rect width="1200" height="260" fill="url(#g)"/><path d="M30 26H1170V234H30Z" fill="none" stroke="#657783" stroke-opacity=".5"/>
-<text x="54" y="56" fill="#35C5D8" font-family="IBM Plex Mono,monospace" font-size="11" letter-spacing="2.5">PROJECT / 03 — CIVIC TECHNOLOGY</text>
-<text x="54" y="108" fill="#DCE7E8" font-family="Space Grotesk,Inter,sans-serif" font-size="42" font-weight="700">CivicLoop</text>
-<text x="56" y="137" fill="#DCE7E8" font-family="Inter,Arial,sans-serif" font-size="15">Complaints that don't disappear.</text>
-<rect x="55" y="162" width="286" height="26" rx="3" fill="#E9A64B" fill-opacity=".12" stroke="#E9A64B" stroke-opacity=".7"/><text x="68" y="179" fill="#E9A64B" font-family="IBM Plex Mono,monospace" font-size="10" letter-spacing=".7">SELECTED CONCEPT / DEVELOPMENT NOT STARTED</text>
-<text x="56" y="214" fill="#657783" font-family="IBM Plex Mono,monospace" font-size="10">PROPOSED PLATFORM WORKFLOW</text>
-<g transform="translate(395 55)" font-family="IBM Plex Mono,monospace" text-anchor="middle">
-<g><circle cx="62" cy="65" r="34" fill="#172630" stroke="#35C5D8" stroke-width="1.5"/><path d="M48 54h28v20H48zM53 49h18" fill="none" stroke="#DCE7E8"/><text x="62" y="119" fill="#DCE7E8" font-size="10">REPORT</text><text x="62" y="134" fill="#657783" font-size="8">CITIZEN</text></g>
-<path d="M101 65h45m-7-6 7 6-7 6" fill="none" stroke="#35C5D8"/>
-<g transform="translate(154)"><circle cx="62" cy="65" r="34" fill="#172630" stroke="#35C5D8" stroke-width="1.5"/><circle cx="51" cy="57" r="7" fill="none" stroke="#DCE7E8"/><circle cx="72" cy="57" r="7" fill="none" stroke="#DCE7E8"/><circle cx="62" cy="76" r="7" fill="none" stroke="#E9A64B"/><path d="m56 61 4 9m7-9-4 9" stroke="#657783"/><text x="62" y="119" fill="#DCE7E8" font-size="10">CLUSTER</text><text x="62" y="134" fill="#657783" font-size="8">DUPLICATES</text></g>
-<path d="M255 65h45m-7-6 7 6-7 6" fill="none" stroke="#35C5D8"/>
-<g transform="translate(308)"><circle cx="62" cy="65" r="34" fill="#172630" stroke="#35C5D8" stroke-width="1.5"/><path d="M46 49v32h31M52 59h19M52 68h15M52 77h20" fill="none" stroke="#DCE7E8"/><circle cx="46" cy="49" r="3" fill="#E9A64B"/><text x="62" y="119" fill="#DCE7E8" font-size="10">TIMELINE</text><text x="62" y="134" fill="#657783" font-size="8">PUBLIC STATUS</text></g>
-<path d="M409 65h45m-7-6 7 6-7 6" fill="none" stroke="#35C5D8"/>
-<g transform="translate(462)"><circle cx="62" cy="65" r="34" fill="#172630" stroke="#E9A64B" stroke-width="1.5"/><path d="M44 78V61h10v17m5 0V48h10v30m5 0V56h10v22" fill="none" stroke="#DCE7E8" stroke-width="2"/><text x="62" y="119" fill="#DCE7E8" font-size="10">WARD</text><text x="62" y="134" fill="#657783" font-size="8">INSIGHTS</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">CivicLoop — civic complaint accountability concept</title><desc id="d">A concept-stage civic workflow for reports, duplicate clustering, public status timelines, and ward insights. Development has not started.</desc>
+<defs><pattern id="p" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#DCE7E8" stroke-opacity=".045"/></pattern></defs>
+<rect width="1200" height="300" fill="#0B1218"/><rect width="1200" height="300" fill="url(#p)"/><path d="M24 24H1176V276H24Z" fill="none" stroke="#657783" stroke-opacity=".65"/>
+<text x="54" y="58" fill="#35C5D8" font-family="monospace" font-size="11" letter-spacing="2.5">MISSION 03 / CIVIC TECHNOLOGY</text>
+<text x="54" y="112" fill="#DCE7E8" font-family="Arial,sans-serif" font-size="46" font-weight="700">CivicLoop</text>
+<text x="56" y="145" fill="#9BAEB7" font-family="Arial,sans-serif" font-size="16">Complaints that don't disappear.</text>
+<rect x="55" y="174" width="320" height="28" rx="4" fill="#E9A64B" fill-opacity=".12" stroke="#E9A64B" stroke-opacity=".8"/><text x="69" y="193" fill="#E9A64B" font-family="monospace" font-size="10" letter-spacing="1">SELECTED CONCEPT / NOT YET DEVELOPED</text>
+<text x="56" y="239" fill="#657783" font-family="monospace" font-size="10" letter-spacing="1.2">ANVESHANA 2026–27  /  PUNE REGION</text>
+<g transform="translate(465 70)" font-family="monospace" text-anchor="middle">
+  <g><circle cx="68" cy="76" r="44" fill="#172630" stroke="#35C5D8" stroke-width="2"/><path d="M52 65H84M52 77H84M52 89H74" stroke="#DCE7E8" stroke-width="3"/><text x="68" y="143" fill="#DCE7E8" font-size="10">REPORT</text></g>
+  <path d="M115 76H157M149 68L157 76L149 84" stroke="#35C5D8" stroke-width="2" fill="none"/>
+  <g transform="translate(160)"><circle cx="68" cy="76" r="44" fill="#172630" stroke="#E9A64B" stroke-width="2"/><circle cx="54" cy="69" r="9" fill="none" stroke="#E9A64B" stroke-width="2"/><circle cx="80" cy="69" r="9" fill="none" stroke="#E9A64B" stroke-width="2"/><path d="M46 91Q68 75 88 91" fill="none" stroke="#DCE7E8" stroke-width="2"/><text x="68" y="143" fill="#DCE7E8" font-size="10">CLUSTER</text></g>
+  <path d="M275 76H317M309 68L317 76L309 84" stroke="#35C5D8" stroke-width="2" fill="none"/>
+  <g transform="translate(320)"><circle cx="68" cy="76" r="44" fill="#172630" stroke="#35C5D8" stroke-width="2"/><path d="M47 55V96M47 62H87M47 77H79M47 92H87" stroke="#DCE7E8" stroke-width="2"/><text x="68" y="143" fill="#DCE7E8" font-size="10">TIMELINE</text></g>
+  <path d="M435 76H477M469 68L477 76L469 84" stroke="#35C5D8" stroke-width="2" fill="none"/>
+  <g transform="translate(480)"><circle cx="68" cy="76" r="44" fill="#172630" stroke="#E9A64B" stroke-width="2"/><path d="M47 95V79H58V95M64 95V59H75V95M81 95V69H92V95" fill="none" stroke="#E9A64B" stroke-width="3"/><text x="68" y="143" fill="#DCE7E8" font-size="10">WARD INSIGHT</text></g>
 </g>
-<text x="1144" y="214" text-anchor="end" fill="#657783" font-family="IBM Plex Mono,monospace" font-size="9" letter-spacing="1">REPORT → CLUSTER → TRACK → UNDERSTAND</text></svg>
+</svg>

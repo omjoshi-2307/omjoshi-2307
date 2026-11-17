@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Digital Observatory section divider">
-<rect width="1200" height="28" fill="#101820"/>
-<path d="M0 14H520M680 14H1200" stroke="#657783" stroke-opacity=".8"/>
-<path d="M520 14H680" stroke="#35C5D8" stroke-width="1.5"/>
-<circle cx="600" cy="14" r="5" fill="#101820" stroke="#E9A64B" stroke-width="2"/>
-<circle cx="580" cy="14" r="2" fill="#35C5D8"/>
-<circle cx="620" cy="14" r="2" fill="#35C5D8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-label="Digital Observatory section divider">
+<rect width="1200" height="36" fill="#0B1218"/>
+<path d="M0 18H510M690 18H1200" stroke="#657783" stroke-opacity=".8"/>
+<path d="M510 18H690" stroke="#35C5D8" stroke-width="2"/>
+<circle cx="600" cy="18" r="7" fill="#0B1218" stroke="#E9A64B" stroke-width="2"/>
+<circle cx="576" cy="18" r="2.5" fill="#35C5D8"/><circle cx="624" cy="18" r="2.5" fill="#35C5D8"/>
 </svg>

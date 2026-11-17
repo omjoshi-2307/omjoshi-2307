@@ -1,147 +1,132 @@
 <p align="center">
-  <img src="./assets/branding/observatory-header.svg" alt="Om Joshi — The Digital Observatory. Engineering the Unknown." width="100%" />
+  <img src="./assets/branding/observatory-header.svg" alt="Om Joshi — The Digital Observatory: Engineering the Unknown" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/branding/identity-mark.svg" alt="Digital Observatory identity mark" width="76" />
+  <a href="#-about-the-builder">ABOUT</a> &nbsp;·&nbsp;
+  <a href="#-technology-stack">TOOLKIT</a> &nbsp;·&nbsp;
+  <a href="#-selected-work">PROJECTS</a> &nbsp;·&nbsp;
+  <a href="#-github-activity">ACTIVITY</a> &nbsp;·&nbsp;
+  <a href="#-connect">CONNECT</a>
 </p>
 
 <p align="center">
-  <strong>INFORMATION TECHNOLOGY STUDENT</strong>
-  <br />
-  <sub>BUILD. EXPLORE. EXPERIMENT.</sub>
+  <img src="./assets/branding/identity-mark.svg" alt="Digital Observatory identity mark" width="86" />
+</p>
+
+<h2 align="center">ENGINEERING THE UNKNOWN.</h2>
+<p align="center"><strong>BUILD. &nbsp; EXPLORE. &nbsp; EXPERIMENT.</strong></p>
+
+<p align="center">
+  <img src="./assets/overview.svg" alt="A quick introduction to Om Joshi, an Information Technology student who learns by building and experimenting" width="100%" />
+</p>
+
+## 🧭 About the Builder
+
+I'm **Om Joshi**, an Information Technology student at **NMIET, Pune, India**. I like understanding how systems work, exploring ideas across software and engineering, and turning what I learn into practical experiments.
+
+I approach development as a loop: **question → research → prototype → test → improve**. I value clear thinking, useful documentation, thoughtful interfaces, and projects that solve a real problem.
+
+- 🎓 Information Technology student
+- 🧩 Interested in software, computer systems, problem-solving, and applied engineering
+- 🛠️ Learning through coursework, independent builds, and team projects
+- 🌱 Focused on strengthening fundamentals and shipping useful work
+
+## 🧰 Technology Stack
+
+<p align="center">
+  <img src="./assets/technology-matrix.svg" alt="Technology matrix grouped into programming, web foundations, and developer workflow" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/omjoshi-2307">GITHUB</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/0m-joshi2307">LINKEDIN</a>
-  &nbsp; / &nbsp;
-  <a href="https://x.com/omjoshi_2307">X</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:omjoshi2307@gmail.com">EMAIL</a>
+  <img src="https://img.shields.io/badge/C-101820?style=for-the-badge&logo=c&logoColor=35C5D8" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-101820?style=for-the-badge&logo=cplusplus&logoColor=35C5D8" alt="C plus plus" />
+  <img src="https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=E9A64B" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-101820?style=for-the-badge&logo=html5&logoColor=E9A64B" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-101820?style=for-the-badge&logo=css3&logoColor=35C5D8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-101820?style=for-the-badge&logo=git&logoColor=E9A64B" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=DCE7E8" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-101820?style=for-the-badge&logo=visualstudiocode&logoColor=35C5D8" alt="Visual Studio Code" />
+</p>
+
+<sub>These are the tools and foundations I currently work with; the list reflects active learning, not a claim of expert-level proficiency.</sub>
+
+## 🚀 Selected Work
+
+A selection of projects across blockchain, computer vision, civic technology, and embedded systems.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / SureD</h3>
+      <p><strong>Blockchain-backed rental deposit escrow</strong></p>
+      <img src="./assets/projects/sured.svg" alt="SureD system illustration showing tenant, Soroban escrow, and landlord" width="100%" />
+      <p>A rental security-deposit platform exploring transparent deposit creation, funding, confirmation, and release or refund using the <strong>Stellar network and Soroban smart contracts</strong>.</p>
+      <p><strong>Exploring next:</strong> SureD 2.0 planning includes co-tenants, shared contributions, and individual tracking. These capabilities are planned, not shipped.</p>
+      <p><a href="https://sure-d.vercel.app/">Live platform</a> · <a href="https://github.com/Khushal-93/SureD">Source repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / DepthWizard</h3>
+      <p><strong>Single-view height estimation &amp; 3D flythrough</strong></p>
+      <img src="./assets/projects/depthwizard.svg" alt="DepthWizard pipeline from RGB image through depth estimation and DSM to a 3D flythrough" width="100%" />
+      <p>A team project concept prepared for <strong>Smart India Hackathon 2026, SIH26175 / PS26175</strong>. The proposed web app explores estimating scene height from one image and generating a 3D flythrough.</p>
+      <p><strong>Pipeline:</strong> RGB → AI depth → depth map → digital surface model → 3D view. Non-georeferenced inputs yield relative estimates; georeferenced inputs can support metric DSM outputs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / CivicLoop</h3>
+      <p><strong>Complaints That Don't Disappear</strong></p>
+      <img src="./assets/projects/civicloop.svg" alt="CivicLoop proposed complaint reporting, clustering, public timeline, and ward insight workflow" width="100%" />
+      <p>A civic-technology concept selected for <strong>Anveshana 2026–27 (Pune Region)</strong>. The idea is to make public complaints easier to track through transparent histories and evidence-based updates.</p>
+      <p><strong>Current stage:</strong> concept and planning; development has not started. Citizen reporting, duplicate clustering, public timelines, and ward insights are proposed features.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / WALL-E</h3>
+      <p><strong>Autonomous obstacle-avoiding robot</strong></p>
+      <img src="./assets/projects/wall-e.svg" alt="WALL-E Arduino robot concept with ultrasonic sensing and motor control" width="100%" />
+      <p>An Arduino-based robotics project using <strong>C++, ultrasonic distance sensing, and motor control</strong> to detect obstacles and respond through autonomous movement.</p>
+      <p><strong>Core loop:</strong> sense the surroundings → decide a response → control movement.</p>
+    </td>
+  </tr>
+</table>
+
+## 📡 GitHub Activity
+
+I use GitHub as a working lab: documenting experiments, improving projects, collaborating, and learning in public.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=101820&title_color=35C5D8&text_color=DCE7E8&icon_color=E9A64B&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics for omjoshi-2307" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=101820&title_color=35C5D8&text_color=DCE7E8&langs_count=8" alt="Most used programming languages on GitHub" width="49%" />
 </p>
 
 <p align="center">
-  <img src="./assets/section-divider.svg" alt="" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=omjoshi-2307&hide_border=true&background=101820&ring=35C5D8&fire=E9A64B&currStreakLabel=DCE7E8&sideLabels=DCE7E8&dates=657783&currStreakNum=DCE7E8&sideNums=DCE7E8" alt="GitHub contribution streak statistics" width="80%" />
 </p>
 
-## 01 / Observatory Log
-
-I'm an Information Technology student at **NMIET, Pune, India**. I enjoy exploring how software works, turning ideas into practical projects, and learning through experimentation.
-
-My approach is simple: understand the problem, build a thoughtful solution, test it, and keep improving.
-
-- Interested in software development, computer systems, and problem-solving.
-- Learning through coursework, independent exploration, and collaborative projects.
-- Open to connecting with fellow learners, developers, and builders.
+### Contribution trail
 
 <p align="center">
-  <img src="./assets/section-divider.svg" alt="" width="100%" />
-</p>
-
-## 02 / Technology Field Kit
-
-<p align="center">
-  <img src="./assets/skills.svg" alt="Current toolkit: C, C++, Python, HTML, CSS, Git and GitHub" width="100%" />
-</p>
-
-**Programming:** C, C++, Python  
-**Web foundations:** HTML, CSS  
-**Developer tools:** Git, GitHub, VS Code
-
-This is a working toolkit, not a fixed list. I'm continuously developing these foundations through practice and project work.
-
-<p align="center">
-  <img src="./assets/section-divider.svg" alt="" width="100%" />
-</p>
-
-## 03 / Featured Expeditions
-
-### 01 — SureD
-**Blockchain-based rental security deposit platform**
-
-<p align="center">
-  <img src="./assets/projects/sured.svg" alt="SureD architecture illustration showing tenant, Soroban escrow and landlord" width="100%" />
-</p>
-
-SureD explores a more transparent rental deposit process using the **Stellar network and Soroban smart contracts**. Its core lifecycle covers deposit creation, funding, confirmation, and release or refund.
-
-**Exploring next:** SureD 2.0 planning considers co-tenants, shared contributions, and individual deposit tracking. These are planned improvements, not shipped features.
-
-[Live platform](https://sure-d.vercel.app/) · [Source repository](https://github.com/Khushal-93/SureD)
-
-### 02 — DepthWizard
-**Single-view height estimation and 3D flythrough**
-
-<p align="center">
-  <img src="./assets/projects/depthwizard.svg" alt="DepthWizard pipeline from RGB image to AI depth, depth map, DSM and 3D view" width="100%" />
-</p>
-
-A team project concept prepared for **Smart India Hackathon 2026, problem statement SIH26175 / PS26175**. The proposed web application explores estimating scene height from a single image and generating a 3D flythrough.
-
-**Pipeline:** RGB image → AI depth estimation → depth map → digital surface model (DSM) → 3D view.
-
-Non-georeferenced images produce relative depth and height estimates; georeferenced inputs can support absolute metric DSM outputs.
-
-### 03 — CivicLoop
-**Complaints That Don't Disappear**
-
-<p align="center">
-  <img src="./assets/projects/civicloop.svg" alt="CivicLoop proposed civic workflow: report, cluster, public timeline and ward insights" width="100%" />
-</p>
-
-A civic-technology concept selected for **Anveshana 2026–27 (Pune Region)**. Its goal is to make public complaints easier to follow through transparent status histories and evidence-based updates.
-
-**Current stage:** concept and planning. Development has not started. Citizen reporting, duplicate clustering, public timelines, and ward-level insights remain proposed features.
-
-### 04 — WALL-E
-**Autonomous obstacle-avoiding robot**
-
-<p align="center">
-  <img src="./assets/projects/wall-e.svg" alt="WALL-E Arduino robot illustration with ultrasonic sensing and obstacle detection" width="100%" />
-</p>
-
-An Arduino-based robotics project using **C++, ultrasonic distance sensing, and motor control** to detect obstacles and respond through autonomous movement.
-
-<p align="center">
-  <img src="./assets/section-divider.svg" alt="" width="100%" />
-</p>
-
-## 04 / The Working Loop
-
-<p align="center">
-  <img src="./assets/activity.svg" alt="A repeatable learning loop: idea, experiment, build, refine and share" width="100%" />
-</p>
-
-I use GitHub to document learning, develop projects, collaborate, and improve through consistent practice.
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/35C5D8/omjoshi-2307" alt="GitHub contribution calendar for omjoshi-2307" width="100%" />
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake.svg" alt="Animated contribution graph snake for omjoshi-2307" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/section-divider.svg" alt="" width="100%" />
+  <img src="./assets/working-loop.svg" alt="A five-stage working loop: question, explore, build, refine, share" width="100%" />
 </p>
 
-## 05 / Connect
+## 🤝 Connect
 
-I'm glad to connect with people who enjoy learning, building, and exchanging ideas.
+I'm always glad to connect with fellow learners, developers, and people who enjoy building useful things.
 
 <p align="center">
-  <a href="https://github.com/omjoshi-2307">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/0m-joshi2307">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://x.com/omjoshi_2307">X</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.instagram.com/0m.a.joshi/">Instagram</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.credly.com/users/om-joshi2623">Credly</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:omjoshi2307@gmail.com">Email</a>
+  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=DCE7E8" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/0m-joshi2307"><img src="https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=35C5D8" alt="LinkedIn" /></a>
+  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X-101820?style=for-the-badge&logo=x&logoColor=DCE7E8" alt="X" /></a>
+  <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/Email-101820?style=for-the-badge&logo=gmail&logoColor=E9A64B" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/branding/observatory-footer.svg" alt="The Digital Observatory — Build. Explore. Experiment." width="100%" />
+  <img src="./assets/branding/observatory-footer.svg" alt="The Digital Observatory — Build, Explore, Experiment" width="100%" />
 </p>
+
+<p align="center"><sub>THE DIGITAL OBSERVATORY · OM JOSHI · PUNE, INDIA</sub></p>
