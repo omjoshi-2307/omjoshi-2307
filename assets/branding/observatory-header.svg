@@ -1,43 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Om Joshi — The Digital Observatory</title>
-  <desc id="desc">A dark technical editorial banner with an orbital observatory illustration and the message Engineering the Unknown.</desc>
-  <defs>
-    <pattern id="microgrid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#DCE7E8" stroke-opacity=".055" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="orbit" x1="770" y1="40" x2="1115" y2="330" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#35C5D8"/>
-      <stop offset="1" stop-color="#E9A64B"/>
-    </linearGradient>
-    <radialGradient id="core" cx="0" cy="0" r="1" gradientTransform="translate(950 176) rotate(90) scale(105)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#35C5D8" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#35C5D8" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="360" fill="#101820"/>
-  <rect width="1200" height="360" fill="url(#microgrid)"/>
-  <path d="M32 32H1168V328H32Z" fill="none" stroke="#657783" stroke-opacity=".48"/>
-  <path d="M32 78H1168" stroke="#657783" stroke-opacity=".36"/>
-  <text x="56" y="58" fill="#35C5D8" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="2.6">FIELD NOTES / 01 — DIGITAL OBSERVATORY</text>
-  <text x="56" y="151" fill="#DCE7E8" font-family="Space Grotesk, Inter, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">OM JOSHI</text>
-  <text x="58" y="184" fill="#35C5D8" font-family="IBM Plex Mono, monospace" font-size="14" letter-spacing="3">ENGINEERING THE UNKNOWN.</text>
-  <path d="M58 211H505" stroke="#657783" stroke-width="1"/>
-  <text x="58" y="244" fill="#DCE7E8" font-family="Inter, Arial, sans-serif" font-size="16">Building systems. Exploring ideas. Learning by making.</text>
-  <text x="58" y="286" fill="#657783" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="2">BUILD.  EXPLORE.  EXPERIMENT.</text>
-  <text x="58" y="310" fill="#657783" font-family="IBM Plex Mono, monospace" font-size="10" letter-spacing="1.5">INFORMATION TECHNOLOGY  /  PUNE, INDIA</text>
-  <circle cx="950" cy="181" r="142" fill="url(#core)"/>
-  <circle cx="950" cy="181" r="119" fill="none" stroke="#657783" stroke-opacity=".65" stroke-dasharray="2 7"/>
-  <ellipse cx="950" cy="181" rx="166" ry="62" transform="rotate(-28 950 181)" fill="none" stroke="url(#orbit)" stroke-width="2"/>
-  <ellipse cx="950" cy="181" rx="166" ry="62" transform="rotate(52 950 181)" fill="none" stroke="#DCE7E8" stroke-opacity=".56" stroke-width="1.2"/>
-  <circle cx="950" cy="181" r="68" fill="#101820" stroke="#35C5D8" stroke-width="2"/>
-  <circle cx="950" cy="181" r="48" fill="none" stroke="#E9A64B" stroke-width="1.5"/>
-  <path d="M950 132V230M901 181H999" stroke="#DCE7E8" stroke-opacity=".72"/>
-  <path d="M950 151 980 181 950 211 920 181Z" fill="#35C5D8" fill-opacity=".14" stroke="#35C5D8" stroke-width="1.5"/>
-  <circle cx="950" cy="181" r="8" fill="#E9A64B"/>
-  <circle cx="1087" cy="106" r="6" fill="#E9A64B"/>
-  <circle cx="810" cy="242" r="5" fill="#35C5D8"/>
-  <circle cx="1024" cy="305" r="4" fill="#DCE7E8"/>
-  <path d="M1070 70h34M1087 53v34M790 284h28M804 270v28" stroke="#657783" stroke-width="1"/>
-  <text x="1128" y="304" text-anchor="end" fill="#657783" font-family="IBM Plex Mono, monospace" font-size="9" letter-spacing="1.4">OBSERVATION / ITERATION</text>
-  <text x="1144" y="58" text-anchor="end" fill="#E9A64B" font-family="IBM Plex Mono, monospace" font-size="10">18° 31' N / 73° 51' E</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
+<title id="t">Om Joshi — The Digital Observatory</title>
+<desc id="d">A technical observatory identity with a geometric orbital instrument, signal lines, and the statement Engineering the Unknown.</desc>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#DCE7E8" stroke-opacity=".055"/></pattern>
+  <linearGradient id="orbit" x1="740" y1="80" x2="1120" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#35C5D8"/><stop offset="1" stop-color="#E9A64B"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#35C5D8" stop-opacity=".22"/><stop offset="1" stop-color="#35C5D8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="430" fill="#0B1218"/>
+<rect width="1200" height="430" fill="url(#grid)"/>
+<path d="M28 28H1172V402H28Z" fill="none" stroke="#657783" stroke-opacity=".6"/>
+<path d="M28 82H1172M28 344H1172" stroke="#657783" stroke-opacity=".38"/>
+<text x="58" y="59" fill="#35C5D8" font-family="monospace" font-size="12" letter-spacing="3">FIELD STATION / 2307  ·  DIGITAL OBSERVATORY</text>
+<text x="58" y="172" fill="#DCE7E8" font-family="Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-3">OM JOSHI</text>
+<text x="62" y="213" fill="#35C5D8" font-family="monospace" font-size="17" letter-spacing="3">INFORMATION TECHNOLOGY</text>
+<text x="62" y="274" fill="#DCE7E8" font-family="Arial,sans-serif" font-size="32" font-weight="700">ENGINEERING THE UNKNOWN.</text>
+<text x="62" y="310" fill="#9BAEB7" font-family="monospace" font-size="13" letter-spacing="2">BUILD  /  EXPLORE  /  EXPERIMENT</text>
+<text x="62" y="378" fill="#657783" font-family="monospace" font-size="11" letter-spacing="2">PUNE, INDIA  ·  LEARNING IN PUBLIC</text>
+<circle cx="950" cy="212" r="190" fill="url(#glow)"/>
+<g transform="translate(950 212)">
+  <circle r="142" fill="none" stroke="#657783" stroke-opacity=".55" stroke-width="1.5"/>
+  <circle r="112" fill="none" stroke="url(#orbit)" stroke-width="3" stroke-dasharray="210 26 72 26"/>
+  <circle r="82" fill="none" stroke="#DCE7E8" stroke-opacity=".6" stroke-width="1.2" stroke-dasharray="3 9"/>
+  <path d="M-155 0H155M0 -155V155M-110 -110L110 110M-110 110L110 -110" stroke="#657783" stroke-opacity=".35"/>
+  <path d="M-54 -54L54 54M-54 54L54 -54" stroke="#35C5D8" stroke-width="2"/>
+  <circle r="48" fill="#101820" stroke="#35C5D8" stroke-width="2.5"/>
+  <circle r="26" fill="#172630" stroke="#E9A64B" stroke-width="2"/>
+  <circle r="7" fill="#E9A64B"/>
+  <circle cx="0" cy="-142" r="7" fill="#35C5D8"/>
+  <circle cx="142" cy="0" r="5" fill="#E9A64B"/>
+  <circle cx="-100" cy="100" r="5" fill="#35C5D8"/>
+  <path d="M-20 -188H20M-188 -20V20M168 0H188M0 168V188" stroke="#DCE7E8" stroke-opacity=".65"/>
+</g>
+<text x="950" y="390" text-anchor="middle" fill="#657783" font-family="monospace" font-size="10" letter-spacing="2">OBSERVE  /  MODEL  /  BUILD</text>
 </svg>

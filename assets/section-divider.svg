@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Digital Observatory section divider">
-<rect width="1200" height="28" fill="#101820"/>
-<path d="M0 14H520M680 14H1200" stroke="#657783" stroke-opacity=".8"/>
-<path d="M520 14H680" stroke="#35C5D8" stroke-width="1.5"/>
-<circle cx="600" cy="14" r="5" fill="#101820" stroke="#E9A64B" stroke-width="2"/>
-<circle cx="580" cy="14" r="2" fill="#35C5D8"/>
-<circle cx="620" cy="14" r="2" fill="#35C5D8"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24"><title>Section divider</title><path d="M0 12H1200" stroke="#111" stroke-width="1"/><rect x="574" y="4" width="52" height="16" fill="#111"/><path d="M584 12H616" stroke="#fff" stroke-width="2"/></svg>
