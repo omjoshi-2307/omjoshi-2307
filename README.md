@@ -15,7 +15,7 @@
 
 ## 01 — PROFILE
 
-I'm an Information Technology student interested in how software and digital systems work beneath the surface. I enjoy learning by building, exploring unfamiliar technologies, and turning ideas into practical experiments.
+I'm pursuing a B.Tech in Information Technology at NMIET, Pune. I'm interested in how software and digital systems work beneath the surface, and I enjoy learning by building, exploring unfamiliar technologies, and turning ideas into practical experiments.
 
 My current areas of curiosity include software engineering, cybersecurity, blockchain, artificial intelligence, and computer vision. I value strong fundamentals, clear reasoning, and thoughtful implementation over chasing tools for their own sake.
 
@@ -96,8 +96,6 @@ A few projects and explorations across different problem spaces. Project descrip
 
 ---
 
----
-
 ## 04 — CURRENT CHAPTER
 
 <p align="center">
@@ -132,8 +130,6 @@ Strengthening computer science fundamentals, exploring cybersecurity and secure 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=f7f2e8&color=172b3c&line=2456d8&point=e65b35&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
-
----
 
 ---
 
