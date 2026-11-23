@@ -1,171 +1,160 @@
-<!--
-  OM.DEV — Bright Edition
-  GitHub Profile README
--->
+<!-- OM.DEV | FIELD NOTES — Warm Paper / Cobalt Edition -->
 
 <p align="center">
-  <img src="./assets/hero/workspace.svg" width="100%" alt="Bright pixel-inspired developer workspace with dual monitors, notebook, plant and sunny window" />
+  <img src="./assets/hero/workspace.svg" width="100%" alt="Pixel-inspired developer workspace in a warm paper, cobalt and orange palette" />
 </p>
 
-<h1 align="center">Om Arun Joshi</h1>
+<h1 align="center">OM ARUN JOSHI</h1>
 
 <p align="center">
-  <strong>Information Technology Student · Developer · Curious Builder</strong><br />
+  <strong>INFORMATION TECHNOLOGY · SOFTWARE · SYSTEMS</strong><br />
   <em>Driven by questions, guided by reason.</em>
 </p>
 
 <p align="center">
-  <a href="https://portfolio2307.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-267c72?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
-  <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-bb704f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-263b4a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/0m-joshi2307/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X-Follow-202124?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/0m.a.joshi/"><img src="https://img.shields.io/badge/Instagram-Connect-BB4B82?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://portfolio2307.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-2456D8?style=flat-square&labelColor=172B3C" alt="Portfolio" /></a>
+  <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-E65B35?style=flat-square&labelColor=172B3C" alt="Email" /></a>
+  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-172B3C?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/0m-joshi2307/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2456D8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X-FOLLOW-172B3C?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/0m.a.joshi/"><img src="https://img.shields.io/badge/INSTAGRAM-VISIT-B95F3B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-  <sub>📍 Pune, India &nbsp;·&nbsp; ✉️ <a href="mailto:omjoshi2307@gmail.com">omjoshi2307@gmail.com</a></sub>
+  <sub>BASED IN PUNE, INDIA &nbsp;·&nbsp; <a href="mailto:omjoshi2307@gmail.com">OMJOSHI2307@GMAIL.COM</a></sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&style=flat-square&color=4f9b8d&label=PROFILE+VIEWS" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&style=flat-square&color=2456d8&label=PROFILE+VISITS" alt="Profile views" />
 </p>
 
 ---
 
-## 01 / A little about me
+## 01 — PROFILE
 
-I'm an Information Technology student who enjoys understanding how systems work and turning ideas into practical software. I like exploring unfamiliar concepts, experimenting with different technologies, and learning by building.
+I'm an Information Technology student interested in how software and digital systems work beneath the surface. I enjoy learning by building, exploring unfamiliar technologies, and turning ideas into practical experiments.
 
-My interests span software engineering, cybersecurity, blockchain, artificial intelligence, and computer vision. I value thoughtful problem-solving, clear architecture, and continuous improvement.
+My current areas of curiosity include software engineering, cybersecurity, blockchain, artificial intelligence, and computer vision. I value strong fundamentals, clear reasoning, and thoughtful implementation over chasing tools for their own sake.
 
 <p align="center">
-  <img src="./assets/visuals/technology-map.svg" width="100%" alt="Bright visual map connecting software engineering, cybersecurity, blockchain, artificial intelligence and computer vision" />
+  <img src="./assets/visuals/technology-map.svg" width="100%" alt="Technology map connecting software engineering, cybersecurity, blockchain, AI and computer vision" />
 </p>
 
-## 02 / Technologies & tools
+## 02 — TOOLKIT
 
-**Languages and web**
+**Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts&perline=7" alt="C, C++, Python, HTML, CSS, JavaScript and TypeScript" />
 </p>
 
-**Frameworks, platforms and developer tools**
+**Frameworks, platforms & workflow**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind,docker,postgres,mongodb,git,github,vscode&perline=10" alt="React, Node.js, FastAPI, Tailwind CSS, Docker, PostgreSQL, MongoDB, Git, GitHub and VS Code" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Software%20Engineering-267c72?style=flat-square" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/Cybersecurity-5578a8?style=flat-square" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Blockchain-bb8650?style=flat-square" alt="Blockchain" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8068b7?style=flat-square" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-477e9c?style=flat-square" alt="Computer Vision" />
-</p>
-
-<sub>These icons represent technologies I've used or explored; they do not imply equal proficiency in every tool.</sub>
+<sub>Tools shown here are technologies I've used or explored; this is not a claim of equal proficiency across the stack.</sub>
 
 ---
 
-## 03 / Selected work
+## 03 — SELECTED WORK
 
-A selection of projects and concepts across different areas of technology. Their descriptions reflect their current stage.
+A few projects and explorations across different problem spaces. Project descriptions reflect their current stage, not just the idea behind them.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Khushal-93/SureD"><img src="./assets/projects/sured.svg" width="100%" alt="SureD — bright project illustration for blockchain rental deposit escrow" /></a>
-      <h3>01. <a href="https://github.com/Khushal-93/SureD">SureD</a></h3>
-      <p><b>Blockchain · Rental security deposits</b></p>
+      <a href="https://github.com/Khushal-93/SureD"><img src="./assets/projects/sured.svg" width="100%" alt="SureD project artwork" /></a>
+      <h3><a href="https://github.com/Khushal-93/SureD">01 / SureD</a></h3>
+      <sub>BLOCKCHAIN · RENTAL DEPOSITS</sub>
       <p>A blockchain-based rental security deposit platform focused on transparent escrow, deposit handling, and multi-party coordination.</p>
-      <a href="https://sure-d.vercel.app/">↗ Live application</a>
+      <a href="https://sure-d.vercel.app/">VIEW LIVE PROJECT ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/omjoshi-2307/GSoC-Org-Finder-"><img src="./assets/projects/gsoc-org-finder.svg" width="100%" alt="GSoC Org Finder — bright organization discovery dashboard illustration" /></a>
-      <h3>02. <a href="https://github.com/omjoshi-2307/GSoC-Org-Finder-">GSoC Org Finder</a></h3>
-      <p><b>Developer tools · API integration</b></p>
+      <a href="https://github.com/omjoshi-2307/GSoC-Org-Finder-"><img src="./assets/projects/gsoc-org-finder.svg" width="100%" alt="GSoC Org Finder project artwork" /></a>
+      <h3><a href="https://github.com/omjoshi-2307/GSoC-Org-Finder-">02 / GSoC Org Finder</a></h3>
+      <sub>DEVELOPER TOOLS · OPEN SOURCE</sub>
       <p>A platform for discovering, filtering, and comparing Google Summer of Code organizations, with organization details and GitHub issue discovery.</p>
-      <a href="https://findmygsoc.vercel.app/">↗ Open the platform</a>
+      <a href="https://findmygsoc.vercel.app/">OPEN PLATFORM ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/omjoshi-2307/CivicLoop"><img src="./assets/projects/civicloop.svg" width="100%" alt="CivicLoop — bright civic technology and city services illustration" /></a>
-      <h3>03. <a href="https://github.com/omjoshi-2307/CivicLoop">CivicLoop</a></h3>
-      <p><b>Civic technology · Anveshana 2026–27</b></p>
-      <p><i>Complaints That Don't Disappear.</i> A selected project proposal for a civic grievance platform centred on transparent complaint tracking and accountable resolution. Development has not started.</p>
+      <a href="https://github.com/omjoshi-2307/CivicLoop"><img src="./assets/projects/civicloop.svg" width="100%" alt="CivicLoop project artwork" /></a>
+      <h3><a href="https://github.com/omjoshi-2307/CivicLoop">03 / CivicLoop</a></h3>
+      <sub>CIVIC TECHNOLOGY · ANVESHANA 2026–27</sub>
+      <p><i>Complaints That Don't Disappear.</i> A selected project proposal for transparent civic complaint tracking and accountable resolution. Development has not started.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/omjoshi-2307/jal-sanchaee-navachar-v2"><img src="./assets/projects/jal-sanchaee.svg" width="100%" alt="Jal-Sanchaee — bright smart irrigation and water management illustration" /></a>
-      <h3>04. <a href="https://github.com/omjoshi-2307/jal-sanchaee-navachar-v2">Jal-Sanchaee-Navachar</a></h3>
-      <p><b>Smart irrigation · Water management</b></p>
+      <a href="https://github.com/omjoshi-2307/jal-sanchaee-navachar-v2"><img src="./assets/projects/jal-sanchaee.svg" width="100%" alt="Jal-Sanchaee project artwork" /></a>
+      <h3><a href="https://github.com/omjoshi-2307/jal-sanchaee-navachar-v2">04 / Jal-Sanchaee-Navachar</a></h3>
+      <sub>SMART IRRIGATION · WATER MANAGEMENT</sub>
       <p>A water-conservation project exploring irrigation planning and community water credits through rule-based decisions and weather-informed inputs. Multiple repositories represent iterations of the same project.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/omjoshi-2307/Dev"><img src="./assets/projects/dev-ai.svg" width="100%" alt="DEV — bright hybrid AI architecture illustration" /></a>
-      <h3>05. <a href="https://github.com/omjoshi-2307/Dev">DEV</a></h3>
-      <p><b>Hybrid AI · Model architecture</b></p>
+      <a href="https://github.com/omjoshi-2307/Dev"><img src="./assets/projects/dev-ai.svg" width="100%" alt="DEV AI project artwork" /></a>
+      <h3><a href="https://github.com/omjoshi-2307/Dev">05 / DEV</a></h3>
+      <sub>HYBRID AI · ASSISTANT ARCHITECTURE</sub>
       <p>An early-stage exploration of a personal AI assistant architecture, including local and cloud model integration, model routing, and privacy-aware execution.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/projects/depthwizard.svg" width="100%" alt="DepthWizard — bright depth estimation and 3D terrain visualization illustration" />
-      <h3>06. DepthWizard</h3>
-      <p><b>Computer vision · SIH26175 concept</b></p>
-      <p>A proposed single-view height-estimation and 3D flythrough pipeline, moving from an RGB image to depth estimation, a depth map, a digital surface model, and a 3D visualization.</p>
+      <img src="./assets/projects/depthwizard.svg" width="100%" alt="DepthWizard project artwork" />
+      <h3>06 / DepthWizard</h3>
+      <sub>COMPUTER VISION · SIH26175 CONCEPT</sub>
+      <p>A proposed single-view height-estimation and 3D flythrough pipeline: RGB image → depth estimation → depth map → digital surface model → 3D visualization.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 04 / What I'm learning
+## 04 — CURRENT CHAPTER
 
 <p align="center">
-  <img src="./assets/visuals/current-chapter.svg" width="100%" alt="Learning roadmap: computer science fundamentals, secure systems, AI architecture and engineering practice" />
+  <img src="./assets/visuals/current-chapter.svg" width="100%" alt="Learning path through fundamentals, secure systems, AI architecture and engineering practice" />
 </p>
 
-Currently focused on strengthening programming and computer science fundamentals, exploring cybersecurity and secure software design, learning more about AI systems, and improving project architecture and developer workflows.
+Strengthening computer science fundamentals, exploring cybersecurity and secure software design, learning more about AI systems, and improving architecture and engineering workflows.
 
-## 05 / GitHub activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/city-light.svg" width="100%" alt="Light-theme isometric city generated from my GitHub contribution activity" />
-</p>
+## 05 — ACTIVITY LOG
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=ffffff&title_color=267c72&icon_color=267c72&text_color=405466" height="165" alt="GitHub profile statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=ffffff&title_color=267c72&text_color=405466" height="165" alt="Most used programming languages on GitHub" />
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/city-light.svg" width="100%" alt="Contribution City — light isometric city generated from GitHub contribution activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=ffffff&ring=267c72&fire=bb8650&currStreakLabel=267c72&sideLabels=405466&dates=718496" width="80%" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=f7f2e8&title_color=2456d8&icon_color=e65b35&text_color=172b3c" height="165" alt="GitHub profile statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=f7f2e8&title_color=2456d8&text_color=172b3c" height="165" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=ffffff&color=405466&line=4f9b8d&point=bb8650&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=f7f2e8&ring=2456d8&fire=e65b35&currStreakLabel=2456d8&sideLabels=172b3c&dates=657781" width="80%" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=f7f2e8&color=172b3c&line=2456d8&point=e65b35&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-## 06 / Contact
+## 06 — FIND ME ELSEWHERE
 
-I'm open to thoughtful conversations, collaboration, and learning from other builders.
+For project discussions, technical conversations, or collaboration:
 
-| Channel | Details |
+| CHANNEL | CONTACT |
 |:--|:--|
 | Email | [omjoshi2307@gmail.com](mailto:omjoshi2307@gmail.com) |
 | Portfolio | [portfolio2307.vercel.app](https://portfolio2307.vercel.app/) |
-| GitHub | [@omjoshi-2307](https://github.com/omjoshi-2307) |
+| GitHub | [github.com/omjoshi-2307](https://github.com/omjoshi-2307) |
 | LinkedIn | [linkedin.com/in/0m-joshi2307](https://www.linkedin.com/in/0m-joshi2307/) |
 | X | [@omjoshi_2307](https://x.com/omjoshi_2307) |
 | Instagram | [@0m.a.joshi](https://www.instagram.com/0m.a.joshi/) |
 | Location | Pune, India |
 
 <p align="center">
-  <strong>Thanks for visiting my workspace.</strong><br />
-  <sub>Learn continuously. Build purposefully. Improve consistently.</sub>
+  <strong>THANK YOU FOR STOPPING BY.</strong><br />
+  <sub>LEARN WITH INTENT · BUILD WITH PURPOSE · KEEP ITERATING</sub>
 </p>
