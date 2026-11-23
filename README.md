@@ -113,15 +113,15 @@ Strengthening computer science fundamentals, exploring cybersecurity and secure 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=f7f2e8&title_color=2456d8&icon_color=e65b35&text_color=172b3c" width="100%" alt="GitHub profile statistics" />
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/profile-stats.svg" width="100%" alt="GitHub profile statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=f7f2e8&title_color=2456d8&text_color=172b3c" width="100%" alt="Most used programming languages" />
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/top-languages.svg" width="100%" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=f7f2e8&ring=2456d8&fire=e65b35&currStreakLabel=2456d8&sideLabels=172b3c&dates=657781" width="100%" alt="GitHub contribution streak" />
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/contribution-streak.svg" width="100%" alt="GitHub contribution streak" />
 </p>
 
 
