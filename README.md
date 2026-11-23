@@ -126,9 +126,9 @@ Currently focused on strengthening programming and computer science fundamentals
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/city-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/city-light.svg" />
+    <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/city-dark.svg" width="100%" alt="Isometric city built from my GitHub contributions" />
   </picture>
 </p>
 
