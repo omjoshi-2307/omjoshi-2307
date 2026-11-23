@@ -1,62 +1,140 @@
-<!-- Visual header: Capsule Render (no GitSkins branding) -->
+<!--
+  OM.DEV — Pixel Developer Studio
+  Custom profile README | V2
+-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=190&section=header&text=Om%20Arun%20Joshi&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=36" width="100%" alt="Om Arun Joshi profile header" />
+  <img
+    src="./assets/hero/workspace.svg"
+    alt="Om Arun Joshi's animated Pixel Developer Studio: a bright workspace with dual monitors and a pixel avatar"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Information+Technology+Engineering+Student;Exploring+technology;Building+practical+solutions;Learning+continuously" alt="Animated introduction" />
+  <strong>B.Tech Information Technology Student</strong>
+  <br />
+  <em>Driven by questions, guided by reason.</em>
+  <br />
+  <sub>CODE · EXPLORE · EXPERIMENT</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/omjoshi-2307">GitHub</a> ·
+  <a href="https://github.com/omjoshi-2307">GitHub</a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/0m-joshi2307/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/omjoshi_2307">X</a>
 </p>
 
 ---
 
-## About
+## 01 / Beyond the code
 
-I am an Information Technology engineering student interested in understanding how technology works and applying that knowledge to practical problems. I enjoy exploring new ideas, developing projects, and strengthening my foundations in computer science.
+I'm an Information Technology student who enjoys understanding how systems work and turning ideas into practical software. I like exploring unfamiliar concepts, experimenting with different technologies, and learning by building.
 
-## Technical Interests
+My interests span software engineering, cybersecurity, blockchain, artificial intelligence, and computer vision. I value thoughtful problem-solving, clear architecture, and continuous improvement.
 
-- Software Engineering
-- Cybersecurity
-- Blockchain Technology
-- Artificial Intelligence
+## 02 / Tools in my workspace
 
-## Technologies
+**Languages & web**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode&theme=dark" alt="Technologies: C, C++, Python, HTML, CSS, Git, GitHub and VS Code" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts" alt="C, C++, Python, HTML, CSS, JavaScript and TypeScript" />
 </p>
 
-## Selected Work
+**Development tools**
 
-- **[SureD](https://github.com/Khushal-93/SureD)** — A blockchain-based rental security deposit platform focused on transparent deposit handling.
-- **[Jal-Sanchaee-Navachar V2](https://github.com/omjoshi-2307/jal-sanchaee-navachar-v2)** — A smart irrigation planning and community water-credit project.
-- **DepthWizard** — A single-view height-estimation and 3D-flythrough concept for disaster-management use cases.
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak" width="70%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,nodejs,fastapi,docker,postgres" alt="Git, GitHub, VS Code, React, Node.js, FastAPI, Docker and PostgreSQL" />
 </p>
 
-## Currently Focused On
+*Tools shown represent technologies I've used or explored across my work; they aren't a claim of equal proficiency in every tool.*
 
-- Strengthening programming and computer science fundamentals
-- Exploring cybersecurity concepts
-- Building and improving practical projects
+## 03 / Selected work
+
+A selection of projects and concepts across different areas of technology.
+
+### 01. [SureD](https://github.com/Khushal-93/SureD)
+**Blockchain · Rental security deposits**
+
+A blockchain-based rental security deposit platform focused on transparent escrow, deposit handling, and multi-party coordination.
+
+[Live application](https://sure-d.vercel.app/)
+
+### 02. [GSoC Org Finder](https://github.com/omjoshi-2307/GSoC-Org-Finder-)
+**Software engineering · API integration**
+
+A developer-focused platform for discovering, filtering, and comparing Google Summer of Code organizations, with organization details and GitHub issue discovery.
+
+[Open the platform](https://findmygsoc.vercel.app/)
+
+### 03. [CivicLoop](https://github.com/omjoshi-2307/CivicLoop)
+**Civic technology · System architecture**
+
+*Complaints That Don't Disappear.*
+
+A civic grievance platform being developed around transparent complaint tracking, public status updates, and accountable resolution workflows.
+
+### 04. [Jal-Sanchaee-Navachar](https://github.com/omjoshi-2307/jal-sanchaee-navachar-v2)
+**Smart irrigation · Water management**
+
+A water-conservation project exploring irrigation planning and community water credits through rule-based decisions and weather-informed inputs. Its repository history represents iterations of the same project.
+
+### 05. [DEV](https://github.com/omjoshi-2307/Dev)
+**Hybrid AI · Model architecture**
+
+An ongoing exploration of a personal AI assistant architecture, including local and cloud model integration, model routing, and privacy-aware execution.
+
+### 06. DepthWizard
+**Computer vision · 3D visualization concept**
+
+A single-view height-estimation and 3D flythrough concept. Its proposed pipeline moves from an RGB image to depth estimation, a depth map, a digital surface model, and a 3D visualization.
+
+---
+
+## 04 / Current chapter
+
+Currently focused on:
+
+- Strengthening programming and computer science fundamentals.
+- Exploring cybersecurity and secure software design.
+- Learning more about AI systems and model architectures.
+- Improving project architecture, APIs, and developer workflows.
+
+I believe progress comes from asking better questions, testing ideas, and refining the result.
+
+## 05 / GitHub activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&theme=transparent&title_color=347f78&icon_color=347f78&text_color=526b70"
+    height="165"
+    alt="GitHub profile statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&theme=transparent&title_color=347f78&text_color=526b70"
+    height="165"
+    alt="Most used programming languages on GitHub"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=ffffff00&color=347f78&line=65b7a8&point=d99a72&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
 
 ---
 
 <p align="center">
+  <strong>Thanks for visiting my workspace.</strong>
+  <br />
   <sub>Learn continuously. Build purposefully. Improve consistently.</sub>
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=100&section=footer" width="100%" alt="Decorative profile footer" />
+  <a href="https://github.com/omjoshi-2307">Explore my repositories ↗</a>
 </p>
