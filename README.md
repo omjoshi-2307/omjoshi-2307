@@ -11,23 +11,6 @@
   <em>Driven by questions, guided by reason.</em>
 </p>
 
-<p align="center">
-  <a href="https://portfolio2307.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-2456D8?style=flat-square&labelColor=172B3C" alt="Portfolio" /></a>
-  <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-E65B35?style=flat-square&labelColor=172B3C" alt="Email" /></a>
-  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-172B3C?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/0m-joshi2307/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2456D8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X-FOLLOW-172B3C?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/0m.a.joshi/"><img src="https://img.shields.io/badge/INSTAGRAM-VISIT-B95F3B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
-<p align="center">
-  <sub>BASED IN PUNE, INDIA &nbsp;·&nbsp; <a href="mailto:omjoshi2307@gmail.com">OMJOSHI2307@GMAIL.COM</a></sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omjoshi-2307&style=flat-square&color=2456d8&label=PROFILE+VISITS" alt="Profile views" />
-</p>
-
 ---
 
 ## 01 — PROFILE
