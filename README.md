@@ -143,24 +143,36 @@ Strengthening computer science fundamentals, exploring cybersecurity and secure 
 ## 06 — FIND ME ELSEWHERE
 
 <p align="center">
-  <img src="./assets/visuals/contact-network.svg" width="100%" alt="Illustrated contact network connecting email, portfolio, GitHub and professional networks" />
-</p>
-
-<p align="center">
   <sub>HAVE A PROJECT IN MIND? WANT TO EXCHANGE IDEAS?</sub><br />
-  <strong>Pick a channel and let's connect.</strong>
+  <strong>Choose your preferred channel.</strong>
 </p>
 
-<p align="center">
-  <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/EMAIL-172B3C?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio2307.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-2456D8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GITHUB-172B3C?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/0m-joshi2307/"><img src="https://img.shields.io/badge/LINKEDIN-2456D8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X-172B3C?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/0m.a.joshi/"><img src="https://img.shields.io/badge/INSTAGRAM-B95F3B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="mailto:omjoshi2307@gmail.com"><img src="./assets/contact/email.svg" width="100%" alt="Email — send a message" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://portfolio2307.vercel.app/"><img src="./assets/contact/portfolio.svg" width="100%" alt="Portfolio — explore my work" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/omjoshi-2307"><img src="./assets/contact/github.svg" width="100%" alt="GitHub — browse repositories" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.linkedin.com/in/0m-joshi2307/"><img src="./assets/contact/linkedin.svg" width="100%" alt="LinkedIn — connect professionally" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://x.com/omjoshi_2307"><img src="./assets/contact/x.svg" width="100%" alt="X — follow updates" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.instagram.com/0m.a.joshi/"><img src="./assets/contact/instagram.svg" width="100%" alt="Instagram — find me on Instagram" /></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>📍 PUNE, INDIA &nbsp;·&nbsp; OPEN TO TECHNICAL CONVERSATIONS</sub>
