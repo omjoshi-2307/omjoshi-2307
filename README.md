@@ -125,7 +125,11 @@ Currently focused on strengthening programming and computer science fundamentals
 ## 05 / GitHub activity
 
 <p align="center">
-  <img src="./assets/visuals/github-contribution-snake.svg" width="100%" alt="Animated snake tracing my GitHub contribution calendar" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+  </picture>
 </p>
 
 <p align="center">
