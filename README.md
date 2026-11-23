@@ -112,16 +112,13 @@ Strengthening computer science fundamentals, exploring cybersecurity and secure 
   <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/city-dark.svg" width="100%" alt="Midnight Skyline — dark navy isometric city with neon cyan and electric-blue buildings generated from GitHub contribution activity" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=f7f2e8&title_color=2456d8&icon_color=e65b35&text_color=172b3c" width="100%" alt="GitHub profile statistics" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=f7f2e8&title_color=2456d8&text_color=172b3c" width="100%" alt="Most used programming languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=f7f2e8&title_color=2456d8&icon_color=e65b35&text_color=172b3c" width="100%" alt="GitHub profile statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=f7f2e8&title_color=2456d8&text_color=172b3c" width="100%" alt="Most used programming languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=f7f2e8&ring=2456d8&fire=e65b35&currStreakLabel=2456d8&sideLabels=172b3c&dates=657781" width="100%" alt="GitHub contribution streak" />
