@@ -113,15 +113,15 @@ Strengthening computer science fundamentals, exploring cybersecurity and secure 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/profile-stats.svg" width="100%" alt="GitHub profile statistics" />
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/profile-stats.svg?v=3a93ee2" width="100%" alt="GitHub profile statistics" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/top-languages.svg" width="100%" alt="Most used programming languages" />
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/top-languages.svg?v=3a93ee2" width="100%" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/contribution-streak.svg" width="100%" alt="GitHub contribution streak" />
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/contribution-streak.svg?v=3a93ee2" width="100%" alt="GitHub contribution streak" />
 </p>
 
 
