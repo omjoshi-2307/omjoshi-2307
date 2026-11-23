@@ -127,9 +127,6 @@ Strengthening computer science fundamentals, exploring cybersecurity and secure 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=f7f2e8&ring=2456d8&fire=e65b35&currStreakLabel=2456d8&sideLabels=172b3c&dates=657781" width="100%" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=f7f2e8&color=172b3c&line=2456d8&point=e65b35&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
 
 ---
 
