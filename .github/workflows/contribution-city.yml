@@ -28,7 +28,11 @@ jobs:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: profile
-          height-mode: linear
+          layout: downtown
+          height-preset: tall
+          height-mode: sqrt
+          building-style: detailed
+          view-angle: high
           background: transparent
           output: dist/city-dark.svg
 
@@ -38,7 +42,11 @@ jobs:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: profile-light
-          height-mode: linear
+          layout: downtown
+          height-preset: tall
+          height-mode: sqrt
+          building-style: detailed
+          view-angle: high
           background: transparent
           output: dist/city-light.svg
 
