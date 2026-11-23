@@ -42,6 +42,13 @@ jobs:
           background: transparent
           output: dist/city-light.svg
 
+      - name: Normalize generated SVG bounds
+        run: |
+          set -euo pipefail
+          for file in dist/city-dark.svg dist/city-light.svg; do
+            sed -i '0,/<svg /s//<svg preserveAspectRatio="xMidYMid meet" overflow="hidden" /' "$file"
+          done
+
       - name: Publish to the output branch
         run: |
           set -euo pipefail
