@@ -125,6 +125,10 @@ Currently focused on strengthening programming and computer science fundamentals
 ## 05 / GitHub activity
 
 <p align="center">
+  <img src="./assets/visuals/github-contribution-snake.svg" width="100%" alt="Animated snake tracing my GitHub contribution calendar" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&theme=transparent&title_color=347f78&icon_color=347f78&text_color=526b70" height="165" alt="GitHub profile statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&theme=transparent&title_color=347f78&text_color=526b70" height="165" alt="Most used programming languages on GitHub" />
 </p>
