@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
 
       - name: Generate dark city
-        uses: partialHuman/contribution-city@v1
+        uses: partialHuman/contribution-city@dfa6a41f7adec37fd83171fbe15aa1d83fd4e5bb
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -33,7 +33,7 @@ jobs:
           output: dist/city-dark.svg
 
       - name: Generate light city
-        uses: partialHuman/contribution-city@v1
+        uses: partialHuman/contribution-city@dfa6a41f7adec37fd83171fbe15aa1d83fd4e5bb
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
