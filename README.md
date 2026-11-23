@@ -155,18 +155,15 @@ Strengthening computer science fundamentals, exploring cybersecurity and secure 
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/omjoshi-2307"><img src="./assets/contact/github.svg" width="100%" alt="GitHub — browse repositories" /></a>
-    </td>
-    <td width="50%" align="center">
       <a href="https://www.linkedin.com/in/0m-joshi2307/"><img src="./assets/contact/linkedin.svg" width="100%" alt="LinkedIn — connect professionally" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://x.com/omjoshi_2307"><img src="./assets/contact/x.svg" width="100%" alt="X — follow updates" /></a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://www.instagram.com/0m.a.joshi/"><img src="./assets/contact/instagram.svg" width="100%" alt="Instagram — find me on Instagram" /></a>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://www.instagram.com/0m.a.joshi/"><img src="./assets/contact/instagram.svg" width="50%" alt="Instagram — find me on Instagram" /></a>
     </td>
   </tr>
 </table>
