@@ -1,12 +1,10 @@
-<!-- Profile visual: GitSkins -->
+<!-- Visual header: Capsule Render (no GitSkins branding) -->
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=omjoshi-2307&theme=github-dark&style=aura" alt="Om Arun Joshi — GitHub profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=190&section=header&text=Om%20Arun%20Joshi&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=36" width="100%" alt="Om Arun Joshi profile header" />
 </p>
 
-<h1 align="center">Om Arun Joshi</h1>
 <p align="center">
-  <strong>Information Technology Engineering Student</strong><br/>
-  Exploring technology · Building practical solutions · Learning continuously
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Information+Technology+Engineering+Student;Exploring+technology;Building+practical+solutions;Learning+continuously" alt="Animated introduction" />
 </p>
 
 <p align="center">
@@ -30,7 +28,7 @@ I am an Information Technology engineering student interested in understanding h
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode&theme=light" alt="Technologies: C, C++, Python, HTML, CSS, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode&theme=dark" alt="Technologies: C, C++, Python, HTML, CSS, Git, GitHub and VS Code" />
 </p>
 
 ## Selected Work
@@ -39,11 +37,13 @@ I am an Information Technology engineering student interested in understanding h
 - **[Jal-Sanchaee-Navachar V2](https://github.com/omjoshi-2307/jal-sanchaee-navachar-v2)** — A smart irrigation planning and community water-credit project.
 - **DepthWizard** — A single-view height-estimation and 3D-flythrough concept for disaster-management use cases.
 
-## GitHub Overview
+## GitHub Activity
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=omjoshi-2307&theme=github-dark" alt="GitHub statistics for Om Arun Joshi" width="49%" />
-  <img src="https://www.gitskins.com/api/section/stack?username=omjoshi-2307&theme=github-dark" alt="GitHub language and technology overview" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak" width="70%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
 ## Currently Focused On
@@ -56,4 +56,7 @@ I am an Information Technology engineering student interested in understanding h
 
 <p align="center">
   <sub>Learn continuously. Build purposefully. Improve consistently.</sub>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=100&section=footer" width="100%" alt="Decorative profile footer" />
 </p>
