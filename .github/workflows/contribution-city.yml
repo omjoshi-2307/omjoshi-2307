@@ -22,34 +22,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
 
-      - name: Generate dark blueprint
+      - name: Generate midnight skyline
         uses: partialHuman/contribution-city@dfa6a41f7adec37fd83171fbe15aa1d83fd4e5bb
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: profile
-          layout: wireframe
-          height-preset: standard
-          height-mode: log
+          theme: neon-harbor
+          layout: downtown
+          height-preset: tall
+          height-mode: sqrt
           building-style: detailed
-          view-angle: top-down
+          view-angle: high
           background: transparent
-          title: "OM JOSHI / CONTRIBUTION ATLAS"
           output: dist/city-dark.svg
 
-      - name: Generate light blueprint
+      - name: Generate light city fallback
         uses: partialHuman/contribution-city@dfa6a41f7adec37fd83171fbe15aa1d83fd4e5bb
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: profile-light
-          layout: wireframe
-          height-preset: standard
-          height-mode: log
+          layout: downtown
+          height-preset: tall
+          height-mode: sqrt
           building-style: detailed
-          view-angle: top-down
+          view-angle: high
           background: transparent
-          title: "OM JOSHI / CONTRIBUTION ATLAS"
           output: dist/city-light.svg
 
       - name: Normalize generated SVG bounds
