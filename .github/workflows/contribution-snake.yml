@@ -1,9 +1,12 @@
-name: Generate contribution graph
+name: Generate contribution snake
 
 on:
   schedule:
     - cron: "17 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -15,13 +18,17 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: omjoshi-2307
           outputs: |
-            assets/visuals/github-contribution-snake.svg
-            assets/visuals/github-contribution-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit contribution graph
-        uses: EndBug/add-and-commit@v9
+      - name: Publish generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          message: "chore: update GitHub contribution graph"
-          add: "assets/visuals/github-contribution-snake.svg assets/visuals/github-contribution-snake-dark.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
