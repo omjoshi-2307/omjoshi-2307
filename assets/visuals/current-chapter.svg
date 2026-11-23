@@ -1,5 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="t d">
-<title id="t">Current learning chapter</title><desc id="d">Four connected learning themes: fundamentals, secure systems, AI architecture and engineering practice.</desc>
-<rect width="1000" height="190" rx="16" fill="#edf5f2"/><path d="M115 86H885" stroke="#8ca1b7" stroke-width="5" stroke-dasharray="8 8"/>
-<g font-family="Verdana,Arial,sans-serif" text-anchor="middle"><g><circle cx="125" cy="86" r="31" fill="#fffaf1"/><text x="125" y="93" fill="#fff" font-size="20">01</text><text x="125" y="143" fill="#294b4d" font-size="14" font-weight="bold">Fundamentals</text></g><g><circle cx="375" cy="86" r="31" fill="#2456d8"/><text x="375" y="93" fill="#fff" font-size="20">02</text><text x="375" y="143" fill="#294b4d" font-size="14" font-weight="bold">Secure Systems</text></g><g><circle cx="625" cy="86" r="31" fill="#6d75ad"/><text x="625" y="93" fill="#fff" font-size="20">03</text><text x="625" y="143" fill="#294b4d" font-size="14" font-weight="bold">AI Architecture</text></g><g><circle cx="875" cy="86" r="31" fill="#b17c50"/><text x="875" y="93" fill="#fff" font-size="20">04</text><text x="875" y="143" fill="#294b4d" font-size="14" font-weight="bold">Engineering Practice</text></g></g>
+<svg preserveAspectRatio="xMidYMid meet" overflow="hidden" xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" preserveAspectRatio="xMidYMid meet" overflow="hidden" role="img" aria-labelledby="t d">
+<title id="t">Current learning chapter</title>
+<desc id="d">Four connected learning themes: fundamentals, secure systems, AI architecture and engineering practice.</desc>
+<rect width="1000" height="190" rx="16" fill="#f7f2e8"/>
+<path d="M115 86H885" stroke="#c7bba8" stroke-width="5" stroke-dasharray="8 8"/>
+<g font-family="Verdana,Arial,sans-serif" text-anchor="middle">
+  <g><circle cx="125" cy="86" r="31" fill="#2456d8"/><text x="125" y="93" fill="#fffaf1" font-size="20">01</text><text x="125" y="143" fill="#172b3c" font-size="14" font-weight="bold">Fundamentals</text></g>
+  <g><circle cx="375" cy="86" r="31" fill="#172b3c"/><text x="375" y="93" fill="#fffaf1" font-size="20">02</text><text x="375" y="143" fill="#172b3c" font-size="14" font-weight="bold">Secure Systems</text></g>
+  <g><circle cx="625" cy="86" r="31" fill="#e65b35"/><text x="625" y="93" fill="#fffaf1" font-size="20">03</text><text x="625" y="143" fill="#172b3c" font-size="14" font-weight="bold">AI Architecture</text></g>
+  <g><circle cx="875" cy="86" r="31" fill="#657781"/><text x="875" y="93" fill="#fffaf1" font-size="20">04</text><text x="875" y="143" fill="#172b3c" font-size="14" font-weight="bold">Engineering Practice</text></g>
+</g>
 </svg>
