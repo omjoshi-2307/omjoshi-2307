@@ -25,7 +25,7 @@ I enjoy exploring ideas, learning new technologies, and turning concepts into us
 
 - **[SureD](https://github.com/Khushal-93/SureD)** — A blockchain-based rental security deposit platform designed to make deposit handling more transparent.
 - **[Jal-Sanchaee-Navachar V2](https://github.com/omjoshi-2307/jal-sanchaee-navachar-v2)** — A smart irrigation planning and community water-credit project.
-- **[DepthWizard](https://github.com/omjoshi-2307)** — Exploring single-view height estimation and 3D flythrough concepts for disaster-management use cases.
+- **DepthWizard** — A single-view height-estimation and 3D-flythrough concept for disaster-management use cases.
 
 ### Currently Focused On
 
