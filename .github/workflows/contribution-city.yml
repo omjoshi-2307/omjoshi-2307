@@ -33,6 +33,8 @@ jobs:
           height-mode: sqrt
           building-style: detailed
           view-angle: high
+          width: 2000
+          height: 1000
           background: transparent
           output: dist/city-dark.svg
 
@@ -47,6 +49,8 @@ jobs:
           height-mode: sqrt
           building-style: detailed
           view-angle: high
+          width: 2000
+          height: 1000
           background: transparent
           output: dist/city-light.svg
 
