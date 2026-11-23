@@ -109,7 +109,7 @@ Strengthening computer science fundamentals, exploring cybersecurity and secure 
 ## 05 — ACTIVITY LOG
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/city-light.svg" width="100%" alt="Contribution City — light isometric city generated from GitHub contribution activity" />
+  <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/city-dark.svg" width="100%" alt="Midnight Skyline — dark navy isometric city with neon cyan and electric-blue buildings generated from GitHub contribution activity" />
 </p>
 
 <table>
