@@ -1,0 +1,76 @@
+name: Generate Contribution City
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-city
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - name: Generate dark city
+        uses: partialHuman/contribution-city@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: profile
+          height-mode: linear
+          background: transparent
+          output: dist/city-dark.svg
+
+      - name: Generate light city
+        uses: partialHuman/contribution-city@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: profile-light
+          height-mode: linear
+          background: transparent
+          output: dist/city-light.svg
+
+      - name: Publish to the output branch
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git ls-remote --exit-code --heads origin output > /dev/null 2>&1; then
+            git fetch --depth=1 origin output
+            git worktree add ../output-branch origin/output
+            git -C ../output-branch checkout -B output
+          else
+            git worktree add --detach ../output-branch
+            git -C ../output-branch checkout --orphan output
+            git -C ../output-branch rm -rf --quiet . || true
+          fi
+
+          cp dist/city-dark.svg dist/city-light.svg ../output-branch/
+          cd ../output-branch
+          git add city-dark.svg city-light.svg
+          git rm -f --ignore-unmatch github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+
+          if git diff --staged --quiet; then
+            echo "City unchanged, nothing to publish."
+            exit 0
+          fi
+
+          if git rev-parse --verify --quiet HEAD > /dev/null; then
+            git commit --amend --quiet -m "chore: update contribution city [skip ci]"
+          else
+            git commit --quiet -m "chore: update contribution city [skip ci]"
+          fi
+          git push --force origin HEAD:output
