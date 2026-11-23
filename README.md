@@ -23,6 +23,8 @@ My current areas of curiosity include software engineering, cybersecurity, block
   <img src="./assets/visuals/technology-map.svg" width="100%" alt="Technology map connecting software engineering, cybersecurity, blockchain, AI and computer vision" />
 </p>
 
+---
+
 ## 02 — TOOLKIT
 
 **Languages**
@@ -94,6 +96,8 @@ A few projects and explorations across different problem spaces. Project descrip
 
 ---
 
+---
+
 ## 04 — CURRENT CHAPTER
 
 <p align="center">
@@ -102,24 +106,34 @@ A few projects and explorations across different problem spaces. Project descrip
 
 Strengthening computer science fundamentals, exploring cybersecurity and secure software design, learning more about AI systems, and improving architecture and engineering workflows.
 
+---
+
 ## 05 — ACTIVITY LOG
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/omjoshi-2307/omjoshi-2307/output/city-light.svg" width="100%" alt="Contribution City — light isometric city generated from GitHub contribution activity" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=f7f2e8&title_color=2456d8&icon_color=e65b35&text_color=172b3c" height="165" alt="GitHub profile statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=f7f2e8&title_color=2456d8&text_color=172b3c" height="165" alt="Most used programming languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=omjoshi-2307&show_icons=true&hide_border=true&bg_color=f7f2e8&title_color=2456d8&icon_color=e65b35&text_color=172b3c" width="100%" alt="GitHub profile statistics" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjoshi-2307&layout=compact&hide_border=true&bg_color=f7f2e8&title_color=2456d8&text_color=172b3c" width="100%" alt="Most used programming languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=f7f2e8&ring=2456d8&fire=e65b35&currStreakLabel=2456d8&sideLabels=172b3c&dates=657781" width="80%" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjoshi-2307&hide_border=true&background=f7f2e8&ring=2456d8&fire=e65b35&currStreakLabel=2456d8&sideLabels=172b3c&dates=657781" width="100%" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omjoshi-2307&bg_color=f7f2e8&color=172b3c&line=2456d8&point=e65b35&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
+
+---
 
 ---
 
