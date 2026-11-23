@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="t d">
+<svg preserveAspectRatio="xMidYMid meet" overflow="hidden" xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="t d">
 <title id="t">Om's technology interests map</title><desc id="d">A connected visual map linking software engineering, cybersecurity, blockchain, artificial intelligence and computer vision.</desc>
-<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4f8fc"/><stop offset="1" stop-color="#eaf2f8"/></linearGradient></defs>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f2e8"/><stop offset="1" stop-color="#eee5d6"/></linearGradient></defs>
 <rect width="1000" height="360" rx="18" fill="url(#b)"/>
-<g stroke="#9bbdb6" stroke-width="3" fill="none" opacity=".75"><path d="M500 178L210 88M500 178L790 88M500 178L210 270M500 178L790 270M500 178V42"/></g>
-<g font-family="Verdana,Arial,sans-serif" text-anchor="middle"><rect x="385" y="135" width="230" height="86" rx="12" fill="#ffffff" stroke="#2b8f83" stroke-width="3"/><text x="500" y="171" fill="#183448" font-size="23" font-weight="bold">OM.DEV</text><text x="500" y="194" fill="#607b89" font-size="11" letter-spacing="2">LEARN · BUILD · EXPLORE</text>
+<g stroke="#c7bba8" stroke-width="3" fill="none" opacity=".75"><path d="M500 178L210 88M500 178L790 88M500 178L210 270M500 178L790 270M500 178V42"/></g>
+<g font-family="Verdana,Arial,sans-serif" text-anchor="middle"><rect x="385" y="135" width="230" height="86" rx="12" fill="#ffffff" stroke="#2456d8" stroke-width="3"/><text x="500" y="171" fill="#172b3c" font-size="23" font-weight="bold">OM.DEV</text><text x="500" y="194" fill="#657781" font-size="11" letter-spacing="2">LEARN · BUILD · EXPLORE</text>
 <g><rect x="92" y="48" width="236" height="76" rx="10" fill="#ffffff" stroke="#2456d8" stroke-width="2"/><text x="210" y="93" fill="#183448" font-size="18">Software Engineering</text></g>
-<g><rect x="672" y="48" width="236" height="76" rx="10" fill="#ffffff" stroke="#e5a23b" stroke-width="2"/><text x="790" y="93" fill="#183448" font-size="18">Cybersecurity</text></g>
-<g><rect x="92" y="232" width="236" height="76" rx="10" fill="#ffffff" stroke="#2b8f83" stroke-width="2"/><text x="210" y="277" fill="#183448" font-size="18">Blockchain</text></g>
-<g><rect x="672" y="232" width="236" height="76" rx="10" fill="#ffffff" stroke="#6b59b6" stroke-width="2"/><text x="790" y="277" fill="#183448" font-size="18">Artificial Intelligence</text></g>
-<g><rect x="390" y="12" width="220" height="54" rx="10" fill="#ffffff" stroke="#e5a23b" stroke-width="2"/><text x="500" y="45" fill="#183448" font-size="17">Computer Vision</text></g></g>
-<g fill="#e5a23b"><circle cx="500" cy="178" r="7"><animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite"/></circle></g></svg>
+<g><rect x="672" y="48" width="236" height="76" rx="10" fill="#ffffff" stroke="#e65b35" stroke-width="2"/><text x="790" y="93" fill="#183448" font-size="18">Cybersecurity</text></g>
+<g><rect x="92" y="232" width="236" height="76" rx="10" fill="#ffffff" stroke="#2456d8" stroke-width="2"/><text x="210" y="277" fill="#183448" font-size="18">Blockchain</text></g>
+<g><rect x="672" y="232" width="236" height="76" rx="10" fill="#ffffff" stroke="#e65b35" stroke-width="2"/><text x="790" y="277" fill="#183448" font-size="18">Artificial Intelligence</text></g>
+<g><rect x="390" y="12" width="220" height="54" rx="10" fill="#ffffff" stroke="#e65b35" stroke-width="2"/><text x="500" y="45" fill="#183448" font-size="17">Computer Vision</text></g></g>
+<g fill="#e65b35"><circle cx="500" cy="178" r="7"><animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite"/></circle></g></svg>
