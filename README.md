@@ -144,6 +144,10 @@ Strengthening computer science fundamentals, exploring cybersecurity and secure 
 
 For project discussions, technical conversations, or collaboration:
 
+<p align="center">
+  <img src="./assets/visuals/contact-network.svg" width="100%" alt="Illustrated contact network connecting email, portfolio, GitHub and professional networks" />
+</p>
+
 | CHANNEL | CONTACT |
 |:--|:--|
 | Email | [omjoshi2307@gmail.com](mailto:omjoshi2307@gmail.com) |
