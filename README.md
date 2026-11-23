@@ -148,15 +148,25 @@ For project discussions, technical conversations, or collaboration:
   <img src="./assets/visuals/contact-network.svg" width="100%" alt="Illustrated contact network connecting email, portfolio, GitHub and professional networks" />
 </p>
 
-| CHANNEL | CONTACT |
-|:--|:--|
-| Email | [omjoshi2307@gmail.com](mailto:omjoshi2307@gmail.com) |
-| Portfolio | [portfolio2307.vercel.app](https://portfolio2307.vercel.app/) |
-| GitHub | [github.com/omjoshi-2307](https://github.com/omjoshi-2307) |
-| LinkedIn | [linkedin.com/in/0m-joshi2307](https://www.linkedin.com/in/0m-joshi2307/) |
-| X | [@omjoshi_2307](https://x.com/omjoshi_2307) |
-| Instagram | [@0m.a.joshi](https://www.instagram.com/0m.a.joshi/) |
-| Location | Pune, India |
+<p align="center">
+  <a href="mailto:omjoshi2307@gmail.com"><img src="https://img.shields.io/badge/✉%20EMAIL-SAY%20HELLO-E65B35?style=for-the-badge&labelColor=172B3C" alt="Email" /></a>
+  &nbsp;
+  <a href="https://portfolio2307.vercel.app/"><img src="https://img.shields.io/badge/↗%20PORTFOLIO-EXPLORE-2456D8?style=for-the-badge&labelColor=172B3C" alt="Portfolio" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/omjoshi-2307"><img src="https://img.shields.io/badge/GITHUB-VISIT%20PROFILE-172B3C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/0m-joshi2307/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2456D8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+<p align="center">
+  <a href="https://x.com/omjoshi_2307"><img src="https://img.shields.io/badge/X-FOLLOW-172B3C?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/0m.a.joshi/"><img src="https://img.shields.io/badge/INSTAGRAM-VISIT-B95F3B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <sub>📍 PUNE, INDIA &nbsp;·&nbsp; OPEN TO TECHNICAL CONVERSATIONS AND COLLABORATION</sub>
+</p>
 
 <p align="center">
   <strong>THANK YOU FOR STOPPING BY.</strong><br />
