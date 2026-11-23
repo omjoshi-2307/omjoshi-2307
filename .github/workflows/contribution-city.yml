@@ -61,6 +61,51 @@ jobs:
             sed -i '0,/<svg /s//<svg preserveAspectRatio="xMidYMid meet" overflow="hidden" /' "$file"
           done
 
+      - name: Fetch and enlarge activity card typography
+        run: |
+          set -euo pipefail
+          mkdir -p dist
+          curl -fsSL --retry 3 --retry-delay 2 "https://github-readme-stats.vercel.app/api?username=${GITHUB_REPOSITORY_OWNER}&show_icons=true&hide_border=true&bg_color=f7f2e8&title_color=2456d8&icon_color=e65b35&text_color=172b3c" -o dist/profile-stats.svg
+          curl -fsSL --retry 3 --retry-delay 2 "https://github-readme-stats.vercel.app/api/top-langs/?username=${GITHUB_REPOSITORY_OWNER}&layout=compact&hide_border=true&bg_color=f7f2e8&title_color=2456d8&text_color=172b3c" -o dist/top-languages.svg
+          curl -fsSL --retry 3 --retry-delay 2 "https://github-readme-streak-stats.herokuapp.com/?user=${GITHUB_REPOSITORY_OWNER}&hide_border=true&background=f7f2e8&ring=2456d8&fire=e65b35&currStreakLabel=2456d8&sideLabels=172b3c&dates=657781" -o dist/contribution-streak.svg
+
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          
+          files = [
+              Path("dist/profile-stats.svg"),
+              Path("dist/top-languages.svg"),
+              Path("dist/contribution-streak.svg"),
+          ]
+          factor = 1.22
+          
+          for path in files:
+              svg = path.read_text(encoding="utf-8")
+              if "<svg" not in svg or "</svg>" not in svg:
+                  raise SystemExit(f"Invalid SVG response: {path}")
+              
+              def scale(match):
+                  value = float(match.group(2))
+                  return match.group(1) + f"{value * factor:.2f}" + match.group(3)
+              
+              # Scale CSS declarations and presentation attributes without changing layout geometry.
+              svg = re.sub(
+                  r"(font-size\\s*:\\s*)([0-9]+(?:\\.[0-9]+)?)(px|pt|em|rem)",
+                  scale,
+                  svg,
+                  flags=re.IGNORECASE,
+              )
+              svg = re.sub(
+                  r'(font-size=")([0-9]+(?:\\.[0-9]+)?)(")',
+                  scale,
+                  svg,
+                  flags=re.IGNORECASE,
+              )
+              path.write_text(svg, encoding="utf-8")
+              print(f"Enlarged typography by {int((factor - 1) * 100)}%: {path}")
+          PY
+
       - name: Publish to the output branch
         run: |
           set -euo pipefail
@@ -77,9 +122,9 @@ jobs:
             git -C ../output-branch rm -rf --quiet . || true
           fi
 
-          cp dist/city-dark.svg dist/city-light.svg ../output-branch/
+          cp dist/city-dark.svg dist/city-light.svg dist/profile-stats.svg dist/top-languages.svg dist/contribution-streak.svg ../output-branch/
           cd ../output-branch
-          git add city-dark.svg city-light.svg
+          git add city-dark.svg city-light.svg profile-stats.svg top-languages.svg contribution-streak.svg
           git rm -f --ignore-unmatch github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
 
           if git diff --staged --quiet; then
